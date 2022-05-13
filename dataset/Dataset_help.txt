@@ -13,8 +13,8 @@ area_de_trabajo:(entero) se refiere a la categoria general del trabajador.
                 6 = Electronica.
                 7 = Plomeria.
                 8 = Entretenimiento.
-                9 = 
-                10 = 
+                9 = Chapisteria.
+                10 = Ebanisteria.
 tipo_educacion:(entero) Referente a como obtuvo su conocimiento, puede ser 1 = profesional o 2 = autodidacta.
 trabajos_aceptados:(entero) total de todos los trabajos aceptados hasta la fecha, incluidos los que han sido cancelados despues de aceptarlos.
 tabajos_terminados:(entero) total de trabajos confirmados como terminados.

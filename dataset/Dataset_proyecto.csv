@@ -1,1001 +1,1001 @@
-id_trabajador,nombre_completo,direccion,area_de_trabajo,tipo_educacion,trabajos_aceptados,trabajos_terminados,trabajos_rechazados,trabajos_en_curso,indice_productividad,calificacion_general,seguidores,Especialidades
-1,Jackie Gorini,09 Lerdahl Crossing,Geologist I,profesional,1517,787,3193,730,58.29,0.02,2739,SAP BI
-2,Lewes Wilflinger,72996 Schmedeman Crossing,Tax Accountant,profesional,1136,410,2404,726,9.73,2.38,3894,MySQL Cluster
-3,Joice Gyer,94 Village Road,Budget/Accounting Analyst III,autodidacta,157,56,2363,101,84.5,1.51,2870,Women Owned Business
-4,Glennis Quakley,0454 Old Shore Point,Professor,autodidacta,1926,172,3313,1754,76.81,1.96,4496,Workplace Violence
-5,Timmi Dykes,1 Center Pass,Product Engineer,profesional,2684,1580,3558,1104,39.34,3.21,643,Windows XP
-6,Blanch Patroni,1 Northridge Road,Systems Administrator I,profesional,1948,279,3749,1669,96.64,3.28,4578,NLog
-7,Renae Tinniswood,34631 Di Loreto Parkway,Administrative Assistant IV,profesional,2826,16,2727,2810,18.05,4.77,3405,Electrical Design
-8,Saunderson Thomke,494 La Follette Junction,Recruiting Manager,autodidacta,1530,115,3412,1415,30.95,3.07,2937,OOP
-9,Hall McDougald,391 Dapin Street,Compensation Analyst,profesional,3189,860,3127,2329,58.83,2.31,1198,RCFA
-10,Der Gluyas,0773 Blaine Plaza,Automation Specialist III,profesional,1762,1639,3033,123,46.29,2.92,1478,Aerospace Engineering
-11,Dore Clempton,13410 Anderson Way,Sales Representative,autodidacta,863,806,2611,57,0.9,4.57,983,RMADS
-12,Torrie Farquar,3533 Johnson Junction,Assistant Media Planner,profesional,3007,1388,2271,1619,22.51,2.64,2382,DMMs
-13,Maighdiln Stitson,83 Boyd Parkway,Help Desk Operator,profesional,2088,547,2154,1541,17.21,3.7,1110,Ministry Of Defence
-14,Alfons Mewrcik,7569 Granby Way,Accountant I,autodidacta,514,43,1541,471,69.22,2.24,1474,WBS
-15,Ernest Lorkin,52 Forest Dale Crossing,Graphic Designer,autodidacta,1646,244,2118,1402,72.62,3.39,334,Board Development
-16,Jorie Riby,5534 Thompson Junction,Database Administrator II,autodidacta,484,80,3264,404,31.2,2.72,2659,Loan Origination
-17,Madalena Grishakov,949 Haas Parkway,Help Desk Technician,profesional,3054,2859,2066,195,77.2,0.92,1585,Zultys
-18,Doralynn Ludwikiewicz,58 Thierer Way,Research Assistant II,autodidacta,542,275,1605,267,33.5,3.79,642,nMarket
-19,Marchall Trustram,48627 Warner Drive,Recruiting Manager,profesional,3648,1246,3353,2402,87.41,0.94,2184,HR Transformation
-20,Zedekiah Castelli,35429 Hazelcrest Way,Assistant Professor,profesional,1712,392,2125,1320,9.31,2.3,2717,Higher Education
-21,Tawsha McCandless,3 Chinook Hill,Social Worker,profesional,553,340,2684,213,24.72,1.74,3613,OOH
-22,Cammy Etteridge,3 Messerschmidt Trail,Engineer I,autodidacta,814,56,15,758,88.94,4.46,4151,RPR
-23,Adolf Entreis,18 Elka Court,Financial Analyst,autodidacta,3662,1407,872,2255,46.68,2.1,1370,CFTC
-24,Leeanne Dowling,7 Granby Terrace,Sales Associate,profesional,778,232,1747,546,54.78,2.92,3814,RHCE
-25,Padget Martel,7239 Schiller Drive,Occupational Therapist,autodidacta,832,96,479,736,24.74,1.82,3018,BPF
-26,Tobey Rowberry,38146 Truax Center,Marketing Manager,autodidacta,9,6,2457,3,37.88,1.79,2030,Swift
-27,Freddy Bottom,2 Beilfuss Park,Internal Auditor,profesional,2248,572,3389,1676,1.54,4.92,1641,Plant Identification
-28,Sherwynd Record,0205 Lillian Point,Accounting Assistant I,profesional,1744,365,1148,1379,36.61,1.14,58,JSTL
-29,Sterne Fludder,97593 Lukken Lane,Analyst Programmer,profesional,1963,1616,319,347,56.6,1.45,3232,AHWD
-30,Giorgi Ferron,8867 Rigney Avenue,Environmental Tech,profesional,2496,2301,3545,195,11.12,0.27,1412,Client Aquisition
-31,Livvy Rice,92 Bartelt Junction,Office Assistant III,profesional,364,337,1164,27,25.75,3.48,1372,Yahoo Search
-32,Darrin Finney,31215 Kinsman Way,Tax Accountant,autodidacta,3238,453,1496,2785,50.24,2.35,3145,WDM
-33,Fawnia Waber,71827 Algoma Lane,Occupational Therapist,profesional,484,408,256,76,73.35,1.18,3170,Fertilizers
-34,Lewiss Carslaw,84230 Orin Point,Safety Technician III,autodidacta,216,94,2628,122,44.1,3.37,3184,AOI
-35,Cynthea Barok,54 Hansons Avenue,Chief Design Engineer,profesional,292,281,2182,11,9.87,0.2,2501,GNU Make
-36,Irvine Wilfing,88 Schiller Park,Payment Adjustment Coordinator,profesional,814,803,2114,11,12.92,1.89,2956,WHMIS
-37,Kleon Clows,504 Tennyson Hill,Software Consultant,autodidacta,1006,17,396,989,39.9,4.07,2632,Water Features
-38,Stephanus Ilyinykh,6 Hauk Drive,Structural Analysis Engineer,profesional,148,141,991,7,4.56,2.39,1420,IBM XIV
-39,Zola Turbill,41131 Shopko Park,Account Executive,profesional,1856,783,1325,1073,7.24,0.22,3270,Front-end
-40,Massimiliano Gruszka,6 Bultman Drive,Sales Associate,profesional,3512,2824,3809,688,61.87,0.32,4715,Myriad
-41,Burtie Gutowska,6 Pennsylvania Hill,Data Coordiator,autodidacta,3444,865,3591,2579,45.35,0.98,4790,Dispute Resolution
-42,Graham Perrin,65182 Sommers Plaza,Nurse,autodidacta,2541,2534,3159,7,9.51,0.72,183,After Effects
-43,Adolphe Judd,57 Pepper Wood Junction,Community Outreach Specialist,autodidacta,3517,1802,2497,1715,25.35,3.97,4309,Cinematography
-44,Hayes Jaquest,89 Old Gate Hill,Financial Analyst,profesional,2705,1629,1264,1076,46.41,3.43,258,Architectural Drawings
-45,Maddie Loachhead,6 Westerfield Hill,Mechanical Systems Engineer,profesional,2373,1395,369,978,13.46,2.19,3427,GNU C
-46,Margalo Caveill,0668 Mayer Parkway,Web Developer III,autodidacta,2607,996,2579,1611,4.55,1.29,4854,OCR
-47,Nicko Kinningley,3 Prairie Rose Street,Civil Engineer,autodidacta,3284,1780,1650,1504,45.61,2.8,682,Bathrooms
-48,Anatol Polly,17718 Utah Court,Software Test Engineer I,profesional,426,337,1063,89,45.76,1.23,3130,MDS
-49,Farrel Fawdry,5712 Fair Oaks Junction,Editor,autodidacta,3067,90,3092,2977,87.79,2.26,538,Judo
-50,Israel Ilden,96 Dexter Circle,Health Coach I,profesional,1211,599,1116,612,97.95,4.6,4540,DSE Assessments
-51,Nancy Snasel,096 North Terrace,Physical Therapy Assistant,profesional,74,51,3693,23,38.27,0.51,1042,Prototype.js
-52,Ulla Breydin,1 Sutherland Lane,Community Outreach Specialist,autodidacta,490,72,1973,418,31.43,2.07,1475,Blackberry
-53,Mercie Warrell,999 Dawn Way,Assistant Media Planner,autodidacta,3045,819,2106,2226,57.85,4.11,1339,RFP Design
-54,Mireille Chastand,98603 Florence Avenue,Chief Design Engineer,profesional,3466,169,923,3297,68.73,1.62,3417,IAR
-55,Leroy Spurman,1 Bowman Lane,Chief Design Engineer,profesional,2050,169,875,1881,36.21,1.33,3572,Xcalibur
-56,Ebonee McRobb,4178 Trailsway Terrace,Registered Nurse,profesional,2030,412,2644,1618,11.09,2.44,4788,Xbox
-57,Maribeth Pendrid,0 Old Shore Court,Staff Scientist,profesional,406,6,416,400,78.33,0.14,1070,Cardiology
-58,Urban Colleymore,0291 Barnett Point,Marketing Assistant,profesional,2536,2388,2573,148,84.25,3.15,1403,NDDS
-59,Rickie Jacquemot,39 Bunting Avenue,Design Engineer,autodidacta,723,464,2715,259,36.36,3.47,2254,Business Process
-60,Hyacinthia Spridgeon,52 American Plaza,Pharmacist,profesional,3874,3119,1799,755,53.98,2.13,3115,IT Outsourcing
-61,Germayne Ellson,769 Michigan Court,Legal Assistant,autodidacta,3603,1673,150,1930,9.15,0.96,4878,Branding
-62,Farrand Wayper,34 Mayfield Road,Programmer I,autodidacta,1072,46,3480,1026,52.07,1.96,3319,Canon DSLR
-63,Jethro Bevir,19520 Mcbride Junction,Recruiter,profesional,1375,1137,273,238,31.05,2.92,1230,Rolling Stock
-64,Nilson Vitte,1804 Banding Pass,Recruiter,profesional,1348,730,3163,618,42.91,1.57,2877,NLP
-65,Torrence Piatto,03 Gateway Center,Financial Advisor,profesional,1609,1478,2676,131,56.24,2.45,2697,Electronic Trading
-66,Vera O'Cosgra,1 Marcy Junction,Nurse,profesional,61,20,104,41,76.72,0.13,733,RUP
-67,Nerita Dioniso,99223 Rowland Point,Dental Hygienist,autodidacta,1600,804,2046,796,67.05,2.26,3331,TV Distribution
-68,Carolin Durrell,39036 American Lane,Mechanical Systems Engineer,profesional,1305,797,481,508,23.88,3.92,2186,TCF
-69,Brand Mingardi,30181 Del Sol Junction,VP Product Management,profesional,1501,857,1409,644,46.69,4.69,3534,Fine Art
-70,Hermann Chatto,77277 Burning Wood Park,Account Representative II,autodidacta,3116,284,1416,2832,86.04,4.88,4227,LyX
-71,Marcelia Langeley,68 Logan Avenue,Analog Circuit Design manager,autodidacta,945,574,3491,371,87.49,1.49,2142,Shipping
-72,Caria Aphale,24 Randy Pass,Sales Associate,profesional,3442,1215,465,2227,8.06,2.27,1305,Genomics
-73,Jarrid Cann,82 Nevada Pass,Operator,autodidacta,554,368,2324,186,9.62,0.02,3560,XSL-FO
-74,Elna Clementi,9 Sheridan Drive,Biostatistician II,profesional,66,8,1659,58,100.0,3.61,453,OKI
-75,Felicdad Graffin,83322 Sherman Pass,Marketing Assistant,profesional,3058,2563,1634,495,95.36,2.73,1275,Pyrolysis
-76,Henrieta Craiker,91 Spohn Circle,Account Executive,autodidacta,2544,1307,3389,1237,97.3,4.1,3879,Ejabberd
-77,Delmer Troubridge,59 Bluejay Crossing,Human Resources Assistant II,autodidacta,156,13,1887,143,47.67,0.72,745,Sports Medicine
-78,Chrotoem Christopherson,8733 Talisman Pass,Technical Writer,profesional,684,0,838,684,68.71,0.21,1023,Theology
-79,Delmor Meany,28 Springview Alley,Civil Engineer,profesional,2481,1178,1853,1303,46.84,3.27,4041,Fraud
-80,Homere Calladine,6917 Bunting Hill,Editor,autodidacta,587,305,2351,282,2.79,4.86,3132,Ducting
-81,Oralia Landrean,416 Spenser Crossing,Cost Accountant,profesional,282,18,3971,264,67.61,1.99,2188,Dell KACE
-82,Mozelle Robinett,830 Northview Avenue,Speech Pathologist,profesional,1801,1545,730,256,88.4,3.11,220,Autodesk Inventor
-83,Odetta Sinott,3 Dapin Park,Structural Engineer,autodidacta,751,513,464,238,27.44,3.85,4003,Zsh
-84,Renate Maunsell,136 Summit Junction,Professor,profesional,3690,62,270,3628,38.33,3.97,2468,Microsoft Dynamics
-85,Abby Grutchfield,1 Clove Hill,Structural Analysis Engineer,autodidacta,780,550,2361,230,83.03,1.52,4087,ABAP Web Dynpro
-86,Blair Beebe,831 Blackbird Crossing,Staff Scientist,profesional,1495,1401,2651,94,95.41,2.04,4964,Food Preparation
-87,Susannah Puleston,27 Tony Terrace,Engineer I,autodidacta,594,401,3459,193,22.68,2.16,1890,Oxidation
-88,Tristam Hunnable,14728 Mitchell Point,Quality Engineer,autodidacta,1677,162,2628,1515,70.14,0.94,3364,Typography
-89,Norris Veregan,7 Comanche Circle,Geologist I,autodidacta,1526,1061,484,465,76.03,2.3,3135,XP Professional
-90,Clarisse Balharry,3983 Memorial Street,Recruiter,profesional,3170,505,3088,2665,94.42,4.05,4680,Eiffel
-91,Bea Burrells,73135 Graceland Place,Accounting Assistant II,autodidacta,1925,1201,2306,724,9.94,2.25,592,CNN Pathfire
-92,Norris Corkish,37189 Lerdahl Pass,Director of Sales,autodidacta,800,5,3797,795,57.76,0.15,2212,NCMR
-93,Sarajane De Mattei,50 Monument Hill,Structural Engineer,profesional,1084,458,1746,626,33.14,1.22,3074,Crystal Xcelsius
-94,Lou Duns,3 Portage Parkway,Engineer III,profesional,1159,373,3064,786,96.67,3.66,2495,Wyse
-95,Cash Goodyear,1 Milwaukee Center,Recruiter,profesional,3251,2628,56,623,12.21,4.88,1887,DBUnit
-96,Loella Tweedlie,74 Ludington Street,Research Associate,profesional,764,77,2882,687,68.95,3.82,4612,Alzheimer&#39;s Disease
-97,Thorny Hollingsbee,637 Kedzie Park,Data Coordiator,profesional,1534,767,543,767,13.64,1.85,4053,Blueprint Reading
-98,Catlaina Moscon,375 Stoughton Terrace,Junior Executive,autodidacta,408,198,2649,210,81.03,2.84,2845,KMDF
-99,Clarice Goodsal,9334 Granby Trail,Nuclear Power Engineer,autodidacta,1504,880,557,624,66.47,3.76,2036,Microsoft Excel
-100,Gary Riccardi,2 Prentice Trail,Help Desk Operator,autodidacta,3278,1952,1878,1326,70.75,4.46,458,Active TS/SCI Clearance
-101,Isak Curnnokk,2 Monica Circle,Dental Hygienist,profesional,1554,798,338,756,20.71,0.12,1764,Snowboarding
-102,Chane MacGray,8263 Truax Court,Automation Specialist III,profesional,412,370,781,42,63.57,1.47,3707,IVUS
-103,Annadiane Puve,1 American Ash Lane,Associate Professor,profesional,1027,467,3152,560,25.2,0.29,4405,US Tax
-104,Ricky Chaffey,7 Quincy Place,Computer Systems Analyst III,autodidacta,2162,176,3733,1986,51.18,2.01,2924,Wound Care
-105,Tessy Elliman,21577 Macpherson Trail,Civil Engineer,autodidacta,2671,123,2232,2548,45.24,0.3,2126,FMS
-106,Adan Ponter,12 Sunbrook Park,Operator,profesional,954,639,859,315,56.06,3.82,4353,XSLT
-107,Rozanna Althrope,01 John Wall Center,Safety Technician III,autodidacta,3365,2427,2961,938,20.29,2.2,4370,DPF
-108,Zeke Michele,8916 North Court,VP Product Management,autodidacta,447,193,1515,254,70.03,4.52,3734,Xetra
-109,Ira Yea,27252 Bluejay Road,Geologist III,autodidacta,1898,1254,1938,644,29.69,2.56,518,Process Optimization
-110,Jillian Edgeson,8150 Messerschmidt Plaza,Senior Developer,profesional,1298,197,1790,1101,84.07,3.63,752,Application Architecture
-111,Gordon Oakenford,1462 Farmco Avenue,Occupational Therapist,autodidacta,3043,2622,2881,421,5.31,1.39,3760,Digital IC Design
-112,Craggie Dailey,004 Elgar Parkway,Accountant III,profesional,3585,2494,1853,1091,57.93,2.64,2344,Philanthropy
-113,Di Siviter,4978 Gale Court,Graphic Designer,autodidacta,716,235,1557,481,53.16,0.89,3575,NTFS
-114,Elizabeth Circuit,545 Parkside Circle,Teacher,autodidacta,90,29,2351,61,63.3,4.28,1335,Higher Education
-115,Papageno Kohrt,620 Sommers Terrace,Director of Sales,autodidacta,2709,2612,457,97,64.59,4.2,3910,Business Overhead Expense
-116,Obadiah Mosdell,51 Mendota Alley,Accountant IV,autodidacta,328,300,3597,28,69.09,1.2,2024,MVC
-117,Percy Challenor,12675 Gale Alley,Registered Nurse,profesional,3710,1382,1578,2328,83.38,2.85,4407,HEC-HMS
-118,Thomas Duggon,5111 Talisman Way,Health Coach I,autodidacta,1831,1602,146,229,92.02,0.37,3009,DVB-S
-119,Laurene Shellard,7642 Namekagon Avenue,Social Worker,profesional,3021,1491,2995,1530,83.89,2.44,4523,Vaccines
-120,Nanette Crowdson,02518 Debra Way,Data Coordiator,profesional,2385,2111,376,274,12.55,4.1,4769,IP CCTV
-121,Rudy Armin,2 Westerfield Parkway,Chief Design Engineer,autodidacta,3635,983,1170,2652,39.44,4.13,2193,Geology
-122,Jarred Hanfrey,11088 Lerdahl Parkway,Computer Systems Analyst III,autodidacta,2127,2009,431,118,13.91,3.7,3142,XFP
-123,Jonathon Andrei,99982 International Alley,Structural Analysis Engineer,profesional,2937,1551,2644,1386,12.28,0.51,2573,RMP
-124,Lisabeth Noe,08 Coolidge Way,Office Assistant IV,profesional,2938,1027,3961,1911,24.01,1.67,2648,Corporate Identity
-125,Ryon Boscott,151 Troy Pass,Director of Sales,autodidacta,1255,116,2839,1139,21.01,1.01,3143,Glaucoma
-126,Abram Hazell,9593 Saint Paul Terrace,Help Desk Operator,autodidacta,3663,3141,432,522,69.86,1.84,3781,IOT
-127,Pippy Kubatsch,744 American Pass,Graphic Designer,autodidacta,251,59,2084,192,47.8,4.28,4194,Pulse Oximetry
-128,Read Zipsell,094 Loeprich Drive,Legal Assistant,autodidacta,2809,1569,1966,1240,16.02,4.2,201,Military Logistics
-129,Burnard Wilkerson,65840 Fairfield Parkway,Programmer III,autodidacta,3759,1458,2681,2301,45.05,4.53,4766,Supply Chain Management
-130,Merrilee Castagne,31 Mayer Lane,Geologist IV,profesional,3039,421,1460,2618,12.7,1.48,4524,Yacc
-131,Caldwell Bartens,7 Old Shore Plaza,Computer Systems Analyst I,autodidacta,1029,353,3222,676,59.35,2.58,3929,Xara
-132,Trude Kauffman,86576 2nd Junction,GIS Technical Architect,autodidacta,501,227,1121,274,35.12,1.55,914,CFIA
-133,Maryellen Hartshorne,46959 Superior Avenue,Project Manager,autodidacta,633,285,3730,348,5.0,3.95,3741,Therapeutic Massage
-134,Brandea Skillett,534 Hollow Ridge Hill,Information Systems Manager,profesional,1314,408,723,906,94.31,1.58,2459,IAS 39
-135,Babara Klicher,4938 Butterfield Circle,Senior Quality Engineer,autodidacta,2375,2021,2489,354,83.91,3.48,3557,Okuma
-136,Wolfy Heakins,60 Basil Center,Director of Sales,autodidacta,3852,3221,22,631,58.57,4.25,34,JAX-WS
-137,Cassondra Burwin,300 Riverside Parkway,VP Accounting,autodidacta,802,156,3618,646,14.45,1.06,1616,Kickboxing
-138,Raimund Pury,81 Mesta Alley,Civil Engineer,autodidacta,3628,1173,2935,2455,40.71,1.72,753,Pinterest
-139,Maddy Whitefoot,66137 Red Cloud Avenue,Assistant Media Planner,autodidacta,248,174,1916,74,26.64,4.47,2823,Winning Others Over
-140,Audre Huntingdon,28221 Mandrake Crossing,Product Engineer,autodidacta,3700,54,1095,3646,43.9,0.71,3921,IAD
-141,Ira Larmett,22 Sherman Road,Sales Associate,profesional,2986,2613,1383,373,40.59,2.07,1299,Risk Analysis
-142,Joshua Shane,432 Anderson Junction,Information Systems Manager,autodidacta,450,240,59,210,24.02,2.5,1875,RNA
-143,Reagan Di Carli,6376 International Place,Help Desk Operator,profesional,2434,94,2664,2340,42.16,3.31,4259,HR Software
-144,Cathie Wildbore,1 Bashford Junction,Professor,profesional,732,696,3442,36,47.05,1.32,3532,TFS
-145,Andria Etteridge,47006 Westridge Street,Web Designer III,autodidacta,3162,1856,13,1306,34.74,3.3,3156,Non-fiction
-146,Merrile Munslow,5 Merry Center,Product Engineer,profesional,3424,2637,962,787,20.77,0.61,3226,Blood Pressure
-147,Shayna Rowlinson,3 Morningstar Terrace,Junior Executive,autodidacta,245,220,1273,25,18.77,2.93,28,NGOs
-148,Meier Walkowski,0 Meadow Vale Place,Programmer Analyst II,autodidacta,2431,1250,777,1181,86.45,2.23,2463,GFI
-149,Rubi Galpen,1425 Ridgeway Hill,Social Worker,autodidacta,194,170,2223,24,68.45,1.28,1950,Zeta Potential
-150,Tomaso Haskins,7659 Lawn Crossing,VP Quality Control,autodidacta,2224,1606,706,618,83.59,2.63,1353,Hydraulic Fracturing
-151,Ugo Phoebe,5 Crowley Parkway,Developer I,autodidacta,3979,831,3340,3148,2.54,1.13,4833,PTF
-152,Harri Ricardon,68102 Morning Hill,Nurse Practicioner,profesional,2815,474,709,2341,52.66,4.54,3092,Claims Handling
-153,Gaven Goldsby,8 Old Shore Point,Paralegal,autodidacta,166,93,2723,73,2.85,4.21,3861,XML Databases
-154,Prue De Blase,17543 Prairieview Park,Automation Specialist III,profesional,3874,3808,2070,66,32.71,3.99,2768,Test Automation
-155,Gael Sheircliffe,410 Laurel Avenue,Professor,autodidacta,941,314,2728,627,78.58,4.85,2228,Event Production
-156,Barney Kenyon,820 Corry Center,Help Desk Technician,profesional,3500,2952,506,548,13.62,2.92,2887,ICD-9
-157,Kelcie Emanuele,9773 Annamark Lane,Web Designer IV,autodidacta,1399,350,323,1049,68.31,3.45,1698,Hazard Analysis
-158,Mitch Fassbender,7431 Huxley Drive,Accounting Assistant II,profesional,1462,1360,494,102,92.16,2.1,2489,Rural Marketing
-159,Hall Eggar,96956 Haas Crossing,Design Engineer,autodidacta,2781,1522,1822,1259,44.01,3.22,33,HBDI
-160,Edvard Dresse,915 Continental Alley,Senior Developer,profesional,3559,1264,3506,2295,79.53,1.56,2739,Non-profit Program Development
-161,Ephrem Kelf,0751 Hansons Crossing,Software Consultant,autodidacta,43,20,2104,23,13.04,2.35,847,Windows NT
-162,Ardath MacGorman,798 Anderson Trail,Cost Accountant,autodidacta,2456,1379,823,1077,16.97,0.27,2935,DCP
-163,Mark Tourne,04 Kingsford Drive,Actuary,autodidacta,378,123,3733,255,8.38,0.88,4575,Start-ups Management
-164,Cesaro Clutterham,8 4th Street,Assistant Professor,profesional,700,610,2582,90,77.57,0.7,3582,Google Adwords
-165,Foster Winkless,99318 Marquette Point,Assistant Manager,profesional,157,120,2432,37,14.31,0.74,4531,Durable Medical Equipment
-166,Coreen Humpage,41138 Oxford Crossing,Software Engineer III,autodidacta,3170,538,1105,2632,54.97,0.65,3806,RDP
-167,Jenna Cullivan,020 Parkside Terrace,VP Marketing,profesional,2290,2170,238,120,79.43,3.52,2969,Unreal Engine 3
-168,Andriette Aseef,2480 Kedzie Way,Sales Representative,profesional,3301,2512,3505,789,11.9,2.2,4731,TCP/IP
-169,Jerad Lober,32713 Westend Junction,Cost Accountant,autodidacta,393,189,2669,204,34.28,3.4,1394,Blog Marketing
-170,Phillida Goodings,01 Montana Lane,Environmental Tech,profesional,1878,1366,1717,512,13.19,2.69,128,Luciferase Assay
-171,Timoteo Paxforde,67 Little Fleur Hill,Operator,profesional,3004,1562,1716,1442,40.11,4.48,432,Tour Operators
-172,Marina Cawsby,7 Park Meadow Trail,Community Outreach Specialist,autodidacta,1196,1162,2967,34,33.06,2.13,1995,Equestrian
-173,Jerome Lantry,7391 Holy Cross Center,Senior Quality Engineer,autodidacta,2011,574,914,1437,42.77,0.91,1773,OO Software Development
-174,Bernita Zecchii,320 Corben Crossing,Administrative Assistant II,autodidacta,2400,1596,1678,804,23.32,0.3,112,PDA
-175,Shelia Kirwan,128 Buhler Crossing,Structural Analysis Engineer,profesional,1908,711,2640,1197,50.28,1.9,3329,Shopper Marketing
-176,Elene Lodden,034 Florence Junction,Biostatistician IV,profesional,2801,2572,1945,229,53.46,4.91,1201,WTO
-177,Adriaens Pygott,5 Hollow Ridge Alley,Design Engineer,autodidacta,460,77,1374,383,72.12,1.55,1164,RFLP
-178,Bettine Craigg,40 Reinke Road,Statistician I,autodidacta,2025,1344,2531,681,70.42,4.09,4421,Cisco Routers
-179,Lorin Forrestor,7645 Bluestem Lane,Speech Pathologist,profesional,3817,1171,1303,2646,54.68,1.27,873,RCS Master Control
-180,Hyacintha Jansky,006 Dakota Drive,Geological Engineer,profesional,627,56,864,571,63.14,0.02,3302,NGN
-181,Chaddy Cains,4763 Transport Junction,Mechanical Systems Engineer,autodidacta,3978,2343,1400,1635,3.84,4.14,3730,Personnel Management
-182,Kerianne Radley,0317 Dixon Pass,GIS Technical Architect,autodidacta,1829,1241,3654,588,69.02,0.14,2870,Historic Preservation
-183,Inga Rowston,43410 West Pass,Design Engineer,profesional,3846,2168,2295,1678,99.95,1.84,4402,SAP MDM
-184,Pincus Stolworthy,89376 Manley Crossing,Director of Sales,profesional,3668,665,1061,3003,52.36,0.44,2463,HRO
-185,Wilden Noquet,91818 Kedzie Terrace,Data Coordiator,profesional,1991,623,3617,1368,25.17,0.06,2625,IEP
-186,Powell Berthel,18945 Artisan Way,Human Resources Manager,profesional,728,411,3469,317,28.25,4.58,1956,Social Skills
-187,Evaleen Aloshkin,1 Prairie Rose Court,Staff Scientist,profesional,812,470,47,342,23.37,4.87,1567,Outdoors
-188,Frank Janjic,05968 Dawn Street,VP Quality Control,profesional,1129,1004,2334,125,37.82,2.44,3793,PVST+
-189,Junia Beevor,07 Division Avenue,Senior Developer,profesional,366,247,3674,119,17.12,3.99,2157,Equity Derivatives
-190,Kylen Bougen,0357 Thackeray Hill,Cost Accountant,profesional,2833,164,1984,2669,72.84,2.4,1431,Xinet
-191,Becka Whitland,30 Randy Court,Project Manager,autodidacta,1152,454,352,698,15.08,0.57,430,Graphic Illustrations
-192,Leonard Sillars,63 Springview Center,Systems Administrator II,profesional,875,67,3208,808,68.11,4.42,2634,RPG
-193,Marietta Silson,4082 Prairie Rose Lane,Accounting Assistant III,autodidacta,2595,1739,243,856,93.48,4.37,3286,BPA
-194,Zachery Mellody,417 Evergreen Center,Project Manager,profesional,1903,1781,1160,122,72.52,3.52,3876,Educational Technology
-195,Chicky Itzcovich,6 Prentice Road,Cost Accountant,autodidacta,502,347,1450,155,72.36,1.71,334,CATIA
-196,Heywood Coupman,5 Prairie Rose Plaza,Associate Professor,autodidacta,1565,765,886,800,33.46,4.91,4790,DBUnit
-197,Henderson Burford,53677 Oxford Trail,Geological Engineer,profesional,750,168,1982,582,0.45,4.07,2128,Continuous Improvement
-198,Hollie Callery,772 Maple Drive,Senior Financial Analyst,autodidacta,1235,970,135,265,1.04,1.06,1305,Youth Ministry
-199,Quint MacNamara,3 Sunbrook Street,General Manager,profesional,2261,927,1368,1334,11.24,4.09,4412,Axure RP
-200,Kenneth Buckett,83179 Hoffman Junction,VP Quality Control,profesional,59,43,2066,16,13.27,0.81,4819,Blueprint Reading
-201,Timmi Pezey,08 Nelson Place,Staff Scientist,profesional,3096,1076,1804,2020,30.65,4.99,4010,Agile Project Management
-202,Dennie Blincoe,3564 3rd Parkway,Web Designer IV,profesional,296,7,826,289,30.98,4.42,4621,Non-profit Administration
-203,Anna Jirusek,92444 Pearson Point,Cost Accountant,autodidacta,2950,837,436,2113,75.29,1.81,2139,DPM
-204,Cly Whines,200 Old Shore Terrace,General Manager,profesional,3074,401,869,2673,0.61,1.56,2453,NBFC
-205,Brennan Kenyam,50302 Fair Oaks Avenue,Physical Therapy Assistant,autodidacta,824,614,1734,210,81.03,2.57,802,Smart Cards
-206,Tynan Slocomb,8 Anzinger Crossing,Web Designer IV,autodidacta,1334,209,3779,1125,85.84,3.39,870,HR Solutions
-207,Pammi Kernaghan,50 Pond Drive,VP Accounting,profesional,2745,843,650,1902,60.32,2.17,3771,SVOD
-208,Jethro Bailie,2006 Nobel Court,Chief Design Engineer,profesional,1584,244,2800,1340,64.18,2.71,867,LPT
-209,Casi Overill,417 Iowa Drive,Senior Quality Engineer,profesional,1377,94,2692,1283,19.62,4.52,1488,CVIS
-210,Joan Fleet,11 Arkansas Lane,Data Coordiator,profesional,3897,3394,3286,503,20.38,0.31,224,TNCC Instruction
-211,Mil Zanutti,47 Drewry Trail,Administrative Officer,autodidacta,2114,1945,1377,169,59.9,1.94,2256,WSE
-212,Dukie Foulser,7 Linden Drive,Analog Circuit Design manager,autodidacta,574,50,2369,524,74.03,0.11,2297,Biomedical Engineering
-213,Tessy Jendrys,905 Shelley Park,Senior Cost Accountant,profesional,2508,885,1773,1623,15.67,0.96,2374,PostgreSQL
-214,Garfield Baake,11 Delladonna Parkway,VP Marketing,autodidacta,411,167,3372,244,57.67,0.79,1608,Hand Knitting
-215,Ardene Marston,13 Evergreen Crossing,Senior Quality Engineer,profesional,21,13,1004,8,96.42,2.88,3395,Vi
-216,Chancey Blagden,1 Hazelcrest Lane,Technical Writer,profesional,1926,1291,2415,635,84.6,3.21,747,Trade Marketing
-217,Beauregard Currao,48 Shelley Place,VP Marketing,profesional,2728,491,3634,2237,34.35,3.82,794,XAMPP
-218,Felicio Britner,8 Coolidge Hill,Quality Control Specialist,profesional,211,16,3104,195,27.9,0.59,2149,Bonds
-219,Zachery Matessian,7 Ilene Junction,Help Desk Technician,profesional,3569,2312,3500,1257,33.14,3.38,3659,Computer Graphics
-220,Guenna Crocombe,81 Hagan Terrace,Paralegal,autodidacta,2410,1253,888,1157,2.11,2.24,698,Canon DSLR
-221,Brocky Haquin,766 Nobel Court,Food Chemist,profesional,2213,161,837,2052,45.72,2.02,4979,TTL
-222,Panchito Grigaut,85 Loomis Center,Senior Financial Analyst,profesional,3786,502,2879,3284,30.88,1.49,1268,Wholesale
-223,Natalya Edghinn,115 Gateway Plaza,Electrical Engineer,profesional,3896,2241,2400,1655,19.89,3.33,2759,UF/DF
-224,Hayyim Sommers,6015 Sycamore Drive,Electrical Engineer,profesional,3104,2560,3920,544,58.34,2.6,1278,UCINET
-225,Chalmers Gidman,5 Butterfield Plaza,Systems Administrator III,autodidacta,2929,540,3383,2389,79.86,1.23,2818,HP
-226,Sheena Greggersen,95759 Caliangt Junction,VP Product Management,profesional,3817,2086,2849,1731,44.49,3.8,3783,Lyris
-227,Kristyn Drinnan,5731 Summer Ridge Street,Nuclear Power Engineer,profesional,3277,2204,1851,1073,60.6,1.35,2695,QinQ
-228,Nestor Caban,320 Jackson Avenue,Occupational Therapist,autodidacta,361,26,3403,335,72.33,3.79,3489,Document Drafting
-229,Sibyl Guillet,47589 Merry Circle,Automation Specialist IV,profesional,1020,646,2372,374,85.87,0.09,2113,OMA
-230,Angelico Yitzovicz,79869 Blackbird Drive,Senior Sales Associate,autodidacta,3361,2433,2473,928,56.12,3.59,1488,SAP ERP
-231,Papagena Watson-Brown,866 Drewry Plaza,General Manager,profesional,2721,338,3402,2383,11.03,1.03,3531,ISO/TS 16949
-232,Caro Poag,6144 Cody Way,Payment Adjustment Coordinator,autodidacta,3679,2116,2722,1563,60.47,4.28,2998,Rural Community Development
-233,Pam Mishaw,12 American Ash Parkway,Staff Accountant IV,autodidacta,3217,1486,1707,1731,85.03,3.54,2438,TDR
-234,Nicole Reboulet,67 Hagan Drive,Staff Scientist,autodidacta,3572,1914,40,1658,56.07,0.73,1874,HtmlUnit
-235,Jori Manolov,40216 Maryland Drive,Help Desk Operator,autodidacta,148,88,3286,60,45.39,1.76,2542,Oil &amp; Gas Exploration
-236,Dee Wellum,374 Bunker Hill Center,Web Designer III,profesional,31,19,1765,12,52.82,1.49,4290,Biology
-237,Randi McKeag,98 Caliangt Parkway,Dental Hygienist,profesional,1930,1683,1160,247,89.62,0.37,396,IPO
-238,Emilio Belford,3632 Moulton Pass,Geological Engineer,autodidacta,3150,935,1445,2215,67.76,3.29,4968,Talent Booking
-239,Cordy Meier,7956 Shasta Parkway,Nuclear Power Engineer,profesional,3149,1144,2189,2005,45.56,1.05,1755,Blood Typing
-240,Ertha Stubley,11 Golf Avenue,Staff Scientist,profesional,1175,597,2817,578,30.38,2.88,2916,xCP
-241,Ado Pascow,96 Esch Plaza,Account Representative I,autodidacta,2227,857,2549,1370,31.38,0.63,2763,CPA
-242,Carlin Streight,7 Dapin Plaza,Software Test Engineer I,autodidacta,987,678,1280,309,72.96,2.01,1823,Evidence
-243,Tadd Spring,9 Kinsman Center,Desktop Support Technician,autodidacta,3411,3113,2474,298,38.3,2.46,2925,Integration
-244,Zora Robottham,9475 Northland Pass,Senior Cost Accountant,profesional,3287,1807,1174,1480,61.06,4.81,924,VTAM
-245,Pierre Fortin,5097 8th Crossing,GIS Technical Architect,autodidacta,1334,1115,809,219,14.68,4.51,2785,MPEG-4
-246,Carleen Ginnaly,77813 Sheridan Alley,Assistant Manager,profesional,2524,735,2006,1789,7.83,1.08,2555,OEIC
-247,Marget Strangward,521 Almo Court,Senior Quality Engineer,profesional,3618,2319,3281,1299,42.44,2.49,2297,Obedience
-248,Shurwood Yabsley,21 Swallow Alley,Database Administrator I,profesional,694,657,1412,37,24.1,3.64,1436,UNIX Utilities
-249,Nanice Oiseau,95 Melvin Hill,Dental Hygienist,profesional,580,397,2916,183,72.16,1.92,3235,HEC-HMS
-250,Thibaut Woltman,7970 Donald Terrace,Engineer II,autodidacta,132,88,1765,44,80.81,0.73,388,Yellow Pages
-251,Sherwynd Climo,6 Warner Place,Biostatistician III,profesional,3668,1130,3664,2538,4.68,0.9,1964,Veterinary Medicine
-252,Tove Iacofo,02 Blackbird Alley,Clinical Specialist,profesional,2320,2183,2656,137,93.34,1.66,478,Manufacturing Operations Management
-253,Tonie Chaloner,3 Merrick Drive,Recruiting Manager,autodidacta,612,545,1784,67,56.63,2.68,2443,HDI
-254,Israel Alp,8 Utah Street,Human Resources Manager,profesional,1506,181,82,1325,32.08,4.95,3810,TDM
-255,Niccolo Aseef,80 Helena Junction,Financial Advisor,autodidacta,3945,2615,1070,1330,86.48,3.66,2376,Rhinoceros
-256,Aguistin Ratter,5504 Drewry Alley,Office Assistant II,profesional,765,660,261,105,90.5,3.6,3064,IGMP Snooping
-257,Lavinie Oloman,85777 Lotheville Terrace,Structural Engineer,profesional,1997,1649,2245,348,47.21,2.83,898,Global Human Resources Management
-258,Amos Medlar,41234 Dennis Way,Product Engineer,profesional,1532,512,1579,1020,94.05,3.31,4962,European Integration
-259,Ammamaria Joseff,3194 Meadow Valley Parkway,Database Administrator II,profesional,1794,544,1075,1250,58.96,4.83,327,E-on Vue
-260,Thorstein Freathy,367 Mayfield Lane,Clinical Specialist,autodidacta,1906,1450,991,456,29.36,0.88,4165,JPA
-261,Chris Caban,884 Merchant Drive,Media Manager III,autodidacta,1294,410,3079,884,60.6,2.36,3004,Parts
-262,Elset Sinott,488 Ryan Road,Speech Pathologist,autodidacta,1481,1073,3524,408,79.96,1.84,2584,Flexo
-263,Kristan Pellew,984 Westport Avenue,General Manager,autodidacta,998,651,2047,347,65.96,0.87,4664,Biomedical Engineering
-264,Caesar Yurocjkin,98 Graedel Trail,Project Manager,profesional,195,172,1629,23,28.79,0.65,2857,CMake
-265,Dulcinea Dorcey,58928 Shoshone Center,Physical Therapy Assistant,profesional,522,469,3420,53,10.16,2.84,45,Fine Art Photography
-266,Benita Colwill,8256 Steensland Junction,Software Consultant,autodidacta,2157,947,965,1210,12.08,2.38,4217,Internal Controls
-267,Alexina Concannon,84 School Way,Technical Writer,autodidacta,2434,936,887,1498,20.96,3.45,700,Capital Markets
-268,Fania Elliman,15 Parkside Park,Systems Administrator III,profesional,3060,2895,1511,165,27.5,3.4,4907,Ion Chromatography
-269,Perl Riglar,76159 Del Mar Park,Senior Financial Analyst,profesional,2599,2455,1861,144,86.0,3.63,2885,HPLC
-270,Marvin Caldero,55809 Stuart Street,Actuary,autodidacta,245,139,1364,106,34.2,4.97,1285,Servers
-271,Ara Margery,00655 Lindbergh Street,Internal Auditor,profesional,2064,1316,3187,748,68.44,2.24,3518,Epi Info
-272,Glynnis Cash,799 Warner Pass,Software Consultant,profesional,1935,192,3075,1743,87.28,3.25,4010,Governmental Affairs
-273,Latia Hamblen,0920 Caliangt Way,Automation Specialist II,autodidacta,3195,541,1083,2654,50.65,4.0,2129,Risk Assessment
-274,Babs Kleinhaut,6 Killdeer Lane,Software Test Engineer IV,autodidacta,3547,3339,3127,208,10.59,2.81,3357,LPAR
-275,Andris Jurn,4373 Lakewood Gardens Point,Account Executive,autodidacta,2390,488,1212,1902,76.23,1.89,219,Management Due Diligence
-276,Niel Marquand,29 Shasta Terrace,Project Manager,autodidacta,1590,43,2332,1547,58.18,4.88,868,PCR Primer Design
-277,Patti Barenskie,362 1st Center,Programmer IV,profesional,3774,2441,1396,1333,64.34,2.96,879,SSO
-278,Lynnelle Midson,551 Red Cloud Alley,Chief Design Engineer,profesional,3361,2752,843,609,99.42,0.04,2629,Tax
-279,Jackie Luto,8833 New Castle Street,Mechanical Systems Engineer,profesional,3614,3422,1600,192,82.72,1.83,3293,ALM
-280,Wynn Semark,8 Tomscot Trail,Financial Advisor,autodidacta,2158,1827,3719,331,86.81,2.29,2202,ERISA
-281,Carlie Ferrulli,44857 Eagle Crest Circle,Tax Accountant,autodidacta,3899,804,1285,3095,3.3,4.53,234,Crisis Communications
-282,Konstance Spatari,95 Green Alley,Administrative Assistant III,autodidacta,3325,1550,3334,1775,66.88,1.86,2790,PCP
-283,Andrey Pleasants,04 Garrison Crossing,Information Systems Manager,autodidacta,49,1,2664,48,65.91,3.78,4798,QARun
-284,Yetty Sides,22406 Hayes Terrace,Payment Adjustment Coordinator,autodidacta,2982,2374,3575,608,65.52,4.5,1208,TPP
-285,Sibeal Starie,866 Swallow Plaza,Senior Cost Accountant,profesional,846,717,3445,129,49.52,2.76,2951,DSLAM
-286,Kelsey Nelsen,1 Basil Center,Account Representative I,profesional,2771,2554,1478,217,81.15,1.12,3704,Unity3D
-287,Lennie McGeagh,8670 Amoth Drive,Clinical Specialist,profesional,3093,1304,3280,1789,49.98,0.06,4741,Water Management
-288,Ardisj Ilchenko,6176 Bartelt Plaza,Human Resources Assistant I,autodidacta,244,181,909,63,48.8,1.23,2148,Squid
-289,Sigismondo Brockie,3218 Rutledge Point,VP Product Management,profesional,2235,785,2283,1450,6.28,2.66,4870,Slackware
-290,Hank Arendt,36 Harbort Way,Biostatistician III,autodidacta,3907,2568,2322,1339,13.12,2.45,1338,NDA
-291,Molly Van Der Hoog,97 Bashford Junction,Associate Professor,profesional,10,5,1139,5,30.23,4.47,1412,Slide Shows
-292,Audre Enion,36732 Tony Terrace,Occupational Therapist,autodidacta,2697,1149,793,1548,68.01,3.74,4316,WSDL
-293,Andreana Ortas,576 Brickson Park Place,Electrical Engineer,profesional,2669,1213,2112,1456,90.64,1.31,3270,American History
-294,Egon McDuff,48 Rockefeller Road,VP Accounting,profesional,2281,462,3497,1819,94.93,4.48,3682,Object Oriented Design
-295,Maurizio Blamphin,98716 Becker Circle,Project Manager,profesional,3286,2840,3692,446,38.69,1.56,4479,NMON
-296,Florencia Chestney,8949 Mcbride Way,Human Resources Assistant IV,profesional,2927,2833,2717,94,17.79,1.87,3959,NDM
-297,Herminia Castana,4881 Delladonna Point,Design Engineer,autodidacta,3886,1643,3083,2243,24.96,2.37,127,Coastal Zone Management
-298,Heinrik Grinov,1 Granby Alley,Developer I,profesional,973,579,284,394,60.63,2.67,3967,ODM
-299,Tristan Alfonsetti,75949 Colorado Plaza,Marketing Manager,profesional,2339,1907,936,432,41.25,4.75,1569,WPS
-300,Holly MacElharge,59820 Kedzie Hill,Financial Advisor,profesional,2791,2020,1343,771,76.48,1.96,174,GTP
-301,Salem Grigoriev,06690 Summit Road,Junior Executive,autodidacta,349,56,3512,293,90.36,4.33,511,Single Family Homes
-302,Dianna Ridulfo,52646 Melrose Center,Sales Representative,autodidacta,139,114,2076,25,11.39,0.22,1390,Sap Fm
-303,Saraann Hoodless,073 Warner Trail,Registered Nurse,autodidacta,2057,205,2359,1852,77.68,1.51,2647,UCP 600
-304,Terrijo Bapty,1 Tony Way,Office Assistant IV,profesional,2148,408,1487,1740,98.14,0.56,4320,Mineral Exploration
-305,Kailey Woolward,799 Ohio Junction,Pharmacist,autodidacta,1161,1043,3134,118,60.57,1.04,2675,Nanotechnology
-306,Sinclare Goodoune,971 Pankratz Terrace,Chemical Engineer,autodidacta,1799,584,3282,1215,48.81,4.17,896,GNU/Linux
-307,Elsbeth Pryor,241 Kipling Crossing,Registered Nurse,profesional,3146,1949,182,1197,78.43,0.15,3187,Document Drafting
-308,Karil Merrigans,44766 Crescent Oaks Pass,Senior Quality Engineer,profesional,475,83,3472,392,30.23,4.81,1610,International Human Rights
-309,Odell Bwy,54058 Meadow Vale Parkway,VP Accounting,profesional,2332,2198,547,134,8.81,4.12,2379,American Sign Language
-310,Sharai Bredbury,45 Crescent Oaks Plaza,Programmer Analyst II,profesional,2224,1017,1965,1207,86.52,0.09,2225,LabVIEW
-311,Elka Kuhlen,57 Algoma Center,Marketing Assistant,autodidacta,2807,2160,935,647,44.65,3.29,409,Rigging
-312,Shelton Larham,2 Becker Pass,Safety Technician III,autodidacta,1315,181,1323,1134,85.88,0.86,2915,LLQP
-313,Pooh Sallinger,7 Superior Road,Senior Editor,autodidacta,3771,791,2136,2980,59.92,2.04,1456,EBSD
-314,Marcellina Riolfo,0732 Melby Avenue,Biostatistician IV,profesional,3725,1850,2742,1875,88.56,1.39,4426,IBM AS/400
-315,Davida Cleyburn,0877 Kinsman Crossing,VP Sales,profesional,55,2,3632,53,38.47,3.92,3606,NCSim
-316,Stefa Meeking,7 Glendale Way,Environmental Specialist,profesional,2608,2252,931,356,94.24,2.05,1008,IFS
-317,Izak Eady,2 Springs Plaza,Analyst Programmer,autodidacta,2426,182,12,2244,98.19,4.64,151,Channel Partners
-318,Vannie Zettoi,392 Butterfield Drive,Electrical Engineer,profesional,2272,928,565,1344,46.95,2.23,3935,PMI
-319,Meggy Island,5923 Jana Center,Automation Specialist IV,autodidacta,3226,479,2839,2747,45.98,1.1,4270,RSS
-320,Linda Durbridge,873 Service Avenue,Nurse Practicioner,profesional,3200,1894,492,1306,64.79,3.8,1806,Zend Certified Engineer
-321,Julina Torfin,43778 Autumn Leaf Avenue,Sales Associate,autodidacta,2829,367,748,2462,32.1,1.78,4064,Autism Spectrum Disorders
-322,Daniele Pyrah,386 Burning Wood Lane,Assistant Professor,profesional,2331,639,3516,1692,89.79,4.52,112,Gemba Kaizen
-323,Beverley Haug,4278 Arizona Pass,Assistant Media Planner,profesional,2213,2062,11,151,75.7,0.33,1053,Natural Language Processing
-324,Johan Branno,33638 Knutson Center,VP Accounting,profesional,1365,247,75,1118,7.62,0.93,2182,NDC
-325,Demetris Chalke,0 Fieldstone Circle,Account Coordinator,autodidacta,1125,287,2467,838,23.03,4.69,1226,WPF Development
-326,Jennica Peal,53 Thompson Point,Structural Analysis Engineer,profesional,973,753,2533,220,26.46,1.55,660,Syslog-ng
-327,Elaina Blaymires,96 Green Way,Account Coordinator,profesional,3912,2682,1507,1230,77.84,4.02,1821,PML
-328,Lanie Schutt,24 Roth Trail,Business Systems Development Analyst,autodidacta,2865,2252,2772,613,21.74,0.33,4549,CQM
-329,Melinda O'Geneay,21 Hollow Ridge Alley,Compensation Analyst,autodidacta,2836,2392,2597,444,76.66,0.29,1331,Xplan
-330,Sim Olczyk,51 Kedzie Trail,Senior Cost Accountant,autodidacta,2185,332,1667,1853,72.54,4.92,907,American Literature
-331,Henka Hallatt,9 Lakewood Gardens Crossing,Executive Secretary,autodidacta,3769,3617,220,152,56.53,0.33,76,Kantar
-332,Waite Whitmarsh,5186 Annamark Court,Project Manager,autodidacta,1991,1251,2409,740,21.16,2.6,4447,Science Journalism
-333,Kaia Fellgatt,133 Schmedeman Junction,Information Systems Manager,profesional,2877,1466,1332,1411,88.98,2.26,3290,Audio Editing
-334,Elie Perry,16 Anzinger Terrace,VP Quality Control,autodidacta,3839,3568,1204,271,86.24,2.78,2057,Uzbek
-335,Elston Turfus,0662 Riverside Circle,Account Representative II,profesional,273,115,2978,158,85.26,1.93,2782,Socket.io
-336,Allyn Mouser,10219 Sloan Junction,Account Representative I,autodidacta,889,488,1318,401,83.61,0.98,2787,AOD
-337,Dirk O'Rourke,39 Luster Pass,Graphic Designer,profesional,1327,423,73,904,25.17,3.3,471,Publishing
-338,Idalia Draye,629 Moose Parkway,Analyst Programmer,autodidacta,2424,2113,1165,311,74.12,0.22,88,RIS
-339,Winston Shrimptone,7464 Moose Parkway,Web Developer III,autodidacta,450,318,1503,132,18.66,3.82,1790,Guitar
-340,Franky Crosfeld,1 Vahlen Junction,Systems Administrator II,autodidacta,2698,379,246,2319,67.2,1.08,2220,JBuilder
-341,Mickie McCallam,21212 Warrior Center,Research Associate,profesional,1809,422,3462,1387,51.46,1.56,1166,LPS
-342,Richie Clitherow,77919 Amoth Crossing,Accounting Assistant III,profesional,2148,364,2918,1784,21.16,1.5,1234,Fine Art Photography
-343,Tonia Wyett,6050 Granby Alley,Structural Engineer,profesional,756,210,770,546,24.25,4.27,3776,MPLS-TP
-344,Monroe Cowndley,1448 Tennyson Avenue,Account Representative III,profesional,3683,1689,1369,1994,32.52,1.6,1296,MBTI
-345,Elaina Stenton,79 Charing Cross Place,Software Consultant,profesional,697,632,128,65,98.29,1.95,362,Epi Info
-346,Kennett Cersey,97 Rieder Street,Financial Analyst,autodidacta,3136,2662,3762,474,33.62,2.15,3106,DCF
-347,Elwin Vanyarkin,606 4th Circle,Structural Engineer,autodidacta,1135,178,1245,957,80.48,3.23,240,OH&amp;S
-348,Juanita Worvell,2 Gerald Trail,Research Assistant I,autodidacta,2102,1892,2068,210,54.02,4.6,220,Xsigo
-349,Kitty Osban,3 Blackbird Parkway,Director of Sales,autodidacta,36,20,92,16,59.96,1.11,3639,Estate Jewelry
-350,Katherine Turvie,159 Crownhardt Hill,Information Systems Manager,autodidacta,2917,2905,3954,12,34.62,0.55,4312,Beer
-351,Matilde Leghorn,5 Rigney Center,Nuclear Power Engineer,profesional,1198,359,2427,839,97.16,2.66,276,Anti Money Laundering
-352,Corly Studholme,25313 La Follette Hill,Structural Analysis Engineer,autodidacta,81,27,1179,54,61.37,2.92,3634,HVDC
-353,Hubey Cullity,01 Butternut Drive,Systems Administrator IV,profesional,1057,72,442,985,49.74,0.17,140,Wellness Coaching
-354,Gui Lissaman,3 Mosinee Way,Recruiter,profesional,839,328,2922,511,5.69,3.4,4690,MSBuild
-355,Lucius Caren,98 Springs Center,Nurse,autodidacta,807,168,2720,639,66.94,1.07,1641,Akka
-356,Phyllis Brownsey,801 American Street,Web Designer II,autodidacta,2363,630,104,1733,54.92,2.1,3128,Ocean Transportation
-357,Chariot Richardes,1419 Pepper Wood Crossing,Legal Assistant,autodidacta,652,251,3404,401,4.26,0.58,894,DXL
-358,Wallie Hazeley,4186 Arkansas Center,Associate Professor,autodidacta,875,496,1905,379,63.56,0.92,2149,Yellow Belt
-359,Allyn Gillean,81033 Anzinger Road,Computer Systems Analyst I,autodidacta,1882,36,1628,1846,27.3,2.45,1575,PPBES
-360,Tresa Elcocks,25457 Roxbury Drive,Senior Sales Associate,profesional,3842,448,3892,3394,39.5,2.72,4887,LDRA
-361,Elnar Philpots,7 3rd Place,Research Assistant III,profesional,2260,1055,1792,1205,28.81,2.28,4625,Close Protection
-362,Tana Madeley,66008 Maryland Way,Computer Systems Analyst II,autodidacta,3499,3237,2893,262,91.94,3.63,1943,MBS
-363,Maryann Kynge,071 Eastwood Parkway,Software Test Engineer I,profesional,2550,210,3242,2340,18.57,2.81,1958,Online Help
-364,Mohandis Kezor,9 Michigan Trail,Data Coordiator,autodidacta,1796,1566,1871,230,56.06,4.38,1305,Human Resource Development
-365,Amalea Highton,2562 Monica Alley,Geological Engineer,profesional,3801,3418,1558,383,59.54,4.57,4258,Epi Info
-366,Demetris Ledgister,4340 Mayer Circle,Quality Engineer,autodidacta,3857,2126,39,1731,45.23,0.25,2492,FCS
-367,Parsifal Thebe,131 Kensington Road,Legal Assistant,profesional,3134,1516,658,1618,89.55,0.93,971,RC
-368,Adamo Saffin,2445 Stang Place,Web Designer III,profesional,3669,2220,3956,1449,47.39,4.51,3752,Sun One LDAP
-369,Ofella Camillo,773 Cordelia Terrace,Legal Assistant,profesional,1825,1555,1011,270,74.58,1.51,1055,Hmong
-370,Mathilda Tilbey,01577 Di Loreto Park,Staff Accountant III,autodidacta,136,125,1757,11,27.23,0.64,3316,Logging
-371,Peter Favey,17225 Eastlawn Place,Research Associate,profesional,3231,2196,3305,1035,65.94,3.7,3732,Thermal Oxidizers
-372,Jessica Kealy,9 Bowman Trail,Nurse,profesional,2295,1743,3210,552,30.12,3.42,2068,GCF
-373,Sanford Tourle,73795 Hoffman Parkway,Nurse Practicioner,autodidacta,1356,1140,2154,216,77.02,0.88,2957,Pipelines
-374,Danette Kivelle,308 Rieder Drive,Nuclear Power Engineer,autodidacta,3420,2496,1544,924,47.15,3.02,837,3D Visualization
-375,Ethel Ralph,732 Lakeland Road,Administrative Assistant III,profesional,341,183,3362,158,48.79,3.03,2161,PMO Services
-376,Sylvan Radmer,46445 Esch Parkway,Senior Developer,autodidacta,758,304,2677,454,15.03,2.58,2268,SDL Tridion
-377,Dale O'Hagirtie,47159 Holmberg Drive,Human Resources Assistant II,autodidacta,2269,423,3480,1846,38.44,2.63,3343,SNP genotyping
-378,Maressa Grimbleby,2 Gulseth Pass,Senior Developer,autodidacta,3565,2217,3408,1348,74.2,0.13,116,Sweaters
-379,Rustie Kay,3485 Golden Leaf Plaza,Project Manager,profesional,3371,255,1884,3116,35.4,3.7,3949,SQL DB2
-380,Karina Paydon,4 Sutteridge Alley,Internal Auditor,autodidacta,2259,306,2610,1953,26.72,1.45,847,QINSy
-381,Mariana Pocke,9 Mcguire Terrace,Desktop Support Technician,profesional,1629,1277,3117,352,91.43,2.44,3611,Wine
-382,Kamilah Denington,97 Schmedeman Trail,Accountant I,profesional,2402,1142,3645,1260,16.5,3.09,2434,Sustainability
-383,Ruperta Hayter,0 Starling Road,Librarian,autodidacta,1022,260,494,762,72.6,2.57,1472,Myofascial Release
-384,Matti Peasgood,5483 Raven Drive,Project Manager,autodidacta,2356,1929,3821,427,45.23,0.8,1785,National Security
-385,Napoleon Dobbie,175 Buell Drive,Biostatistician II,autodidacta,3387,567,3653,2820,80.32,4.41,3419,AMI
-386,Herschel Aleksankov,334 Kennedy Pass,Senior Financial Analyst,autodidacta,2781,2320,2036,461,22.09,4.11,678,Zebra
-387,Daphna Redish,016 Comanche Park,Senior Cost Accountant,autodidacta,435,212,2298,223,24.83,3.82,4765,Human Anatomy
-388,Jaimie Cheston,831 Forest Dale Plaza,Professor,profesional,1684,251,2715,1433,86.38,2.25,3169,DNS Administration
-389,Aggie Cregg,993 Marquette Circle,Senior Developer,profesional,1412,410,137,1002,2.08,2.23,2460,LSO
-390,Ximenez Thornham,77345 Susan Junction,Dental Hygienist,profesional,450,141,732,309,88.89,3.68,1210,Embedded SQL
-391,Leland Wallage,9156 Butternut Alley,Operator,autodidacta,3362,2574,3543,788,43.25,3.96,3819,Security Clearance
-392,Bordie Tansey,731 Ilene Junction,Budget/Accounting Analyst III,autodidacta,3008,1177,135,1831,77.96,3.62,3660,Corporate FP&amp;A
-393,Huntington Deguara,4042 Grayhawk Pass,Analog Circuit Design manager,autodidacta,2704,2450,825,254,23.34,4.84,907,IBM BPM
-394,Vick Jozwicki,9531 Emmet Avenue,Account Coordinator,autodidacta,1639,873,3030,766,72.9,1.35,1571,CSLA
-395,Luisa Brixham,1 Pond Point,Teacher,autodidacta,1681,168,541,1513,93.11,0.54,1368,Banners
-396,Enoch Moatt,018 Kings Alley,Structural Engineer,autodidacta,2932,148,3011,2784,51.42,1.77,2302,UCP
-397,Dehlia Graber,5 Summerview Alley,Associate Professor,profesional,1446,1418,3862,28,23.12,1.96,529,HDLC
-398,Rooney Macconachy,77 Mcguire Street,Occupational Therapist,profesional,1130,683,1445,447,18.93,2.74,2410,RPO
-399,Iver Goulborn,028 Everett Drive,Project Manager,autodidacta,2827,352,1551,2475,83.71,1.57,3917,PFP
-400,Meredith Allingham,13886 Becker Avenue,Office Assistant III,profesional,571,432,565,139,87.05,1.1,1782,DFA
-401,Madelle Ghidoni,7937 Shopko Plaza,Automation Specialist III,autodidacta,1071,794,1533,277,89.68,2.26,3528,Strategic Planning
-402,Hoebart Wrenn,77339 Warrior Circle,Sales Representative,autodidacta,975,246,3748,729,59.68,2.71,1153,WPF
-403,Saunders Southerton,69648 Mallard Street,Sales Associate,profesional,2175,862,1272,1313,7.52,2.15,1864,EP
-404,Mozelle Crauford,8 Dryden Avenue,Payment Adjustment Coordinator,autodidacta,3805,769,2205,3036,28.07,3.37,1363,Sports Injuries
-405,Fawn Jerke,1 Pine View Junction,Quality Control Specialist,autodidacta,3027,229,1179,2798,15.54,0.43,251,LWD
-406,Alvinia Boick,522 Glendale Street,Human Resources Assistant III,autodidacta,1977,113,1570,1864,32.53,0.11,3086,Claim
-407,Mattie Dowles,1 Shasta Drive,Legal Assistant,profesional,3725,114,2920,3611,7.8,1.87,2904,Dispute Resolution
-408,Myrilla Hearons,96825 Schlimgen Lane,Automation Specialist I,profesional,666,368,2618,298,18.87,0.94,4487,Road
-409,Verla Babbidge,4849 Continental Pass,Administrative Officer,autodidacta,520,197,3305,323,98.43,4.19,267,OLEDs
-410,Celle Edgcombe,3358 Delaware Place,Nurse,profesional,972,969,3550,3,46.17,2.95,459,System Administration
-411,Maria Chardin,7976 Nelson Park,Financial Analyst,profesional,3650,706,3523,2944,16.4,1.96,4148,ITIL Certified
-412,Andie Drinkwater,9 Mayer Trail,Actuary,autodidacta,1215,815,2003,400,54.71,0.12,2662,Digital Marketing
-413,Henrik Brantl,050 Canary Street,Programmer IV,autodidacta,3430,201,3940,3229,77.87,2.07,379,Portuguese
-414,Eran Eakins,63749 Pierstorff Avenue,Systems Administrator II,autodidacta,52,20,3343,32,74.3,2.95,1877,Overseeing Projects
-415,Rahel Peert,98 Darwin Drive,Nurse,autodidacta,2497,337,1047,2160,50.31,2.06,956,Enzyme Kinetics
-416,Lothaire Trewhela,38908 Fisk Place,Librarian,autodidacta,3117,560,2755,2557,45.19,1.45,1715,Entrust PKI
-417,Marnie Selkirk,0896 Green Ridge Place,Office Assistant I,profesional,989,45,1878,944,0.1,4.23,14,HP Blade
-418,Yank Scotson,48162 North Center,Senior Financial Analyst,autodidacta,2823,1051,2231,1772,16.67,3.2,55,Mysticism
-419,Hanson Caswell,36567 Brentwood Street,Chemical Engineer,profesional,2790,2378,3086,412,52.19,4.23,3506,IBM iSeries
-420,Elonore Gyngyll,0667 Anhalt Avenue,Professor,profesional,789,562,1736,227,7.58,2.77,1378,Print On Demand
-421,Ramonda Deverall,63 Mayfield Circle,Internal Auditor,autodidacta,3943,2532,359,1411,97.44,1.57,501,SAP MM
-422,Arnold Vasyunichev,51 Brown Court,Chemical Engineer,autodidacta,2834,2183,2078,651,81.9,1.68,2887,Raw Materials
-423,Kalli Rubica,08528 Rowland Court,Budget/Accounting Analyst I,profesional,1714,1340,3547,374,6.21,1.26,1945,FTO
-424,Elia Ewbanck,523 Sunbrook Circle,Administrative Officer,autodidacta,1892,1090,1038,802,55.55,4.71,4816,Procurement
-425,Lynnett Scrooby,39 Coleman Street,Senior Quality Engineer,profesional,3516,149,3421,3367,90.19,2.88,46,LSO
-426,Melody Mengo,86 Prairieview Lane,Paralegal,autodidacta,40,14,2161,26,38.64,2.37,3580,Syslog-ng
-427,Brandise Snipe,7 Pepper Wood Drive,Mechanical Systems Engineer,profesional,2250,1498,917,752,31.68,2.28,1567,RDMA
-428,Chantal Milier,14857 Algoma Court,Database Administrator II,autodidacta,3836,2412,2838,1424,79.21,1.23,2748,Revenue Analysis
-429,Tammie Trobey,73425 Swallow Terrace,Automation Specialist II,autodidacta,1202,969,2871,233,13.99,4.18,562,MBOX
-430,Maribelle Kochs,8983 Jenifer Hill,Automation Specialist IV,profesional,2202,666,3242,1536,57.46,0.53,4282,MCDST
-431,Nessa Breyt,82594 Portage Court,Social Worker,autodidacta,2957,827,968,2130,2.27,3.61,2933,Automotive Engineering
-432,Englebert Sarfas,72297 Sutteridge Avenue,Executive Secretary,autodidacta,2126,947,1516,1179,43.5,5.0,3402,Siding
-433,Allys Haslock,1 Becker Terrace,Technical Writer,profesional,2345,762,2960,1583,69.39,3.28,2813,UHF
-434,Crin Readings,02430 Cambridge Court,VP Product Management,autodidacta,2163,102,395,2061,36.27,2.24,4171,Sports Management
-435,Karry Wellard,3962 Forest Park,Electrical Engineer,profesional,1238,284,2129,954,41.28,3.77,1991,UART
-436,Kinny Denial,071 Mendota Way,Budget/Accounting Analyst IV,profesional,362,205,1084,157,56.0,4.11,4243,Osteopathy
-437,Francis Scully,585 Bluejay Circle,Senior Sales Associate,profesional,258,96,1884,162,20.23,4.27,1803,FTK
-438,Cynthea Wathen,54 Jenna Road,Marketing Assistant,profesional,687,168,1600,519,33.48,1.75,3100,CSCP
-439,Zorana Ondrusek,5426 Carpenter Terrace,Tax Accountant,profesional,3785,2650,2755,1135,91.42,2.27,4461,Business Strategy
-440,Basil Duncklee,04467 Sugar Point,Marketing Manager,profesional,3291,1808,2871,1483,16.2,3.33,2219,SBR
-441,Lyndsay Peggs,21906 Cottonwood Crossing,Analyst Programmer,profesional,2363,210,577,2153,45.44,2.62,2542,Drainage
-442,Avictor Geerdts,198 Delaware Way,Statistician I,profesional,1803,1703,883,100,8.9,1.35,2419,Human Factors
-443,Jen Brugger,736 Eliot Pass,Engineer II,autodidacta,1320,1012,1421,308,14.55,4.14,4822,PPC Bid Management
-444,Lotta Garshore,36957 Longview Parkway,Desktop Support Technician,profesional,962,747,2379,215,97.94,2.27,4886,iOS
-445,Clywd Arnefield,0988 Vahlen Drive,Environmental Tech,profesional,2334,204,1373,2130,49.36,4.92,1423,Film Festivals
-446,Marcie Keenlayside,8996 Redwing Alley,Geologist I,profesional,3771,98,1720,3673,88.23,1.96,2875,SRED
-447,Fidole Cammack,6 Green Hill,Senior Cost Accountant,autodidacta,2350,609,3702,1741,31.36,0.75,1752,Media TV
-448,Quill Skellon,518 Vera Alley,Assistant Media Planner,autodidacta,1354,423,1331,931,53.93,4.84,190,SDI
-449,Conni Vearncomb,883 Heath Circle,Professor,autodidacta,830,194,3414,636,25.26,4.35,3388,DV Camera Operator
-450,Humphrey Kershow,27321 Ohio Way,Senior Financial Analyst,autodidacta,2798,478,1238,2320,80.37,4.72,3819,QAQC
-451,Norrie Cookley,56 Miller Lane,Engineer IV,autodidacta,2954,1214,3186,1740,9.95,2.19,4253,Brand Ambassadorship
-452,Abner Playfair,5 Tennessee Parkway,Internal Auditor,autodidacta,1672,36,1244,1636,22.96,4.04,4312,YMS
-453,Erhard Gabriely,0 Golf Junction,Accountant I,autodidacta,1694,849,3961,845,91.37,2.67,4278,MBTI
-454,Suki Turnor,64537 Eagan Center,Graphic Designer,autodidacta,3757,2431,1202,1326,42.04,4.78,4359,Youth Ministry
-455,Curcio Paddeley,11319 Kings Hill,Graphic Designer,profesional,2179,481,533,1698,54.19,4.94,1828,Snacks
-456,Cobb Giovannacci,346 Rieder Plaza,Computer Systems Analyst I,autodidacta,2897,2551,3136,346,59.55,4.37,2444,White Collar Criminal Defense
-457,Michale Johncey,69985 Duke Junction,Internal Auditor,profesional,1963,1667,1549,296,29.67,2.83,967,NI Multisim
-458,Amberly Grimley,90 Shopko Drive,Mechanical Systems Engineer,autodidacta,806,368,640,438,13.54,1.08,3130,Trade Shows
-459,Pam Rain,1 Waubesa Avenue,Director of Sales,autodidacta,1592,1577,2647,15,57.69,1.27,3819,Cuisine
-460,Heather Bellard,98785 Gina Place,Tax Accountant,autodidacta,286,192,1255,94,0.79,4.3,76,Document Review
-461,Jackquelin Dilloway,244 Manitowish Court,Account Executive,autodidacta,972,515,2853,457,8.51,2.64,1222,Government Procurement
-462,Dede Edis,21 Hagan Place,Account Representative II,autodidacta,843,396,320,447,17.63,4.37,4072,Online Reputation Management
-463,Ebony Dunmore,843 Doe Crossing Alley,Budget/Accounting Analyst II,profesional,1068,714,794,354,45.07,0.15,818,GDS
-464,Emogene Copeland,75463 Bay Place,Developer IV,profesional,1116,22,826,1094,80.54,1.66,3578,10 Key
-465,Kipp Agass,8723 Carpenter Lane,Sales Representative,profesional,2423,1783,143,640,13.34,0.88,2638,Brokers
-466,Nike Lusher,7399 Forest Run Trail,Senior Editor,autodidacta,2036,1641,98,395,3.37,1.5,86,Ideas Development
-467,Tessie Barenskie,0 Lakeland Parkway,Recruiting Manager,autodidacta,3551,713,1645,2838,6.62,2.63,3344,IDX
-468,Andrea Normavell,9 Lukken Road,Budget/Accounting Analyst III,profesional,559,409,657,150,72.55,0.55,4383,User Experience Design
-469,Kevyn Ravel,440 Anhalt Junction,Project Manager,autodidacta,3965,485,2030,3480,63.17,3.62,1902,RTU
-470,Lonnie Poulsom,485 Sunbrook Pass,Marketing Manager,autodidacta,2624,2448,3801,176,73.84,2.44,104,Pharmaceutical Sales
-471,Germain Dulany,556 Spohn Hill,Research Assistant IV,profesional,2077,448,2372,1629,23.25,0.6,4892,Power Utilities
-472,Dino Asser,66852 Judy Drive,Accounting Assistant II,profesional,2142,1452,2115,690,78.88,4.56,4302,What-if Analysis
-473,Eda Keeltagh,8332 Hermina Park,Developer III,profesional,363,329,3312,34,63.13,3.69,3444,HDI Support Center Analyst
-474,Slade Gifkins,2405 Scofield Parkway,Structural Analysis Engineer,profesional,2370,1323,534,1047,79.05,1.13,2857,Software Implementation
-475,Kacy Wyllt,7553 Kropf Circle,Associate Professor,profesional,1908,1634,1352,274,37.71,1.21,1306,DNV
-476,Nerty Alcock,8981 Schlimgen Park,Analog Circuit Design manager,autodidacta,1971,976,3467,995,10.56,0.0,4081,Documentaries
-477,Melodie Doucette,5353 Heath Drive,Financial Analyst,autodidacta,1459,50,2180,1409,36.68,4.62,3744,Case Management
-478,Corabella Sprade,964 Starling Crossing,Graphic Designer,autodidacta,407,161,2602,246,46.42,1.06,990,Recombinant DNA
-479,Deeann Cater,8677 Vidon Junction,Professor,profesional,847,354,3561,493,49.76,4.62,569,CPR Certified
-480,Walliw Coldwell,18520 Milwaukee Point,Engineer IV,autodidacta,1506,52,2788,1454,74.3,0.01,4488,Epistemology
-481,Felicity Barsby,74784 Blackbird Street,Senior Financial Analyst,autodidacta,280,238,1167,42,37.64,4.1,3447,Twitter
-482,Piper Eldershaw,1932 Hooker Crossing,Financial Analyst,profesional,3933,1243,3921,2690,63.3,4.12,1524,Utility Regulation
-483,Marney Schruurs,53245 Rigney Crossing,Tax Accountant,profesional,3231,2036,2764,1195,48.54,1.32,3983,Easytrieve
-484,Valene Hoggins,9675 Norway Maple Drive,Account Representative III,profesional,528,168,3830,360,91.89,3.49,785,Navigation
-485,Melita Duckhouse,5110 Vahlen Way,Electrical Engineer,profesional,2924,430,959,2494,66.58,2.01,1822,CQC
-486,Franciska Zucker,3558 Springview Pass,Senior Editor,autodidacta,3195,1973,695,1222,72.6,0.05,4644,BFD
-487,Phillipe Manifould,8302 Evergreen Pass,Software Engineer II,profesional,1757,1749,452,8,13.77,0.35,1722,Legal Assistance
-488,Lorettalorna Copnar,98704 Arkansas Terrace,Budget/Accounting Analyst IV,autodidacta,3437,1658,17,1779,51.64,2.16,3243,International Shipping
-489,Clarie Petyanin,685 Aberg Pass,Senior Cost Accountant,autodidacta,678,665,1708,13,57.76,0.26,4519,NRSWA
-490,Luelle Till,219 Melody Junction,Help Desk Operator,autodidacta,1796,1709,981,87,10.07,0.1,4112,Security Operations
-491,Alejandro Brimilcombe,938 Eastwood Road,Quality Engineer,profesional,1329,822,3569,507,45.26,4.49,811,IT Project &amp; Program Management
-492,Massimiliano Weatherhill,58233 Sunnyside Place,Systems Administrator III,profesional,3947,3295,2530,652,50.07,2.3,1245,BTLS
-493,Duke Winspare,2123 Morningstar Way,Safety Technician II,profesional,3818,255,2133,3563,56.15,0.3,62,XForms
-494,Kerstin Blazejewski,3022 Elgar Plaza,Information Systems Manager,profesional,1291,648,1197,643,89.24,3.5,763,FM/2
-495,Christophe Slade,289 Jay Circle,Account Executive,profesional,2926,2664,2147,262,37.84,2.79,587,HPHT
-496,Elisa Haysham,332 Mockingbird Junction,Research Nurse,autodidacta,2822,458,353,2364,44.46,1.1,1682,MICROS
-497,Margalo Nelsey,42734 Carpenter Center,Software Test Engineer III,autodidacta,315,49,625,266,4.25,4.17,1343,Military Affairs
-498,Jocelin Mulhall,747 South Circle,Human Resources Manager,autodidacta,334,33,379,301,32.1,3.23,1835,SGBD
-499,Seamus Grisewood,0 Utah Drive,Sales Associate,profesional,3174,2343,1694,831,21.78,4.21,308,SSOP
-500,Sinclare Goady,660 Basil Crossing,Senior Financial Analyst,profesional,1898,726,3424,1172,30.7,4.63,716,Aerobics
-501,Janette Vallery,22517 Randy Road,Operator,autodidacta,3084,1370,3124,1714,70.52,3.52,812,DDA compliance
-502,Oneida Kellington,185 Arapahoe Lane,Automation Specialist I,autodidacta,2459,309,851,2150,56.13,0.96,3035,International NGOs
-503,Donal Chadderton,2287 Trailsway Lane,Registered Nurse,autodidacta,3536,3473,337,63,38.93,2.83,673,Topographic Surveys
-504,Mady Coulter,09 Kropf Plaza,Administrative Assistant I,profesional,2012,1505,2284,507,47.23,1.94,2132,PPO
-505,Danny Duthie,0938 Summerview Place,General Manager,autodidacta,3109,1773,2525,1336,72.7,1.16,4548,GDS systems
-506,Angel Gullam,55 Scofield Junction,Automation Specialist II,autodidacta,1723,1368,1654,355,98.99,2.63,4591,RMX
-507,Wolfgang Dunbar,52779 Harbort Place,Systems Administrator IV,autodidacta,273,159,3394,114,66.7,0.19,4808,Scripting
-508,Yovonnda Currao,71977 Northview Place,Social Worker,autodidacta,3323,2897,2541,426,38.88,4.36,2867,Military Experience
-509,Eugenia Chang,1088 Algoma Avenue,Director of Sales,autodidacta,1661,159,2398,1502,63.94,2.51,3843,Sports Medicine
-510,Gabie Saffer,40 4th Way,Accounting Assistant II,profesional,3862,1955,3753,1907,19.71,2.33,3468,NTSC
-511,Lorenzo Sagar,913 Scott Hill,Quality Engineer,profesional,3184,177,3723,3007,13.75,0.89,157,Document Drafting
-512,Joshuah Valadez,78943 Division Terrace,VP Marketing,autodidacta,2014,1607,2377,407,71.21,2.32,4568,Social TV
-513,Jimmy Aldrin,675 Emmet Junction,Office Assistant III,autodidacta,1326,83,1762,1243,80.92,0.81,2968,cPanel
-514,Brocky Swayland,12625 Nelson Junction,Assistant Manager,profesional,2829,1257,2630,1572,35.73,3.34,3880,BCA Protein Assay
-515,Aliza Kleiner,5803 West Street,Tax Accountant,autodidacta,1162,462,225,700,9.53,3.44,759,xCAT
-516,Tailor Simnell,07 Spohn Terrace,Staff Scientist,profesional,1388,826,2449,562,68.77,2.98,3436,Djbdns
-517,Tressa Ballantine,6494 Montana Crossing,Senior Financial Analyst,profesional,1935,892,1380,1043,82.88,0.79,1757,Artistic Abilities
-518,Deirdre Fairley,741 Mayfield Court,Teacher,profesional,2715,2562,623,153,36.54,0.26,132,WDM
-519,Bradford Matschuk,45515 New Castle Point,Account Representative II,autodidacta,1154,1102,430,52,23.72,3.72,4357,Broadband
-520,Johnath Workman,241 Doe Crossing Crossing,Professor,autodidacta,2495,1149,1110,1346,72.98,1.98,1716,Voiceovers
-521,Floria Somerville,8931 Everett Street,Operator,autodidacta,1813,66,420,1747,85.34,4.96,2231,Natural Resource Management
-522,Vasilis Loughlan,3177 Fremont Terrace,Accountant II,profesional,896,731,1867,165,21.06,4.23,3518,Digital Video
-523,Corty Nunn,341 Myrtle Hill,Legal Assistant,autodidacta,1839,1510,2079,329,0.77,0.44,4010,EIFS
-524,Kania Feckey,867 Cottonwood Avenue,Human Resources Assistant III,autodidacta,2944,1076,19,1868,79.57,4.35,4175,Festivals
-525,Naoma Wind,19794 Anthes Alley,Food Chemist,profesional,781,280,2678,501,12.85,4.29,3654,BCNE
-526,Nola Dumberell,09 Sutteridge Road,Engineer III,profesional,52,17,2892,35,65.35,4.9,4463,Farms
-527,Orland Lusgdin,4 Sundown Drive,Associate Professor,profesional,2136,1570,1998,566,12.45,1.43,588,AutoCAD Architecture
-528,Eliza Danniel,84529 North Circle,Operator,autodidacta,125,78,882,47,58.64,4.91,1764,Athlete Development
-529,Suzie Jacson,21319 Independence Trail,Senior Cost Accountant,profesional,905,150,2555,755,17.16,0.22,3983,Feasibility Studies
-530,Dorice Couper,568 Grover Trail,Programmer Analyst I,autodidacta,1591,1031,787,560,53.15,2.8,702,BMC Remedy Ticketing System
-531,Aguistin Jeacock,74664 Merry Hill,Senior Editor,profesional,293,93,42,200,0.75,2.77,2205,Sleep Disorders
-532,Corette Lazarus,8 Derek Point,Quality Engineer,autodidacta,115,22,2833,93,69.67,2.13,2780,OmniPlan
-533,Cirilo Favell,8908 Fairview Terrace,Dental Hygienist,profesional,1690,126,1355,1564,24.73,2.54,1584,SGBD
-534,Emmanuel Grace,064 Atwood Circle,Structural Engineer,autodidacta,183,65,3335,118,8.0,4.16,1519,Dreamweaver
-535,Verna Driutti,327 Blackbird Pass,Marketing Manager,autodidacta,587,521,1922,66,27.8,0.87,184,Environmental Awareness
-536,Hillel Totman,170 Gulseth Street,Junior Executive,autodidacta,2823,575,22,2248,13.15,3.44,708,Jury Trials
-537,Netty Writtle,9 Arkansas Plaza,Office Assistant III,autodidacta,410,49,385,361,35.75,1.93,902,Venue Management
-538,Carlie Sexstone,19 Londonderry Avenue,Structural Engineer,autodidacta,842,173,3180,669,68.21,4.2,4736,GCCS
-539,Garnette Gammet,30 Elgar Way,Statistician II,autodidacta,3141,494,3024,2647,80.66,4.42,3,FCIP
-540,Vaughan Birchall,1432 Straubel Way,Product Engineer,profesional,473,13,1315,460,10.95,4.18,1727,Sanction II
-541,Zebulen Van Zon,83370 Stephen Alley,Human Resources Assistant II,profesional,473,167,1255,306,67.85,3.73,1028,NCARB
-542,Malachi Rakes,45206 Red Cloud Avenue,Senior Sales Associate,autodidacta,372,313,3639,59,50.0,1.75,4531,WSIB
-543,Pattie Trenfield,437 Gina Terrace,Office Assistant II,autodidacta,2027,1939,3389,88,76.53,0.79,1615,RBI
-544,Ximenez Doldon,904 Forest Dale Alley,Help Desk Operator,autodidacta,3665,473,1270,3192,41.69,3.2,3979,Japanese Business Culture
-545,Rosita Woollett,95643 Doe Crossing Place,General Manager,autodidacta,2861,446,473,2415,42.05,3.38,2625,NATO
-546,Wylma Fredy,5009 Mitchell Court,Senior Quality Engineer,profesional,3172,769,1312,2403,2.84,4.36,1972,Dbx
-547,Thane Barnish,9911 Burrows Plaza,VP Quality Control,profesional,1815,1510,1764,305,88.17,4.33,2795,XDoclet
-548,Keeley Infante,9437 Larry Circle,Food Chemist,autodidacta,2383,1158,1975,1225,32.09,2.92,4781,Mathematical Modeling
-549,Eliot Klimshuk,76647 Transport Drive,Director of Sales,autodidacta,78,42,1397,36,45.06,1.76,3622,HVAC Design
-550,Abbe Blazek,21 Meadow Vale Parkway,Food Chemist,autodidacta,3658,3238,3848,420,85.24,0.86,3777,Trend Analysis
-551,Mandi Fearney,1 Fordem Avenue,Paralegal,profesional,2129,1625,2550,504,34.0,1.32,4276,Bank-owned Properties
-552,Lavina Kightly,9873 Scofield Pass,Media Manager III,profesional,400,49,152,351,46.98,2.11,4619,Rheumatoid Arthritis
-553,Siegfried Phelips,3129 Hazelcrest Park,Executive Secretary,profesional,1943,1249,3535,694,77.87,0.98,4646,Alcoholic Beverages
-554,Alessandra Carpmile,224 Lukken Avenue,Automation Specialist I,profesional,3613,1019,3987,2594,33.26,4.3,1238,Operational Risk Management
-555,Peggie Bernaciak,0686 Manufacturers Road,Data Coordiator,profesional,3958,1640,1386,2318,23.25,4.85,2100,SketchUp
-556,Avrom Schmuhl,59 Esch Plaza,Financial Advisor,autodidacta,471,331,1857,140,40.21,4.28,4563,HP Server Hardware
-557,Lorine Broadberrie,26242 Farragut Road,Safety Technician III,profesional,1587,310,285,1277,79.7,3.69,2877,MicroStation
-558,Gaylord Orgen,8048 Chinook Terrace,Help Desk Operator,profesional,1390,867,2587,523,40.19,3.14,2314,General Aviation
-559,Raynor Dellow,320 Talisman Lane,Clinical Specialist,autodidacta,1693,362,539,1331,11.2,1.81,36,APO SNP
-560,Chris Ivell,721 Sycamore Parkway,Quality Engineer,autodidacta,6,4,422,2,8.91,4.87,399,Lyris
-561,Gayel Besque,99679 Steensland Terrace,Programmer Analyst IV,autodidacta,3615,3371,1381,244,87.31,4.42,3794,Air Compressors
-562,Agata Gounot,163 Oriole Road,Environmental Specialist,autodidacta,3709,303,2483,3406,24.77,1.96,429,TI DSPs
-563,Jocelyn Draisey,6601 Cottonwood Alley,Nurse Practicioner,profesional,3283,2442,1451,841,54.14,4.74,4045,EF
-564,Collen Pomphrey,455 Loftsgordon Junction,Health Coach IV,autodidacta,1240,237,3490,1003,15.82,4.44,3718,Three.js
-565,Arch Dewing,1 Northland Trail,Assistant Manager,autodidacta,2634,592,766,2042,51.3,2.02,2578,Disability Insurance
-566,Kylen Stollenberg,0 Larry Hill,Administrative Assistant III,autodidacta,3772,2565,1128,1207,24.8,0.95,4506,ICP
-567,Alleyn Dyte,323 Summer Ridge Pass,Office Assistant II,autodidacta,2990,2000,1708,990,77.62,1.19,2945,Microsoft Dynamics
-568,Davida Liptrod,4690 Steensland Court,Engineer I,autodidacta,163,40,402,123,24.24,3.17,4299,Analytical Skills
-569,Vivie D'Agostini,19 Eggendart Terrace,Help Desk Operator,autodidacta,3406,1964,769,1442,34.19,1.31,2843,Regulatory Affairs
-570,Lissie Silby,93 Hermina Center,Help Desk Technician,profesional,3389,3351,3246,38,25.11,2.24,989,MHP
-571,Marita Sallenger,973 Waxwing Hill,Research Nurse,profesional,2337,1541,560,796,4.82,0.39,4005,Digital Electronics
-572,Kynthia Tokley,46336 Mcbride Circle,Legal Assistant,autodidacta,3248,697,1085,2551,77.37,2.04,3139,JSF
-573,Ardine Baumer,13 Bunker Hill Drive,Sales Associate,autodidacta,67,21,3569,46,16.37,3.73,968,Sales Tax
-574,Caz Louw,7850 Farmco Avenue,Office Assistant IV,autodidacta,3373,3170,667,203,82.24,2.0,3700,Core Java
-575,Eveline Cruce,316 Leroy Drive,Mechanical Systems Engineer,profesional,2488,2381,1137,107,57.32,4.67,934,QRM
-576,Warner Weippert,6 Hoard Alley,Account Representative I,profesional,2027,715,2817,1312,87.34,2.55,1526,Microsoft Dynamics ERP
-577,Frederique Cussen,326 Merchant Trail,Geological Engineer,autodidacta,2104,324,3827,1780,41.98,4.16,2504,Historical Research
-578,Drugi Volet,5 Heath Drive,Graphic Designer,autodidacta,3970,3701,513,269,86.59,4.92,900,EU Competition Law
-579,Geordie Castelluzzi,12854 Thierer Court,Nurse,autodidacta,379,343,81,36,99.06,0.32,2655,HP Service Manager
-580,Tony Caush,7 Fairview Circle,Health Coach IV,autodidacta,1285,525,2120,760,10.76,3.73,1141,CISSP
-581,Thomasina Featherstone,7 Utah Hill,Nurse Practicioner,profesional,1123,133,2565,990,17.21,2.64,2911,IBM Servers
-582,Eachelle Mayzes,3 Helena Circle,Community Outreach Specialist,autodidacta,1360,1273,363,87,26.83,0.78,1838,OTA
-583,Antin Holdin,29 Banding Road,Social Worker,profesional,3925,2337,660,1588,20.3,3.39,2456,Utility Systems
-584,Leif Jenno,35018 Ilene Plaza,Paralegal,profesional,687,387,1264,300,20.55,0.46,3373,Ethical Decision Making
-585,Gladys Bilsford,85 Spaight Pass,Geologist III,autodidacta,1664,643,3537,1021,2.2,1.99,2106,Speech Writing
-586,Annie Blowfelde,9107 Dixon Lane,Nurse,profesional,1161,177,1763,984,79.2,2.95,3598,IHT
-587,Felicity Ailward,36152 Shasta Terrace,Technical Writer,autodidacta,1335,20,3042,1315,89.77,1.35,2942,Board Development
-588,Craggy Comazzo,4366 Clemons Lane,Quality Control Specialist,profesional,2531,1422,531,1109,12.34,1.11,4395,Signal Processing
-589,Flinn Downing,8 Stone Corner Junction,Junior Executive,autodidacta,2871,1344,1150,1527,77.22,4.88,334,NSE
-590,Clarine Whilder,2010 Fair Oaks Hill,Accountant IV,autodidacta,3269,364,2769,2905,67.12,0.8,3742,OllyDbg
-591,Hillary Inker,326 Schurz Drive,VP Accounting,profesional,2414,1284,1328,1130,37.77,1.3,3397,Sun One LDAP
-592,Tracie Locks,5 Sage Plaza,Electrical Engineer,profesional,3147,2275,2570,872,28.64,3.34,2891,RSS
-593,Frazer Eastam,5549 Calypso Road,Environmental Specialist,profesional,1817,186,987,1631,58.46,3.08,4871,Subversion
-594,Salli Bedford,8 Meadow Valley Alley,Web Developer IV,autodidacta,554,270,2938,284,82.15,4.59,13,SMT
-595,Fanchon Pennicard,70 Stone Corner Lane,Environmental Specialist,autodidacta,1518,1059,1105,459,1.3,0.54,4459,AHP
-596,Jobyna Wolfit,09460 Daystar Hill,Director of Sales,autodidacta,3393,843,2215,2550,40.16,2.64,3187,Japanese Culture
-597,Franz Thrower,7 Prentice Point,Mechanical Systems Engineer,profesional,615,397,1299,218,43.89,2.57,2367,GXT
-598,Norby Killingsworth,7700 Russell Hill,Junior Executive,profesional,1036,836,3822,200,28.12,1.07,653,MicroStation
-599,Zachery Quilkin,00 Nevada Drive,Help Desk Technician,profesional,1122,486,2293,636,89.7,0.56,3108,Sap Fm
-600,Abbie O'Kennavain,343 Glacier Hill Center,Nurse,profesional,3027,1411,360,1616,74.26,0.03,2899,MTBF
-601,Gardiner Buggs,65695 Stephen Parkway,Desktop Support Technician,profesional,3523,236,578,3287,12.04,2.44,2363,Adult Education
-602,Charlotte Nucci,98315 North Lane,Electrical Engineer,autodidacta,750,259,3975,491,80.66,3.22,2493,Google Docs
-603,Kare Fardon,621 Stone Corner Alley,Mechanical Systems Engineer,profesional,1471,282,2474,1189,74.43,2.93,1030,UB04
-604,Sean Osant,472 Rowland Pass,Assistant Professor,profesional,730,719,1648,11,32.51,2.57,4828,Drama
-605,Derward Curthoys,16 5th Drive,Media Manager II,profesional,3620,1601,2256,2019,81.62,0.96,2880,SAP PP
-606,Emmeline Bastable,95 6th Park,Project Manager,profesional,3690,2212,1891,1478,92.75,4.1,506,Market Risk
-607,Dodi Boorer,98 Fairview Center,Software Test Engineer IV,profesional,1065,690,430,375,96.85,1.05,1265,Legislative Affairs
-608,Nerita Cowtherd,68211 Goodland Trail,Senior Developer,autodidacta,2811,1367,2684,1444,91.21,0.83,1469,PyMEL
-609,Kippy Philip,5609 Delaware Alley,Mechanical Systems Engineer,profesional,3121,2817,809,304,59.1,1.98,1938,TMS320
-610,Clare Ranscome,485 Oak Valley Park,Project Manager,autodidacta,1757,713,2008,1044,81.73,2.89,4760,Visual SVN
-611,Samuel Stud,4758 Monterey Avenue,Staff Accountant IV,profesional,2819,2298,967,521,58.0,2.97,3552,EOL
-612,Merci Southerden,899 Swallow Crossing,Legal Assistant,profesional,2626,1399,3658,1227,54.85,3.83,736,Fund Accounting
-613,Rachelle Wornum,28772 Luster Pass,Software Engineer I,profesional,2085,114,3638,1971,93.06,4.53,3195,Mixed Signal
-614,Carney Jelley,7 Hoepker Point,Civil Engineer,profesional,1717,846,214,871,50.65,1.51,2610,CPIM
-615,Nessa Larkings,57906 Karstens Street,Geologist II,autodidacta,3869,866,2412,3003,11.09,0.21,1954,Zuken
-616,Courtenay Frere,6 Center Drive,Help Desk Operator,autodidacta,2629,940,2753,1689,37.3,3.49,496,ISO
-617,Lindsey Calam,0 Dawn Park,Senior Cost Accountant,autodidacta,2904,233,12,2671,44.8,0.54,1854,People Skills
-618,Yancey Jeaffreson,2778 Fordem Avenue,Executive Secretary,profesional,851,797,2779,54,81.41,0.96,3733,Literacy
-619,Ban Bilbrook,0 Nobel Crossing,Desktop Support Technician,profesional,992,524,1802,468,95.82,1.95,1554,Xilinx ISE
-620,Nataniel Tompsett,4 Swallow Street,Nuclear Power Engineer,autodidacta,1719,1447,3158,272,24.81,1.36,143,HP Servers
-621,Eustacia Playden,4593 Springview Center,Technical Writer,profesional,1258,1218,1814,40,5.44,4.96,3607,Employee Management
-622,Wylma Brouard,4600 Bowman Pass,Actuary,autodidacta,1849,1322,3768,527,53.87,0.96,2409,IPTV
-623,Karoline Burtt,57976 Helena Way,Quality Control Specialist,autodidacta,1083,295,3166,788,64.84,0.91,4005,CNC Manufacturing
-624,Carlita Carrol,1191 Vera Crossing,Actuary,autodidacta,1228,1031,3946,197,38.29,2.68,2666,TS2
-625,Jaquelin Motherwell,5 Nobel Point,Senior Developer,autodidacta,670,460,2970,210,1.58,4.81,4021,Fund Administration
-626,Dori Plumtree,75 Upham Road,Database Administrator II,autodidacta,3616,3564,3808,52,58.31,3.3,4707,Athletic Performance
-627,Sampson Pearne,29 Londonderry Junction,Quality Control Specialist,profesional,219,213,3696,6,43.28,3.66,4821,UK Tax
-628,Geraldine Carous,3 Dawn Road,Administrative Officer,autodidacta,2076,1219,2513,857,16.05,3.58,4955,MPEG2
-629,Nevins Raubheim,757 Mosinee Pass,Database Administrator II,profesional,1124,408,704,716,27.3,4.57,3578,RFQ Development
-630,Marge Olden,922 Waywood Plaza,Project Manager,profesional,481,244,3137,237,94.43,0.99,1991,WDK
-631,Saidee Burstow,02 Miller Trail,Statistician II,profesional,864,718,1096,146,38.24,3.28,2818,Sourcing
-632,Farlee Simper,6 Weeping Birch Lane,Senior Sales Associate,profesional,1973,122,3159,1851,18.98,0.05,4579,MyBatis
-633,Andres Crawshay,55846 Summerview Pass,Data Coordiator,profesional,3609,1185,3342,2424,94.81,0.21,1844,Following Up
-634,Guido Grono,95618 Atwood Crossing,Chemical Engineer,profesional,1488,177,3500,1311,74.04,1.32,4933,DNA
-635,Danya Bachelar,77907 Hazelcrest Drive,Assistant Media Planner,autodidacta,2485,26,3863,2459,78.22,3.74,4788,Global Strategy
-636,Felicdad Dainton,43398 Morning Terrace,Senior Sales Associate,autodidacta,1733,1387,3615,346,15.97,2.35,3483,Following Up
-637,Leilah Immins,37 Thierer Center,General Manager,profesional,3284,320,676,2964,47.91,4.81,4000,Volleyball
-638,Carlie Vogele,82 Northwestern Crossing,Speech Pathologist,profesional,2513,790,2491,1723,3.38,4.8,820,JIS
-639,Jacques Grimestone,98 Reindahl Court,Accounting Assistant I,autodidacta,3031,2796,3249,235,72.95,1.36,1499,AOG
-640,Kermie Salla,5874 Sundown Parkway,Statistician III,profesional,2291,2186,1704,105,2.64,3.93,4609,Integrated Marketing
-641,Terra Retter,63808 Helena Crossing,Software Consultant,profesional,2092,1129,509,963,85.07,4.55,5000,Bluetooth
-642,Gunther Derham,354 Del Mar Road,Analog Circuit Design manager,profesional,590,317,3024,273,33.32,4.7,4396,ILM
-643,Averil Dahlbom,7 Butterfield Point,Human Resources Manager,profesional,1714,267,3226,1447,54.04,0.84,2862,Audio Engineering
-644,Dom Sallan,4482 Ludington Center,VP Sales,profesional,25,25,1741,0,10.39,4.15,2482,XOG
-645,Asia Thornbarrow,81 Superior Junction,Cost Accountant,profesional,2020,540,3572,1480,0.49,3.27,4311,RPG II
-646,Cornela Durand,8401 Oak Parkway,Automation Specialist I,autodidacta,1794,1596,3966,198,26.2,4.39,4562,ICD-10
-647,Valdemar Ducaen,78464 Vermont Road,Tax Accountant,profesional,3547,3045,2839,502,93.14,4.53,2393,LVDS
-648,Rube Jerrold,34 Northwestern Crossing,Safety Technician III,autodidacta,3635,2444,978,1191,45.17,4.81,1672,ESL
-649,Aurora Winterburn,42338 Hooker Terrace,Assistant Professor,autodidacta,3894,2688,2772,1206,84.52,2.34,1674,User Research
-650,Doretta MacKessock,02 Clyde Gallagher Road,Teacher,profesional,2017,500,2175,1517,4.05,4.91,4978,IHT
-651,Cherice Farge,803 Jackson Way,Computer Systems Analyst III,autodidacta,3194,1097,3482,2097,97.98,3.63,1222,SBA
-652,Sofie Lovewell,15 Kedzie Road,Accounting Assistant III,autodidacta,258,183,460,75,52.35,4.72,259,IT Transformation
-653,Constantine Puve,022 Kropf Place,Assistant Media Planner,profesional,2063,604,1105,1459,20.84,0.83,4242,POS
-654,Westley Felton,5 Harper Circle,Payment Adjustment Coordinator,profesional,3888,258,777,3630,46.59,3.4,4468,Pain Management
-655,Claudian Hampshire,1943 Southridge Park,Human Resources Manager,profesional,2542,1184,11,1358,41.42,2.34,4123,ZeroMQ
-656,Catarina Morison,56371 Bonner Road,Administrative Officer,autodidacta,522,92,1958,430,12.79,2.65,1467,RVs
-657,Lolly Slyvester,8322 Evergreen Lane,Quality Control Specialist,autodidacta,2622,766,135,1856,58.09,1.35,2392,RF Systems
-658,Kahlil Vipan,5934 6th Park,Product Engineer,profesional,3342,303,1990,3039,66.32,3.26,1535,BPWin
-659,Aluin Hathway,48937 Milwaukee Road,Developer III,autodidacta,1651,1520,3197,131,14.69,4.16,4575,PL/SQL
-660,Ania Hammerberger,13 3rd Drive,Quality Engineer,autodidacta,3116,1084,2321,2032,13.34,4.03,1977,xSeries
-661,Carolynn Muck,4349 Thierer Park,Quality Control Specialist,autodidacta,2176,5,1873,2171,95.13,0.82,2269,NYISO
-662,Nestor Seals,2184 Montana Park,Account Coordinator,autodidacta,3863,3590,3325,273,60.23,3.1,3815,Environmental Awareness
-663,Tonia Garley,0980 Lerdahl Parkway,Senior Developer,autodidacta,2355,1179,713,1176,57.84,2.76,1950,EBITDA
-664,Harriet Mosedall,98614 Sundown Pass,Media Manager II,autodidacta,3869,3710,2248,159,31.19,1.78,230,Residential Mortgages
-665,Sile Dohr,48 Welch Trail,GIS Technical Architect,autodidacta,2303,268,3653,2035,4.05,1.75,2688,BTO
-666,Ailina O'Ruane,72 Dovetail Place,Programmer Analyst III,autodidacta,360,245,527,115,51.72,2.07,147,CISA
-667,Stesha Bram,1900 Granby Plaza,Desktop Support Technician,profesional,2525,1807,2573,718,95.73,3.59,288,Yoga
-668,Perla Rosewell,6 Badeau Court,Chemical Engineer,profesional,1081,524,600,557,93.98,5.0,4650,Eiffel
-669,Blane Ferrarese,62 Talmadge Street,Research Nurse,profesional,1578,200,2515,1378,59.51,3.76,1556,RFID Applications
-670,Cynthia Bennough,8 Burrows Pass,GIS Technical Architect,profesional,2404,1445,1510,959,44.33,0.38,3582,IGBT
-671,Arlan Kelinge,85996 Warbler Way,Health Coach I,profesional,2992,2242,3423,750,54.41,2.92,1150,Amadeus
-672,Theodora Palphramand,2 Monument Junction,Chemical Engineer,autodidacta,1494,1168,2046,326,13.27,4.01,1979,MYOB
-673,Janeen Mattys,38 Annamark Point,Administrative Assistant IV,autodidacta,1155,1115,2258,40,72.04,4.01,2753,Unix
-674,Arlin Legging,24223 Pleasure Junction,Registered Nurse,autodidacta,199,65,71,134,79.63,3.9,3519,NX Unigraphics
-675,Inessa Cowpland,24676 Hovde Pass,VP Quality Control,profesional,620,563,3733,57,81.0,1.39,1643,Hlookups
-676,Sholom Kemmey,7 Farragut Hill,Developer II,profesional,596,200,240,396,65.05,3.0,1766,IPO
-677,Roxy Mulrean,50798 Briar Crest Road,Accounting Assistant IV,profesional,1088,966,162,122,36.54,3.53,2201,QSI
-678,Gilligan Tilio,5 Logan Hill,Nurse Practicioner,autodidacta,353,47,662,306,49.22,4.52,4822,SWIFT Messaging
-679,Anne-corinne Syder,42 Dwight Drive,Associate Professor,autodidacta,2258,1086,3720,1172,5.33,1.46,3249,Design Thinking
-680,Cirstoforo Redier,1 Sherman Terrace,GIS Technical Architect,profesional,2514,1876,435,638,40.38,2.61,4595,JDA E3
-681,Jethro MacGille,30 Dawn Alley,Office Assistant I,autodidacta,3014,2934,51,80,80.38,1.72,3318,5 Why
-682,Brett Hamberstone,06624 Mitchell Terrace,Cost Accountant,profesional,2651,2531,960,120,15.78,3.47,1379,Project Planning
-683,Wayland Moens,55913 Graceland Terrace,Environmental Specialist,profesional,1632,1532,1770,100,19.83,3.31,3303,Mixed-Signal IC Design
-684,Heall Heinish,587 Jana Alley,Electrical Engineer,profesional,2231,483,1634,1748,52.16,2.03,2429,TS2
-685,Gradey Hartles,3746 Schmedeman Street,Systems Administrator III,autodidacta,1767,644,3665,1123,17.09,2.08,966,RTA
-686,Fleur McKeevers,4460 Dixon Trail,Systems Administrator IV,autodidacta,3198,741,232,2457,72.81,0.01,2271,mTAB
-687,Shirline Zoanetti,0607 Village Green Crossing,Tax Accountant,autodidacta,933,504,3816,429,46.88,0.58,817,Mental Health
-688,Annabal Archer,380 Corscot Terrace,Librarian,autodidacta,1442,43,366,1399,63.05,3.15,590,MRDs
-689,Cherie Kayser,801 Merchant Center,Assistant Manager,profesional,3204,1637,1347,1567,60.08,3.43,2437,IXOS
-690,Otho Lillford,340 Heffernan Pass,Information Systems Manager,profesional,2877,2144,1897,733,43.56,3.53,2991,DNS
-691,Kinna Hamelyn,669 Derek Court,Recruiter,profesional,3797,54,1110,3743,67.89,1.4,443,TDMA
-692,Berti Hepher,8 Crownhardt Way,Biostatistician III,autodidacta,1190,947,2679,243,36.86,0.77,1465,Avid Xpress
-693,Barret Mulhall,63868 Bayside Hill,Statistician I,profesional,675,205,2462,470,97.46,1.5,33,MW
-694,Cam Petkov,407 Everett Junction,Programmer II,autodidacta,1666,636,2495,1030,5.77,2.56,4511,HLR
-695,Moyra Cassella,898 Veith Way,Analyst Programmer,profesional,2881,2571,3089,310,22.48,4.53,4636,Cross Functional Team Building
-696,Lurlene Cast,4 Rowland Drive,Computer Systems Analyst I,autodidacta,2703,613,974,2090,28.99,1.67,1922,Agile Application Development
-697,Corissa Gregine,5516 Pleasure Drive,Actuary,autodidacta,3956,2084,1565,1872,23.29,0.7,1496,Civil Aviation
-698,Modesty Winspeare,368 Paget Plaza,Sales Associate,autodidacta,2626,971,3935,1655,71.74,4.4,2928,MRI
-699,Hort Mansell,44954 West Road,Data Coordiator,profesional,2841,228,3881,2613,21.86,3.21,4835,Geomatics
-700,Vikki Fishbourne,12 Ruskin Parkway,Analog Circuit Design manager,autodidacta,3774,2492,3254,1282,67.57,0.82,4170,RPAS
-701,Berkly Chattell,1 Scott Park,Software Test Engineer II,autodidacta,3202,1230,2507,1972,64.47,1.54,267,Judicial Review
-702,Melanie Padell,8387 Pennsylvania Pass,Senior Editor,autodidacta,3240,246,3201,2994,49.72,2.3,4951,XAML
-703,Zachariah Kinneally,84236 Dawn Road,Nurse Practicioner,autodidacta,244,236,3452,8,60.7,1.4,3999,DWDM
-704,Saleem Glyne,475 Kennedy Plaza,Tax Accountant,autodidacta,3057,520,2928,2537,29.01,1.26,3511,Microsoft Dynamics SL
-705,Silvain Philliskirk,9625 Ludington Road,Director of Sales,profesional,435,318,3076,117,76.23,2.73,2203,Pthreads
-706,Dredi Maingot,81747 Parkside Circle,Account Coordinator,autodidacta,1656,1042,3257,614,0.29,0.43,2052,Interpersonal Skills
-707,Eden BoHlingolsen,8487 Hermina Pass,Assistant Professor,autodidacta,620,530,95,90,62.13,2.5,3961,DCAA
-708,Rafaelita Wolsey,53878 Stuart Drive,Assistant Manager,autodidacta,26,10,1915,16,78.36,0.2,4088,Infor XA
-709,Bibi Harmstone,55 Northridge Hill,Systems Administrator II,profesional,2827,1034,1035,1793,1.69,1.7,4618,Lifestyle
-710,Kaye Newcomb,463 Fieldstone Alley,VP Accounting,profesional,1284,827,2242,457,59.19,3.9,1137,IVA
-711,Rosina Hyman,3 North Parkway,Accountant III,profesional,2979,2546,2417,433,5.6,0.82,2466,Kickboxing
-712,Theodoric Shirland,466 Knutson Road,Financial Advisor,autodidacta,1259,1003,147,256,30.74,4.24,3930,Tour Operators
-713,Noelle Beynon,71 Milwaukee Alley,Staff Scientist,profesional,1140,864,51,276,17.75,1.57,353,OSPF
-714,Cybil Ardley,00727 Schiller Terrace,Social Worker,autodidacta,841,642,1945,199,68.77,0.36,4543,Culture Change
-715,Goldia Edling,529 Randy Lane,Human Resources Assistant IV,autodidacta,1877,295,3826,1582,55.13,2.77,4146,Business Strategy
-716,Lammond Whibley,1120 Caliangt Pass,Software Test Engineer II,profesional,3206,3012,2184,194,40.26,1.78,2503,FCL
-717,Heda Clavey,02 Crescent Oaks Junction,Pharmacist,profesional,2653,808,2037,1845,54.6,0.5,1545,MSS
-718,Whitney Condy,88 Forest Dale Way,Social Worker,autodidacta,1726,1067,1875,659,22.65,0.51,3377,Nmap
-719,Orville Farress,953 Waxwing Park,Community Outreach Specialist,profesional,1901,1250,2425,651,18.68,0.84,2402,FMCSR
-720,Bernard Minards,50 Buhler Trail,Geological Engineer,autodidacta,1857,825,3632,1032,15.91,3.99,1832,DDL
-721,Ulrica Bangs,00642 Hanover Circle,Professor,autodidacta,3444,348,2156,3096,67.67,0.96,4832,Musical Theatre
-722,Delores Rameaux,32 Barby Place,Paralegal,profesional,1083,1050,82,33,19.08,1.62,2179,FSMS
-723,Brig Stoffers,5756 Vidon Crossing,Software Consultant,autodidacta,532,18,552,514,45.51,1.19,774,Early Childhood Development
-724,Rhodia Stable,5889 Eastwood Road,Assistant Media Planner,profesional,3495,678,2270,2817,37.51,2.32,2306,Fund Administration
-725,Emera Hawk,31 Knutson Pass,Librarian,profesional,436,48,2257,388,57.02,0.2,3672,Economics
-726,Deborah Goldsby,49766 Loomis Road,Social Worker,autodidacta,233,45,1180,188,69.14,3.62,231,Logistics Management
-727,Dreddy Torricella,235 Mallory Trail,Account Executive,profesional,707,700,3678,7,49.07,1.5,3103,Urban Geography
-728,Karney Boog,70 Mifflin Court,Dental Hygienist,profesional,3065,1249,3082,1816,1.29,4.71,1797,JavaSE
-729,Kory Halpin,7321 Artisan Place,Physical Therapy Assistant,autodidacta,3629,1067,3371,2562,15.01,0.58,3639,BSC
-730,Norman Scroggins,7337 Lien Circle,Dental Hygienist,autodidacta,2746,270,2373,2476,35.16,4.44,3760,JBuilder
-731,Emmott Defew,26304 Loeprich Park,Electrical Engineer,autodidacta,2902,2197,2411,705,49.76,1.81,683,XP/Vista/7
-732,Darell Ridger,496 Bowman Park,Speech Pathologist,autodidacta,1079,154,1764,925,40.12,4.8,1794,CBD
-733,Reyna Trorey,5 Elgar Plaza,Recruiter,profesional,2821,2416,1319,405,52.3,2.13,4431,Editorial Illustrations
-734,Clair Benedict,61900 Raven Crossing,Environmental Tech,autodidacta,1431,1000,2430,431,29.33,4.64,2112,FTTH
-735,Theodore Bradder,52 Green Hill,Compensation Analyst,profesional,119,39,2090,80,65.85,0.93,4781,Zinc
-736,Mellisa Degli Antoni,83016 Hollow Ridge Point,Structural Engineer,profesional,233,166,335,67,39.25,3.8,1588,PCRF
-737,Bari MacTrustrie,05922 Schlimgen Plaza,Analyst Programmer,autodidacta,1997,1841,33,156,42.39,3.1,3819,Virtual DJ
-738,Antonie Herreros,56 Lunder Center,Graphic Designer,autodidacta,2628,2036,3416,592,47.49,4.01,3438,Eze Castle
-739,Fidole Mountstephen,32814 Loeprich Circle,Professor,autodidacta,174,121,1809,53,27.14,1.15,2686,1H NMR
-740,Hollyanne Acom,0083 Bowman Center,Sales Associate,autodidacta,2453,2194,2202,259,58.91,3.1,2728,Interior Architecture
-741,Gary Symcoxe,8 Badeau Circle,Recruiting Manager,autodidacta,3997,707,442,3290,26.07,0.28,3233,Database Administration
-742,Gus Grotty,04 Sutherland Trail,Marketing Assistant,profesional,1623,1248,2744,375,67.89,2.37,3025,Blackberry Enterprise Server
-743,Nannette Burmaster,83864 Lakeland Junction,Database Administrator II,autodidacta,1208,202,590,1006,55.13,0.08,3448,Employer Branding
-744,Ingram Duddell,6 1st Park,Senior Editor,autodidacta,3638,1001,2279,2637,68.28,4.81,316,Electrical Design
-745,Stacy Casa,61693 Linden Alley,Environmental Specialist,autodidacta,1742,215,2248,1527,87.76,2.03,580,NUnit
-746,Atlante Dalgetty,32 Nevada Parkway,Paralegal,profesional,3886,589,97,3297,5.4,4.24,1665,AutoCAD Civil 3D
-747,Kurt Chaudron,608 Pearson Point,Assistant Media Planner,profesional,1584,1434,2062,150,75.98,0.11,4864,PXE
-748,Anatol Kille,2 Katie Terrace,Physical Therapy Assistant,profesional,2094,1959,1956,135,66.36,0.47,3375,NNMi
-749,Dev Starzaker,0125 Rigney Place,Staff Scientist,profesional,3272,880,1267,2392,64.88,0.61,3199,DFA
-750,Wake Olliar,60 2nd Avenue,Accounting Assistant I,autodidacta,2767,2155,381,612,15.92,2.25,665,SQL Azure
-751,Georgi Sarvar,50 Blackbird Park,Legal Assistant,profesional,3754,3265,1060,489,15.76,0.26,3144,Nanotechnology
-752,Belita Etock,974 Hoard Avenue,Chief Design Engineer,profesional,1974,518,1397,1456,4.53,2.85,271,Creative Strategy
-753,Rayna Nyles,4 Forest Run Place,Biostatistician IV,autodidacta,3886,1308,2602,2578,67.5,3.31,1792,HTML5
-754,Lorettalorna O'Crevy,65387 Forest Dale Junction,Account Representative I,autodidacta,1855,508,3457,1347,81.9,2.27,3848,Nightlife
-755,Cordell Gove,7 Delaware Road,Structural Analysis Engineer,profesional,2316,2089,3171,227,84.66,3.45,3659,Luciferase Assay
-756,Ladonna Cahn,8 Elka Center,Help Desk Technician,autodidacta,2309,961,1032,1348,60.18,0.14,4802,Ulcerative Colitis
-757,Sallyanne Clutterbuck,06229 Blaine Court,Engineer IV,autodidacta,3776,3339,155,437,95.3,3.96,3116,QPS
-758,Chlo McCreath,76 High Crossing Lane,Data Coordiator,profesional,942,264,566,678,28.71,2.58,1864,WPC
-759,Holly Prandy,54 Delladonna Parkway,Senior Developer,profesional,3091,2872,3903,219,20.33,3.75,4389,Grant Writing
-760,Quentin Papps,6 Hanover Point,Geological Engineer,autodidacta,69,47,3818,22,35.17,4.56,4992,Critical Illness
-761,Findlay Shulver,850 Fallview Pass,Legal Assistant,autodidacta,1093,456,1311,637,2.2,0.0,3653,Space Planning
-762,Vaughn Riteley,7 Dorton Junction,Pharmacist,autodidacta,3140,2166,3530,974,95.96,2.87,3258,Rule Of Law
-763,Arlin Rhucroft,91 Magdeline Center,Account Coordinator,profesional,2752,226,544,2526,20.23,2.84,1077,Museums
-764,Sayers Fulk,825 Cambridge Crossing,Sales Associate,autodidacta,1005,776,1827,229,72.92,3.58,1175,NDM
-765,Bearnard Fideler,3809 John Wall Crossing,Help Desk Operator,autodidacta,2765,1418,544,1347,43.88,3.96,4041,Oracle Identity Manager
-766,Giraldo Fearney,709 Farwell Street,Structural Analysis Engineer,autodidacta,3681,1446,1596,2235,81.7,0.46,4706,JDO
-767,Sherilyn Offiler,6 Columbus Pass,Graphic Designer,autodidacta,1979,1661,812,318,41.05,4.05,162,Db4o
-768,Shaylynn Durrance,4706 Kensington Point,Web Developer II,profesional,1897,265,1646,1632,81.15,2.43,4414,JAXB
-769,Jourdain Mateo,64 Grayhawk Parkway,VP Product Management,autodidacta,114,14,1409,100,90.88,1.21,4216,EOC
-770,Laina Sibery,7496 Vidon Hill,Data Coordiator,profesional,1153,722,1274,431,64.33,0.98,277,HP Blade
-771,Wyatan McGhee,1 Monica Park,Web Designer III,autodidacta,1114,1086,2060,28,51.26,2.94,721,Localization
-772,Falito Blogg,7 Upham Terrace,Social Worker,autodidacta,2030,1295,2166,735,93.35,2.85,2955,UK Employment Law
-773,Frankie Kidson,143 Reinke Center,Web Designer II,profesional,1513,345,2975,1168,51.51,1.65,3333,CGI/Perl
-774,Estell Gaythwaite,7 Golf Course Terrace,Research Nurse,profesional,1070,963,3120,107,41.45,1.64,4533,PDL
-775,Lorin Tirrell,27063 Hazelcrest Avenue,Sales Associate,profesional,2690,1224,3795,1466,87.95,0.23,2309,Venipuncture
-776,Chane Harcus,658 Gateway Hill,Product Engineer,autodidacta,3851,847,2623,3004,67.49,2.99,4184,GSA Schedule
-777,Timothee Stiell,5830 Mitchell Crossing,Actuary,profesional,2563,1745,2169,818,49.52,0.31,2655,WCAG
-778,Cammie Tammadge,3728 Oneill Crossing,Sales Representative,profesional,117,60,3132,57,30.99,4.53,587,RFQ
-779,Leon Mesnard,515 Loeprich Trail,Accounting Assistant II,autodidacta,3907,671,604,3236,16.67,0.83,3519,JBoss EAP
-780,Nonnah Christoffersen,0584 Crowley Terrace,Cost Accountant,autodidacta,3964,3454,158,510,7.03,2.23,2514,Trading
-781,Elinor Elms,22 Blue Bill Park Drive,Speech Pathologist,autodidacta,979,582,3179,397,82.95,0.6,2429,WordPress
-782,Kyrstin Oloman,2287 Sachs Parkway,Occupational Therapist,profesional,3990,1555,861,2435,60.41,3.34,13,Slogans
-783,Julee Silcocks,7 Orin Plaza,Office Assistant IV,profesional,868,594,3353,274,93.73,1.22,3994,Ironport
-784,Mohandis McKain,448 Old Shore Plaza,VP Accounting,profesional,141,50,2864,91,61.87,3.52,2923,Mysis
-785,Wait Windress,20858 Main Hill,Professor,profesional,1047,859,945,188,11.29,4.67,3983,ECDL Certification
-786,Berny Corringham,9462 Maple Wood Hill,Recruiter,profesional,996,230,2225,766,96.97,0.23,2102,Digital TV
-787,Seamus Philippet,307 Novick Road,Structural Engineer,profesional,228,157,467,71,32.68,4.8,1099,DFT Compiler
-788,Laurena Osorio,7 Prairieview Court,Administrative Assistant I,profesional,2290,775,869,1515,33.35,1.17,4088,Custom Homes
-789,Hurley O'Mailey,314 Graceland Hill,Payment Adjustment Coordinator,autodidacta,2196,623,929,1573,41.36,2.85,3015,gPROMS
-790,Brendis Blomfield,5 Mifflin Junction,Physical Therapy Assistant,autodidacta,632,550,1290,82,57.12,1.33,2679,Workplace Violence
-791,Ewan Fishpoole,7937 Roxbury Crossing,Structural Analysis Engineer,autodidacta,535,494,2883,41,37.5,0.01,1447,DLX
-792,Elliot Shoulder,941 Straubel Hill,Internal Auditor,profesional,158,120,267,38,54.98,4.14,4354,Business Analysis
-793,Leonard Luckings,0 Basil Lane,Dental Hygienist,autodidacta,2096,826,1298,1270,96.31,0.23,4052,Windows NT
-794,Gael De Banke,2244 Delaware Avenue,Assistant Media Planner,profesional,898,534,2261,364,79.24,1.94,3659,Bylined Articles
-795,Jessamyn Mc Menamin,15784 Sullivan Trail,Health Coach II,profesional,3936,3505,1793,431,83.12,1.95,4714,Buyers
-796,Christabella Marvell,1 Porter Court,Media Manager II,autodidacta,3083,2942,347,141,23.95,4.16,4172,Capital Markets
-797,Hazel Leyban,40814 Kennedy Crossing,Food Chemist,autodidacta,3526,1900,2278,1626,78.15,3.68,3017,Rheology
-798,Jessamyn de Guerre,149 Killdeer Junction,Sales Representative,profesional,3164,463,1167,2701,88.88,0.51,1513,QSI
-799,Valida Helleckas,7 Independence Circle,Internal Auditor,autodidacta,218,9,2525,209,86.39,2.04,4553,JCR
-800,Micheal Povah,50682 Roxbury Park,Analog Circuit Design manager,profesional,1787,577,1346,1210,28.55,4.8,24,ISO 22000
-801,Brigg Ajean,27 Steensland Lane,Senior Editor,profesional,484,259,3064,225,92.84,4.8,2772,ABS
-802,Adah Asman,88400 Roth Lane,Analog Circuit Design manager,profesional,321,74,3440,247,54.86,0.33,4062,NPV
-803,Yurik Mumberson,113 Di Loreto Alley,Desktop Support Technician,profesional,2495,934,1949,1561,24.61,0.83,2492,SVT
-804,Legra Rattenbury,44 Sauthoff Point,Nurse Practicioner,profesional,2454,1661,3297,793,47.2,0.21,3016,Poka Yoke
-805,Iolande Skough,56 Dovetail Trail,VP Marketing,autodidacta,1420,1099,1007,321,4.06,0.59,530,SRM 5.0
-806,Anallise Mayhew,33 Cordelia Drive,Desktop Support Technician,autodidacta,2138,1060,662,1078,6.05,2.16,3064,Healthcare Consulting
-807,Fayth Falconer,55157 Reindahl Way,Chemical Engineer,autodidacta,1487,634,948,853,9.75,0.28,4127,Canon XL2
-808,Thekla Chaman,400 Spohn Hill,VP Sales,autodidacta,587,253,342,334,88.97,2.65,22,Manual Therapy
-809,Kathlin Kohlerman,4 Rockefeller Trail,Community Outreach Specialist,profesional,3,1,202,2,81.8,3.54,4612,RNP
-810,Tara Von Gladbach,2756 Washington Place,Physical Therapy Assistant,profesional,2293,911,559,1382,56.33,4.95,559,nMarket
-811,Ike Myring,0 Fordem Drive,Junior Executive,autodidacta,1832,597,202,1235,13.04,1.57,4391,Outdoor Kitchens
-812,Archy Haucke,820 Moose Plaza,Nurse Practicioner,autodidacta,1590,964,3301,626,18.55,2.39,578,IGCC
-813,Dore Alforde,655 Tony Trail,Media Manager I,profesional,1721,290,1640,1431,27.32,0.72,727,TPP
-814,Goober Thurlby,7 Emmet Pass,Environmental Specialist,autodidacta,2909,760,562,2149,30.23,4.59,1168,Value Stream Mapping
-815,Lanny Wattam,4 Gale Center,Research Nurse,profesional,343,313,686,30,54.74,2.16,3646,Commercial Real Estate
-816,Fredi Welling,31 Sullivan Lane,Recruiter,autodidacta,3646,2530,3360,1116,64.77,3.85,720,Early Childhood Development
-817,Bobbie O'Sculley,3589 Little Fleur Crossing,Geologist IV,profesional,1643,734,2063,909,84.88,3.66,1086,Job Costing
-818,Morey Burberye,20560 Clarendon Drive,Account Executive,profesional,498,25,1183,473,20.61,0.77,619,Jazz Dance
-819,Erasmus Di Carli,259 Warbler Parkway,Safety Technician III,autodidacta,1746,332,155,1414,71.92,4.6,4091,Editorial Illustrations
-820,Bendix Carragher,51584 Cascade Lane,Senior Financial Analyst,autodidacta,299,223,2097,76,65.82,0.94,920,GNU C
-821,Carlina Carsey,19648 Gulseth Park,Nurse,autodidacta,2468,325,3756,2143,82.22,4.43,1875,Inventory Control
-822,Jarid Keary,377 Eliot Pass,Geologist IV,profesional,1947,1044,2278,903,4.02,3.79,687,Equity Research
-823,Farrand Pietersen,066 Eggendart Street,Graphic Designer,profesional,2432,257,343,2175,68.78,2.47,885,UMTS
-824,Flss Melior,1 2nd Trail,GIS Technical Architect,autodidacta,1788,1291,3400,497,0.69,0.48,606,LR
-825,Marjy Priver,1411 Thompson Circle,Cost Accountant,profesional,3180,1278,1867,1902,69.63,1.98,3057,DVD Studio Pro
-826,Keane Shallcrass,94982 Northview Crossing,Account Executive,autodidacta,1978,1365,961,613,39.59,0.95,1693,CXF
-827,Dimitry Crocker,95 Columbus Park,VP Marketing,autodidacta,2322,775,3316,1547,30.21,0.08,252,VA Loans
-828,Lincoln Murkitt,9985 Anhalt Street,Chemical Engineer,profesional,2196,2020,2947,176,58.79,2.42,3494,ZigBee
-829,Evelyn Deadman,83 Bunting Court,Clinical Specialist,profesional,510,408,3953,102,54.41,3.18,2171,Agents
-830,Thorpe Ceschini,20680 Blaine Point,Senior Editor,profesional,2435,1459,1585,976,24.56,4.14,4133,WFC
-831,Alexis Aveson,54784 Karstens Junction,Office Assistant II,profesional,1306,945,1864,361,41.87,3.71,388,PnL Management
-832,Shirley Murty,838 Sutteridge Avenue,Executive Secretary,profesional,2643,1923,1059,720,26.47,0.34,4742,Creativity Skills
-833,Winna Burtonwood,4 Springview Junction,Graphic Designer,autodidacta,2852,1322,3731,1530,65.69,2.78,3284,Java Enterprise Edition
-834,Morgan Kondrachenko,42 Sundown Circle,VP Sales,autodidacta,627,389,1642,238,19.75,0.23,3045,MPLS VPN
-835,Annis Getcliff,61 Heffernan Drive,Quality Control Specialist,autodidacta,2143,1117,3310,1026,40.82,2.91,4519,Aerial Cinematography
-836,Kain O'Doghesty,02 Porter Center,Senior Financial Analyst,profesional,344,24,301,320,94.08,1.9,833,ODM
-837,Alexandrina Espinazo,2014 Kennedy Hill,Paralegal,autodidacta,1817,1095,1361,722,5.97,2.2,4276,Big Box
-838,Kira Van der Velde,431 Swallow Parkway,Sales Associate,autodidacta,2376,359,1896,2017,31.88,1.19,4748,PMO Design
-839,Ardelis Bache,7959 Oriole Terrace,Nurse Practicioner,autodidacta,908,846,3605,62,26.42,2.07,2462,Kyoto Protocol
-840,Hilliary Capelle,4 Elgar Point,Librarian,autodidacta,2021,1939,3346,82,46.66,0.58,4644,RoboHelp
-841,Sonnie Kliner,37013 Di Loreto Pass,Senior Cost Accountant,profesional,1377,1114,949,263,25.08,4.11,2871,AHLTA
-842,Karlen Motion,44937 Summerview Circle,Professor,profesional,1521,1346,3376,175,83.73,2.29,567,VHDL
-843,Morly Spender,4 Chive Way,VP Sales,autodidacta,1585,325,3588,1260,42.68,0.03,4334,NLS
-844,Finlay Buckleigh,60737 Welch Place,VP Sales,autodidacta,3823,65,3279,3758,29.31,4.48,1546,Lubrication
-845,Cecilla Maiden,76744 Porter Road,Nurse Practicioner,autodidacta,1751,227,2488,1524,53.71,1.32,3361,Distance Learning
-846,Judd Empson,7539 Mallory Alley,Director of Sales,autodidacta,3855,1916,3121,1939,76.17,0.76,3909,XML Schema
-847,Tiphanie Boreland,982 Sachs Drive,Physical Therapy Assistant,profesional,1919,1205,3203,714,61.98,1.05,4975,Gutters
-848,Filip Camoys,41126 La Follette Court,Compensation Analyst,autodidacta,689,448,1820,241,69.52,2.84,1395,DLL
-849,Lynelle Jiggens,3776 Nancy Alley,VP Sales,autodidacta,2197,699,3513,1498,25.3,1.75,433,RDC
-850,Fae Mapstone,579 Canary Terrace,Teacher,autodidacta,3965,3817,3768,148,34.13,2.57,346,PIX
-851,Stanislaus Caffery,5 Hermina Terrace,Financial Analyst,autodidacta,2680,690,1517,1990,30.49,0.28,2220,Multi-channel Retail
-852,Rosalie Bruhn,83 Burrows Circle,Accountant IV,profesional,846,427,276,419,5.52,2.17,2576,Marketing
-853,Edmon Farmer,531 Kim Parkway,Office Assistant I,profesional,838,410,3700,428,41.57,2.36,1267,Cisco VPN
-854,Cassaundra Tumpane,81 Nelson Lane,Compensation Analyst,profesional,2654,461,1064,2193,72.33,4.21,1866,Music Production
-855,Sascha Haggata,67 Springview Center,Systems Administrator I,autodidacta,663,231,130,432,42.28,4.1,1397,PPC
-856,Valera Grendon,66802 Sunbrook Drive,Design Engineer,profesional,2694,2300,2628,394,18.55,4.08,1059,Experion PKS
-857,Larissa Yancey,798 Cordelia Center,Structural Analysis Engineer,profesional,3897,629,490,3268,91.73,4.55,4843,Mixed-Signal IC Design
-858,Kiley De Rye Barrett,471 Meadow Valley Terrace,Tax Accountant,autodidacta,3799,2985,868,814,16.97,1.18,4212,Urology
-859,Samaria Breffit,408 Sunnyside Way,Teacher,profesional,1151,453,1263,698,49.21,1.03,907,Organizational Design
-860,Rona Brody,80661 Miller Trail,Internal Auditor,profesional,2630,2437,2393,193,68.45,1.69,4128,TPD
-861,Lona Klimkowski,114 Westridge Pass,Programmer Analyst IV,profesional,2218,2124,943,94,89.71,3.42,3403,Non-profit Volunteering
-862,Cyndy Gregoletti,2779 Grover Parkway,Data Coordiator,autodidacta,2415,533,2821,1882,27.09,1.68,4655,LWD
-863,Casi Kirkhouse,2792 Dorton Hill,Engineer III,autodidacta,2653,1764,1555,889,20.96,1.96,1768,SNA
-864,Arty de Bullion,5 Kenwood Drive,Graphic Designer,profesional,1057,302,2207,755,31.74,4.03,3112,Emergency Room
-865,Jobey Moar,8 Schiller Center,Actuary,autodidacta,2212,1963,567,249,0.84,1.2,1616,CSI
-866,Danyette Choudhury,8 Sutteridge Street,Staff Accountant III,profesional,324,66,1892,258,68.58,1.37,2923,Risk Management
-867,Carolynn Baty,33 Anthes Alley,Paralegal,autodidacta,2303,1427,1968,876,71.11,1.12,4617,RSS
-868,Jasmine Kissick,4 Division Plaza,VP Product Management,autodidacta,1396,883,2275,513,26.29,3.74,1377,Waste Management
-869,Kennie Seiter,65308 Express Trail,Chemical Engineer,autodidacta,675,302,1640,373,55.58,2.74,844,FSL
-870,Nappie Shotbolt,74101 Express Parkway,Desktop Support Technician,autodidacta,2993,2980,1275,13,22.61,4.57,57,RS485
-871,Eal Tonn,7 Corben Point,VP Accounting,profesional,2551,30,2825,2521,95.34,2.9,114,Histology
-872,Elysia Cicccitti,2 Buena Vista Trail,Environmental Specialist,autodidacta,1487,577,3222,910,98.8,2.05,4496,Women Owned Business
-873,Brandy Bartolomeotti,93 Raven Parkway,Financial Analyst,autodidacta,2589,967,1863,1622,76.79,3.72,4758,Biodiversity
-874,Hart MacEllen,6 Oak Circle,Editor,autodidacta,1717,1377,3271,340,28.44,3.96,4012,Legal Research
-875,Tersina Acland,540 Rusk Parkway,Account Representative III,profesional,2777,1281,1138,1496,72.94,3.15,897,Jigsaw
-876,Arnie Clutterham,832 Oak Valley Trail,Cost Accountant,autodidacta,644,316,2440,328,26.46,0.83,199,IFS
-877,Erhard Bonfield,89503 Oxford Parkway,Compensation Analyst,profesional,293,193,2179,100,49.42,3.44,1528,Hypermesh
-878,Kaela Jahndel,1720 Kenwood Alley,VP Product Management,profesional,1305,1112,614,193,69.81,4.98,1849,CQE
-879,Sheffield Berry,4495 Fairview Circle,Accountant IV,profesional,3509,1719,1378,1790,63.62,4.35,3586,Rock Climbing
-880,Melamie Abbe,35 Susan Lane,VP Product Management,profesional,2348,1259,367,1089,76.78,0.39,1407,Music Publishing
-881,Verine Westby,073 Northridge Trail,Tax Accountant,autodidacta,2136,1847,1230,289,19.74,0.62,3943,Joint Military Operations
-882,Hy Drydale,72347 Schlimgen Plaza,VP Sales,profesional,1564,511,2295,1053,13.38,2.76,3559,RFQ Development
-883,Karie Pash,626 Mallory Junction,Administrative Officer,profesional,2559,1936,2448,623,31.01,4.55,335,Big 4
-884,Hedda Dy,044 Londonderry Point,General Manager,profesional,1966,1678,1263,288,89.25,1.99,4257,DGGE
-885,Tonye Cortez,1 Lawn Plaza,VP Marketing,profesional,2103,1055,798,1048,51.69,4.33,2596,Award Winner
-886,Preston Aylmer,06 Mesta Lane,Chief Design Engineer,autodidacta,3644,578,2958,3066,24.88,1.0,1258,Term Life Insurance
-887,Freemon Kebell,5 Paget Terrace,Pharmacist,autodidacta,1069,452,3719,617,99.06,4.96,527,Valves
-888,Hatti Ciottoi,4 Cherokee Trail,Mechanical Systems Engineer,autodidacta,846,290,2070,556,18.12,3.48,700,Doors
-889,Sunny Lovstrom,0927 Gulseth Crossing,Systems Administrator IV,profesional,3226,3005,414,221,82.1,4.85,1444,XSI
-890,Sonya Williamson,41855 Lakeland Circle,Quality Control Specialist,profesional,1714,1365,3662,349,51.19,3.34,4697,RDBMS
-891,Bernadine Petlyura,456 Barnett Point,Associate Professor,autodidacta,475,275,2864,200,11.19,1.17,3453,QSAR
-892,Abagail Gurling,7835 Atwood Lane,Recruiter,profesional,3241,2155,1066,1086,17.19,2.01,2459,OTN
-893,Sheela Cholomin,172 Towne Park,Help Desk Operator,profesional,2723,624,2946,2099,2.81,4.57,1351,DFMA
-894,Ailis Side,256 Hanson Crossing,Analog Circuit Design manager,profesional,455,112,2655,343,21.37,1.97,2845,DLPAR
-895,Fancy Medina,17 Pennsylvania Center,Payment Adjustment Coordinator,profesional,2797,477,3821,2320,84.98,4.82,3420,Ultipro
-896,Meredithe Connew,06 Browning Parkway,Account Coordinator,profesional,1317,776,1730,541,46.59,3.45,3134,XFP
-897,Darice Blinman,014 Hansons Drive,Systems Administrator I,profesional,2235,1771,3225,464,84.01,0.31,2013,SSH
-898,Deonne Kennifick,6853 Drewry Lane,Web Developer III,profesional,3399,267,3665,3132,20.33,0.02,4159,Pro Tools
-899,Dani MacCafferty,90 Carpenter Lane,Administrative Assistant I,autodidacta,492,38,2256,454,79.27,1.61,3536,IBM AIX
-900,Leora Mallender,26 Pine View Pass,Research Nurse,autodidacta,3915,1750,749,2165,99.25,2.08,2396,VLC
-901,Haley Fuge,51302 John Wall Junction,Electrical Engineer,autodidacta,1951,533,3246,1418,47.44,2.58,4282,VMware Player
-902,Hunter Royall,2113 Sachs Trail,Payment Adjustment Coordinator,profesional,1743,982,2328,761,16.03,4.92,1291,Google Earth
-903,Terese Heinemann,02530 Granby Avenue,Statistician II,autodidacta,557,470,3341,87,27.11,2.49,2437,Earth Science
-904,Abagael Whatley,3603 Nevada Pass,Marketing Assistant,autodidacta,1159,1099,1539,60,96.67,0.95,3346,CGL
-905,Phillie Mereweather,41663 Swallow Center,Human Resources Assistant III,autodidacta,405,76,3238,329,62.54,1.75,1316,Product Knowledge
-906,Whittaker Yeoland,62 Mesta Place,Nurse,profesional,3542,1984,2970,1558,69.93,0.49,2239,DBMS
-907,Padraic Peagrim,99510 Mccormick Center,VP Marketing,profesional,3038,1570,1216,1468,33.0,4.65,2084,Ulead VideoStudio
-908,Desirae Tooby,3488 Weeping Birch Court,Graphic Designer,profesional,557,154,3960,403,9.8,0.66,2642,Perl
-909,Cathlene Fitzjohn,7493 International Drive,Nurse Practicioner,profesional,31,7,2293,24,48.51,4.53,1601,Personal Injury
-910,Alicia Trenchard,60610 Canary Point,Sales Representative,autodidacta,1416,874,1390,542,40.19,1.78,2025,KDB
-911,Ursula O'Glessane,79 Waywood Street,Community Outreach Specialist,profesional,642,467,1011,175,42.12,1.88,4389,Agronomy
-912,Walt Sumner,7863 Montana Place,Information Systems Manager,profesional,3667,158,819,3509,36.45,4.92,132,Psychiatry
-913,Hailee Graal,8240 Milwaukee Hill,Account Coordinator,autodidacta,128,29,716,99,81.47,3.9,3166,CWNA
-914,Ester Tupling,43121 Hagan Junction,Sales Associate,autodidacta,495,461,705,34,30.06,0.53,926,Multithreading
-915,Kimball Bakewell,4 Hayes Way,Quality Engineer,profesional,3901,3695,754,206,7.59,3.13,6,Network Security
-916,Torrie Colrein,26 Ridgeview Drive,Developer I,profesional,3758,2834,1045,924,8.22,3.65,1755,POS
-917,Cory Celloni,04634 Rutledge Parkway,Financial Advisor,profesional,3553,2938,2601,615,54.22,1.41,3015,PCI DSS
-918,Lyndsie Terzo,13 Ryan Street,VP Sales,profesional,2363,1822,2933,541,5.53,4.27,2262,CMMS
-919,Jonah Maeer,09990 Vahlen Crossing,Automation Specialist IV,profesional,514,322,1117,192,32.37,4.88,309,Mutual Funds
-920,Marga Grogona,9512 Westridge Place,Product Engineer,autodidacta,2787,1767,1709,1020,45.87,2.56,3566,Value Engineering
-921,Loralie Avon,6955 Londonderry Point,Recruiting Manager,profesional,772,40,1365,732,34.73,4.61,2189,Editing
-922,Ki Shambroke,46 Alpine Point,Chief Design Engineer,autodidacta,945,794,1636,151,8.38,4.29,1274,NS-2
-923,Sofia Kibbel,75 Ridgeway Avenue,Research Assistant I,profesional,612,212,1838,400,71.36,0.65,1613,NMS
-924,Sofie Authers,4357 Anderson Center,Account Executive,profesional,1213,261,3693,952,47.65,0.33,624,CBCP
-925,Sylvia Roffey,04 Debra Circle,Senior Developer,profesional,3307,1858,3108,1449,92.91,4.39,485,Keyboard Skills
-926,Addie Stoneley,76 Shoshone Road,Dental Hygienist,profesional,2011,810,2135,1201,53.08,2.04,3735,HAZOP Study
-927,Annnora Beamiss,732 Morning Court,Developer I,profesional,2784,261,947,2523,81.02,3.56,1958,Enterprise Architecture
-928,Ad Lechelle,02 Vidon Junction,Research Associate,profesional,2615,1149,3616,1466,63.72,0.51,552,Jin Shin Jyutsu
-929,Jarrad Turney,5 School Point,Tax Accountant,autodidacta,1258,602,772,656,75.51,4.91,2930,MDF
-930,Galven Burgill,6654 Rutledge Place,Assistant Manager,profesional,2679,2591,3048,88,97.75,3.96,848,Nokia Qt
-931,Waring Mugford,85 Ridgeview Road,Design Engineer,profesional,3004,2732,287,272,68.75,2.3,3466,NMON
-932,Kaleena Henri,86 Carberry Way,Software Consultant,profesional,1852,106,2932,1746,0.02,1.99,1863,Channel Partners
-933,Julianne Eaton,699 Gale Avenue,Graphic Designer,profesional,1281,674,2125,607,30.73,4.19,228,Data Modeling
-934,Rosco Fitzsymon,186 International Parkway,Junior Executive,profesional,682,124,778,558,78.68,0.38,700,Comic Book Illustration
-935,Wynnie Sivill,73032 Lake View Trail,Recruiting Manager,profesional,343,80,3289,263,44.9,0.07,2586,CXF
-936,Ninnette Bratchell,67 Caliangt Road,Physical Therapy Assistant,autodidacta,819,803,2942,16,27.18,2.25,489,HR Software
-937,Valli Barme,54 Rieder Point,Teacher,profesional,2792,1845,1788,947,99.29,3.06,3750,NCARB
-938,Fran Poter,21666 Kensington Pass,Marketing Assistant,profesional,3243,2855,225,388,39.79,0.24,816,Class III Medical Devices
-939,Kliment Coulthart,4422 Fulton Circle,Senior Quality Engineer,profesional,1508,493,1591,1015,77.53,1.99,3337,Lean Manufacturing
-940,Albert Rutgers,5763 Almo Crossing,Marketing Manager,profesional,3372,1451,1900,1921,33.35,3.2,1995,Successful Business Owner
-941,Knox Klejna,92 Crowley Terrace,Account Coordinator,autodidacta,728,242,2016,486,17.05,2.71,4331,Drip Irrigation
-942,Fayth Baddam,3298 Scoville Plaza,Systems Administrator I,profesional,1850,1807,3729,43,98.44,3.66,1277,ATR-FTIR
-943,Renee Souten,35 Thompson Alley,Mechanical Systems Engineer,autodidacta,3202,1681,2726,1521,49.7,0.79,739,FDS
-944,Stephana O'Mailey,0896 Mesta Drive,Assistant Professor,profesional,463,286,1038,177,11.05,2.67,292,Sony HDV
-945,Viki Butte,67343 Anhalt Crossing,Senior Editor,autodidacta,3299,1582,1812,1717,88.46,0.28,246,Berkeley DB
-946,Kale Paramor,373 Schlimgen Plaza,Legal Assistant,autodidacta,989,504,543,485,32.36,2.6,2824,MCNP
-947,Pearla Mantripp,55 Crowley Court,Senior Editor,autodidacta,683,561,864,122,40.68,0.92,1209,RMIS
-948,Henka Ferguson,17640 Muir Center,Research Nurse,autodidacta,1592,1424,1156,168,62.32,4.35,3426,Luxury Goods
-949,Paule Munkley,3 Lotheville Parkway,Developer I,profesional,377,108,2939,269,89.82,1.07,2844,Knowledge Management
-950,Leola Dowers,02 Emmet Drive,Marketing Assistant,autodidacta,2296,92,155,2204,60.19,4.03,1055,Team Management
-951,Godwin Backen,62219 Tennyson Lane,VP Accounting,profesional,458,260,3065,198,36.57,0.91,2256,CQM
-952,Fay Tullis,95 Arrowood Street,GIS Technical Architect,autodidacta,782,229,1394,553,25.05,4.07,3161,IAD
-953,Dion Ivantsov,56604 Declaration Parkway,Desktop Support Technician,profesional,2323,550,276,1773,73.81,0.49,4223,RTU
-954,Lee McGavin,39961 Straubel Road,Administrative Assistant I,autodidacta,3990,2353,1397,1637,14.89,0.4,2141,GIS
-955,Merla Vennings,07728 Sachs Circle,Pharmacist,profesional,374,26,871,348,68.87,1.01,2811,Brochures
-956,Alaster Brecon,7 Rigney Circle,Cost Accountant,profesional,3255,725,1644,2530,80.33,2.69,555,Event Management
-957,Tabor Hortop,99806 Anniversary Court,Accountant I,profesional,3424,2615,937,809,53.61,3.28,3325,Overseas Production
-958,Isidore Colmore,97862 Rutledge Hill,Structural Analysis Engineer,autodidacta,419,350,2737,69,16.96,0.62,150,Critical Thinking
-959,Sophia Marmyon,6058 Barby Lane,Compensation Analyst,autodidacta,192,83,3508,109,93.79,2.42,4882,European Politics
-960,Hulda Van Niekerk,09 Dapin Crossing,Payment Adjustment Coordinator,autodidacta,2356,2097,413,259,86.41,0.65,1404,Yard Work
-961,Tobiah Hounsom,553 Washington Circle,Statistician I,autodidacta,2255,2127,227,128,83.63,3.05,4807,VSOE
-962,Edmon Calcott,52 Petterle Trail,Environmental Tech,autodidacta,3765,552,218,3213,35.76,1.55,1557,IBC
-963,Fiann Bretton,37 Gale Point,Structural Engineer,profesional,1357,838,209,519,73.04,4.15,1450,Facebook
-964,Marjory Groomebridge,568 Clyde Gallagher Alley,Engineer III,autodidacta,1305,239,3064,1066,47.49,1.93,533,TSW
-965,Loria Vooght,561 Declaration Circle,Operator,autodidacta,239,233,1936,6,12.81,4.56,2886,Editing
-966,Stefanie Readwing,1418 Havey Point,Paralegal,autodidacta,1429,1409,1598,20,50.32,1.54,4087,MCS
-967,Phylis Stallan,84 Johnson Pass,Payment Adjustment Coordinator,profesional,3666,1915,1243,1751,94.68,1.47,1219,TCAP
-968,Tracey Pourvoieur,6902 Miller Place,Graphic Designer,profesional,928,761,1260,167,43.11,2.6,1283,Construction
-969,Pyotr Krochmann,17 Arapahoe Lane,Staff Accountant IV,autodidacta,1230,1093,2304,137,9.63,4.05,1935,NNMi
-970,Ivonne Baggett,321 Moose Place,Office Assistant III,autodidacta,2932,1291,2927,1641,56.92,0.14,3246,Machine Tools
-971,Dominga Scamal,7 Emmet Circle,Tax Accountant,profesional,3552,259,2408,3293,85.85,1.14,1493,Novels
-972,Abelard St. Quintin,97 Nelson Point,Mechanical Systems Engineer,profesional,523,495,708,28,4.47,4.95,2833,Torts
-973,Kurt Stollman,0 Milwaukee Park,Staff Scientist,autodidacta,2107,965,137,1142,24.0,1.14,2848,Air Compressors
-974,Elberta Egdal,2226 Petterle Circle,Senior Editor,autodidacta,898,594,801,304,27.38,2.44,2978,FCoE
-975,Barbee Jecock,3504 Bayside Center,Web Developer I,profesional,948,57,331,891,82.86,4.96,553,Hypnosis
-976,Babette Attyeo,71 Sachtjen Park,Registered Nurse,autodidacta,3576,915,1715,2661,7.85,0.01,2734,WTO
-977,Annalee Dimitrijevic,078 Mitchell Court,Registered Nurse,profesional,3585,2378,724,1207,26.37,4.54,2245,Emergency Nursing
-978,Adelina Cordey,672 Burrows Pass,Business Systems Development Analyst,autodidacta,544,81,544,463,21.21,0.13,3296,Autism Spectrum Disorders
-979,Yorke Simmens,9 Hudson Park,Computer Systems Analyst IV,autodidacta,2578,1345,1472,1233,91.92,4.11,1149,HP Procurve
-980,Munroe Parkinson,73426 Toban Drive,Sales Representative,profesional,353,141,3925,212,94.49,0.8,1942,XDoclet
-981,Mandy Wear,53216 Talmadge Alley,Staff Accountant II,autodidacta,2741,1208,3784,1533,19.95,0.29,3833,EES
-982,Hulda Lambot,29 Buell Crossing,Payment Adjustment Coordinator,autodidacta,3684,3551,2120,133,87.77,0.64,488,PMP
-983,Ysabel Twigg,5457 Monica Way,Biostatistician III,autodidacta,2692,1602,2317,1090,78.03,3.97,4606,DC-9
-984,Alisha Heinert,5 Shasta Crossing,Speech Pathologist,autodidacta,3646,316,3320,3330,93.3,0.49,1172,HCSS
-985,Roth Muge,8 Glacier Hill Center,Senior Editor,autodidacta,1162,643,1348,519,56.48,1.41,4794,UTRAN
-986,Katherine Tamburi,4735 Sunnyside Lane,Analog Circuit Design manager,profesional,1274,1096,745,178,95.71,4.14,1469,z/OS
-987,Teodoro Gilling,06696 Mesta Pass,Financial Advisor,autodidacta,1613,445,3105,1168,66.02,3.86,35,RTC
-988,Dannie Ambrus,6001 Esker Court,Chemical Engineer,autodidacta,2119,1643,2387,476,31.91,3.21,678,Toyota Production System
-989,Gaye Noen,85 Village Green Center,Research Assistant IV,profesional,1030,307,2405,723,31.75,0.89,4683,BMV
-990,Pyotr Rizzardo,6 Ridgeview Parkway,Structural Analysis Engineer,autodidacta,734,467,1493,267,35.72,2.62,1321,Software Project Management
-991,Eirena Rutgers,9995 Birchwood Avenue,Biostatistician IV,profesional,2064,1208,182,856,63.7,2.99,2993,CRM
-992,Romonda Ransom,284 Tomscot Avenue,Junior Executive,autodidacta,1056,671,1471,385,64.36,4.76,4151,EEO Investigations
-993,Rena Pattlel,298 Mallard Hill,Research Assistant III,autodidacta,3847,1594,2598,2253,2.5,0.66,635,Jewish History
-994,Ameline McGenis,6693 Talmadge Court,Physical Therapy Assistant,profesional,1653,535,1700,1118,48.6,3.91,2049,Unreal Engine 3
-995,Mariellen Skune,5 Red Cloud Way,Librarian,profesional,1081,833,3937,248,38.34,4.34,3006,CVA
-996,Suzanna Lyokhin,6 Artisan Crossing,Structural Engineer,profesional,2808,2197,1408,611,72.3,0.29,1162,CEO/CFO Certification
-997,Colleen Dany,19 Corscot Alley,Assistant Professor,autodidacta,1586,1128,2522,458,20.61,4.85,571,TF-CBT
-998,Adelheid Freeborn,3 Heath Court,VP Accounting,profesional,2672,1282,3988,1390,11.14,4.49,4359,WFS
-999,Clemente Elfes,002 Pennsylvania Terrace,Product Engineer,autodidacta,1210,1174,3533,36,16.23,3.46,4210,iOS
-1000,Corena Rottery,098 Hansons Drive,Chief Design Engineer,autodidacta,612,409,3619,203,3.86,1.53,3175,IBM pSeries
+id_trabajador,nombre_completo,direccion,area_de_trabajo,tipo_educacion,trabajos_aceptados,trabajos_terminados,trabajos_rechazados,trabajos_en_curso,indice_productividad,calificacion_general,seguidores
+1,Gustaf Kenninghan,Monagrillo,1,1,3743,1281,296,2462,9.86,1.8,4023
+2,Ian Radley,El Rincon,2,2,2204,2080,1732,124,14.59,3.37,2127
+3,Sharleen Eddy,La Villa de los santos,6,1,2835,1489,3369,1346,50.77,3.49,1074
+4,Phylis Brigden,Pedasí,2,1,2660,2549,3490,111,81.44,3.83,1253
+5,Nomi Stockell,La Arena,5,1,914,596,1372,318,80.37,3.01,1943
+6,Auroora Duffer,La Arena,8,2,1237,898,3754,339,98.07,3.62,3939
+7,Tracie Scroggins,Monagrillo,9,1,513,237,57,276,89.3,2.53,3768
+8,Conni Graysmark,Parita,7,1,375,276,3099,99,3.75,1.13,3772
+9,Tannie Olliver,Chitré,6,1,3028,1311,2447,1717,24.48,4.43,1725
+10,Aldon Kender,La Villa de los santos,2,1,618,66,1711,552,21.41,4.63,2050
+11,Darla Pimmocke,El Sesteadero,6,2,3070,427,2642,2643,24.21,1.28,4519
+12,Jenna Scrivin,Chitré,7,2,3460,2667,2473,793,12.43,2.53,2165
+13,Marika Chomley,Parita,8,1,2885,414,562,2471,14.06,0.97,3830
+14,Kevina Millsap,Pedasí,9,1,2307,997,1775,1310,64.34,1.93,2703
+15,Katuscha Sings,El Sesteadero,4,1,168,53,1075,115,17.76,0.06,3875
+16,Hanson Mosedall,Parita,10,1,1208,133,2062,1075,24.5,2.19,4948
+17,Cordie Spaice,El Rincon,7,2,3739,2210,1862,1529,18.51,0.64,521
+18,Kristyn Swindells,Pesé,2,2,1080,798,1695,282,25.68,1.17,3078
+19,Jacinthe Ayton,La Arena,8,1,3905,424,233,3481,70.34,1.05,513
+20,Shaun Walisiak,Santa Maria,1,1,2935,1553,2544,1382,34.69,2.78,2476
+21,Herbert Lapenna,El Rincon,6,1,1960,145,2285,1815,95.71,2.89,495
+22,Merilee Hazel,Pedasí,6,1,2347,825,2300,1522,15.47,2.7,2761
+23,Neely Seares,La Villa de los santos,5,2,2187,840,3020,1347,6.49,1.95,2590
+24,Ramon Furzer,Parita,3,2,1936,1640,2522,296,9.0,2.2,1592
+25,Sarah Purvey,El Rincon,10,1,480,274,2622,206,22.28,3.44,1642
+26,Chandra Chalfain,Pesé,1,2,756,257,630,499,71.32,4.46,4921
+27,Martino Cayzer,Paris,3,2,550,292,1223,258,56.76,1.27,1866
+28,Filberte Gumby,La Arena,10,2,3062,89,2104,2973,65.82,3.9,2224
+29,Sigismondo Nickols,Las Tablas,5,2,1042,512,3389,530,62.78,1.02,3304
+30,Bran Adney,Pedasí,1,1,3636,276,1355,3360,72.3,0.35,1285
+31,Clementia Farlow,Pesé,6,2,1672,1105,1969,567,87.8,4.95,1923
+32,Leopold Wallentin,Chitré,2,2,2091,1405,710,686,91.28,3.5,4021
+33,Muhammad Gallant,El Rincon,6,2,2453,1467,1693,986,57.64,4.96,1137
+34,Mahmud Ogelsby,Ocú,4,2,824,338,1244,486,64.8,4.01,466
+35,Stan Blei,Los Angeles,3,1,2105,416,1217,1689,22.82,4.08,4623
+36,Salli Beauchamp,El Sesteadero,2,2,3157,602,3339,2555,8.05,3.0,4948
+37,Donnell Darke,Los Angeles,2,1,959,703,2429,256,96.75,0.85,2102
+38,Jessalyn Mohamed,Chitré,3,2,3664,182,3908,3482,72.02,3.33,267
+39,Harriet Rundall,El Sesteadero,5,1,1472,1453,3959,19,38.22,4.52,4903
+40,Ninetta Espinazo,Parita,5,1,2599,2089,2523,510,24.29,4.31,2920
+41,Lane Georgeot,Pesé,3,1,162,86,1626,76,72.93,1.55,4920
+42,Graig MacAlpine,Chitré,9,2,3765,3622,2532,143,80.04,4.6,19
+43,Maurise Abramovicz,Parita,5,1,1720,221,3814,1499,9.85,4.28,429
+44,Leonhard Ramble,El Rincon,2,2,1724,59,1281,1665,14.16,2.35,1502
+45,Artur Tuft,La Arena,4,1,2030,1656,700,374,68.57,4.28,4306
+46,Engelbert Eagar,Los Angeles,6,1,3353,1926,2586,1427,56.57,2.58,3960
+47,Fremont Cookes,Potuga,3,1,1303,1231,3327,72,60.83,0.88,2661
+48,Ivett Tithecote,La Villa de los santos,2,1,3985,490,650,3495,51.33,0.72,4719
+49,Alberik Bice,El Rincon,10,1,1885,593,849,1292,73.52,2.25,3694
+50,Pembroke Treher,Parita,3,2,785,60,2561,725,10.7,3.75,4107
+51,Briney Coplestone,Pedasí,5,1,1707,850,568,857,54.13,4.59,2228
+52,Grannie Kohlerman,El Rincon,6,2,1394,210,1775,1184,43.36,4.94,620
+53,Broddie Oldroyde,Chitré,10,1,1452,767,1069,685,25.66,1.26,3709
+54,Tara Levy,Los Angeles,9,1,3770,1695,2352,2075,72.62,0.81,1284
+55,Mayor Beenham,Santa Maria,3,1,3302,1521,761,1781,78.3,3.3,4810
+56,Lexis Myner,El Sesteadero,1,2,484,178,1509,306,36.96,4.51,1787
+57,Doro Bonin,El Sesteadero,5,1,2800,741,1055,2059,31.28,2.71,4434
+58,Rona Graine,Pesé,6,1,1059,116,2500,943,4.06,3.32,2813
+59,Nico Bathersby,Las Tablas,6,2,2611,199,3809,2412,95.1,4.82,1410
+60,Clemmie Hartwell,Parita,9,1,22,20,2407,2,92.32,4.63,2760
+61,Rodrique Bow,Los Angeles,8,1,1334,1000,2580,334,16.24,3.31,4868
+62,Jere Hamlin,Ocú,6,2,2183,116,248,2067,0.6,1.2,4713
+63,Charlie Taffs,Parita,2,2,2634,1513,3797,1121,42.88,0.89,2245
+64,Heddi Jelleman,La Villa de los santos,5,2,3653,1949,3160,1704,33.84,2.97,4000
+65,Veronica Ewers,Santa Maria,10,1,2682,2098,3027,584,78.11,0.76,1199
+66,Ortensia Eykelhof,Pesé,1,2,1305,494,1907,811,85.27,4.58,769
+67,Sonnie Lavalde,Pesé,2,2,2993,2125,1619,868,75.15,2.29,2954
+68,Charmain Schimke,El Rincon,10,1,468,456,3909,12,70.72,3.25,4216
+69,Kendra MacTrustram,Monagrillo,9,2,1724,1287,910,437,69.84,4.77,2043
+70,Olav Lammerding,Paris,9,1,502,172,3009,330,0.91,3.59,4033
+71,Orlando Draye,Parita,3,2,3169,653,3767,2516,13.32,4.64,4348
+72,Lorie Alexsandrov,"",7,2,3625,2558,1098,1067,80.24,2.04,1099
+73,Alexis Corde,Ocú,10,2,977,602,2179,375,75.1,2.6,1997
+74,Ronald Phlipon,La Arena,7,2,1893,1294,1853,599,62.09,3.04,4957
+75,Jorie Lannin,Monagrillo,4,1,2177,1226,3626,951,74.83,0.05,775
+76,Dorette Sieghard,Potuga,3,1,1275,772,3469,503,88.82,0.23,2168
+77,Addie Lydden,La Villa de los santos,8,1,2390,1609,2522,781,99.29,2.6,4290
+78,Nollie Le Merchant,Potuga,2,1,3455,2300,1316,1155,35.65,0.76,2745
+79,Robbie Karpf,El Sesteadero,2,1,545,188,2173,357,96.12,2.95,1885
+80,Janith Di Giorgio,Parita,9,1,1124,390,3262,734,48.24,2.02,1856
+81,Mallory Keilloh,Pesé,4,1,3570,994,355,2576,21.6,3.47,1551
+82,Flossy Akester,Pedasí,9,2,3669,2225,3548,1444,70.45,4.36,1368
+83,Layla Winchcomb,El Rincon,8,2,230,160,576,70,91.61,4.95,3380
+84,Ricki McCrillis,Parita,10,1,2411,22,2090,2389,46.87,0.59,811
+85,Fionna Proschek,Chitré,6,1,2634,2075,3925,559,34.05,4.33,1527
+86,Rasia Wardell,Parita,6,1,1206,761,3067,445,42.43,4.62,2603
+87,Judye Sandeman,Pedasí,3,1,1422,664,1512,758,75.99,3.15,3808
+88,Jenine Mortel,Parita,3,2,3292,2379,1166,913,63.17,0.08,3536
+89,Clarine Fry,Monagrillo,3,2,3688,2766,1272,922,47.89,0.1,1043
+90,Easter Abrahmer,Pesé,7,1,872,537,2956,335,72.6,0.82,3043
+91,Sigismondo Christoforou,La Arena,3,1,3668,689,2768,2979,95.55,4.24,371
+92,Rees Schultze,La Arena,2,1,1422,289,610,1133,46.64,2.91,4590
+93,Terrence Surgeoner,Pesé,8,2,892,668,1026,224,45.11,0.13,1936
+94,Northrop Blancowe,Monagrillo,2,2,1381,334,2844,1047,31.81,1.37,4427
+95,Rhiamon Adamovitz,Las Tablas,2,2,3451,2089,403,1362,40.1,3.58,1770
+96,Giavani Follows,La Villa de los santos,7,1,3068,828,1181,2240,48.18,3.6,2330
+97,Ekaterina Skains,Parita,8,1,2628,1008,3678,1620,11.07,2.23,2021
+98,Englebert Dumbelton,La Villa de los santos,9,2,3884,1451,2887,2433,77.32,3.94,4768
+99,Dyann Rainey,La Villa de los santos,4,1,545,184,633,361,23.71,2.48,869
+100,Stephenie Girardeau,La Villa de los santos,9,1,3200,1216,1391,1984,19.18,3.89,1682
+101,Kathlin Thorndycraft,"",4,2,742,304,3435,438,91.91,1.23,122
+102,Fidela Poll,"",8,2,1632,785,1189,847,61.21,2.63,1653
+103,Evy Jerzyk,Paris,2,1,2290,2258,133,32,98.52,1.76,4956
+104,Rebeca Gilbee,Chitré,9,1,954,825,2705,129,32.55,0.43,2670
+105,Anette Hapke,La Villa de los santos,10,1,100,41,3084,59,58.0,3.82,736
+106,Ron Bourrel,Monagrillo,2,2,763,1,2355,762,17.02,1.6,995
+107,Madella Hully,El Rincon,5,1,908,775,1164,133,3.57,2.47,2161
+108,Margarette Follen,La Arena,10,1,1369,831,3205,538,16.38,0.12,2080
+109,Shelly McNysche,Paris,3,1,2658,1243,2732,1415,10.63,0.56,3581
+110,Nerte Touzey,Potuga,5,2,2142,247,2507,1895,81.87,2.58,4526
+111,Gwenneth Feld,Pedasí,7,1,3533,3069,833,464,66.51,3.96,2210
+112,Bonnie Britland,Las Tablas,1,2,2109,362,2517,1747,92.97,3.47,4082
+113,Neale Goldie,Las Tablas,4,1,673,582,1234,91,94.41,4.15,2067
+114,Costa Fishleigh,La Villa de los santos,8,1,1294,351,3727,943,92.7,4.06,4096
+115,Lionello Kirman,El Sesteadero,8,2,986,953,2621,33,42.66,1.03,4941
+116,Osbourne Bolley,El Sesteadero,7,1,3264,2501,1958,763,33.01,3.57,3823
+117,Pennie Sanpher,Los Angeles,2,1,3129,1418,2518,1711,68.76,4.31,1402
+118,Ware Licciardi,Santa Maria,6,2,3373,3323,3333,50,0.12,4.58,1755
+119,Hamil Mangenot,El Sesteadero,3,1,1435,855,1936,580,65.12,0.72,3910
+120,Pansy Scotti,"",4,2,1655,1272,3914,383,36.84,4.77,3069
+121,Urban Rosone,El Rincon,10,2,1622,1197,2266,425,48.42,0.88,3904
+122,Torrence Boultwood,Pedasí,4,2,2824,1514,1636,1310,79.39,3.29,2096
+123,Joshua Brimble,La Villa de los santos,3,2,1254,528,1416,726,2.02,4.98,140
+124,Conrade Josskovitz,El Sesteadero,5,1,946,299,3474,647,12.07,3.16,3841
+125,Wheeler Ericssen,Pesé,4,2,415,293,1176,122,69.45,3.53,1619
+126,Royall Cahen,Monagrillo,10,1,3015,857,1818,2158,10.69,1.63,2298
+127,Yale Snyder,El Rincon,3,2,1759,759,1235,1000,32.56,0.49,1654
+128,Phylis Cawsby,La Villa de los santos,5,1,355,192,3209,163,83.25,0.5,915
+129,Alastair Holdworth,Pedasí,2,1,1470,931,3768,539,15.46,2.58,321
+130,Carlen Nana,La Arena,4,1,3769,1142,761,2627,58.52,4.9,1946
+131,Drusilla Wooddisse,El Rincon,2,1,3599,407,42,3192,24.62,4.55,1942
+132,Egbert Ockwell,Potuga,3,2,3004,2559,45,445,42.56,4.82,3965
+133,Vale Garatty,Paris,10,2,592,73,2871,519,98.91,0.04,4637
+134,Nealon Dybell,La Villa de los santos,5,2,3617,914,909,2703,70.55,2.26,2916
+135,Dorelle Novill,Santa Maria,4,2,1597,263,2966,1334,44.16,4.6,2779
+136,Jocelyn Hischke,Paris,9,1,148,108,354,40,70.74,2.59,4273
+137,Laney Duester,Los Angeles,7,2,2077,930,3223,1147,32.43,1.06,4653
+138,Ewan Camfield,El Rincon,7,1,1343,712,3261,631,62.13,2.21,2792
+139,Sylvester Cumming,Ocú,1,1,1743,1141,2539,602,17.01,4.53,2689
+140,Almire Utley,Monagrillo,9,2,1659,843,2490,816,81.01,0.87,3382
+141,Netty Hukin,Pedasí,4,1,2877,331,3277,2546,58.79,4.3,2838
+142,Raddy Webbe,El Sesteadero,7,2,1946,1705,1109,241,5.74,1.52,2208
+143,Tracee Millthorpe,Los Angeles,3,2,1536,427,3840,1109,72.49,0.16,4942
+144,Ginger Lighten,Pedasí,1,1,2965,1835,3438,1130,15.3,1.87,3296
+145,Jacinta Parlour,El Sesteadero,2,2,3506,3255,35,251,32.22,4.51,2185
+146,Karita McManus,Ocú,1,2,433,232,1362,201,77.85,4.03,4345
+147,Nyssa Dominguez,Parita,2,1,1157,37,1626,1120,98.76,1.16,184
+148,Ewan Posselow,Parita,6,1,3274,2272,1126,1002,92.35,4.59,1325
+149,Meagan Mould,"",1,1,2765,792,3321,1973,92.06,3.21,3460
+150,Temp Collett,Monagrillo,9,2,1090,796,2506,294,89.76,3.2,2177
+151,Dedie Healy,El Rincon,3,2,793,443,1433,350,18.19,1.31,2353
+152,Carline Mannin,Pedasí,8,1,3700,3031,3404,669,24.86,2.45,4263
+153,Selinda Brownstein,La Arena,10,2,32,16,1653,16,17.92,0.61,1542
+154,Daffy Armall,La Villa de los santos,5,1,692,423,3051,269,22.6,0.34,1837
+155,Mac Clashe,Parita,5,2,2527,57,3433,2470,13.99,0.71,2005
+156,Shamus Garford,Potuga,2,1,144,136,1065,8,32.07,1.24,2756
+157,Daphna Christaeas,El Sesteadero,1,2,3679,1338,958,2341,72.52,2.66,2423
+158,Shoshana Lochrie,El Sesteadero,1,1,2062,703,3445,1359,90.3,4.71,327
+159,Beverlee Pareman,Las Tablas,7,1,2315,1906,3005,409,84.55,2.26,1970
+160,Eduard D'Ambrosi,El Rincon,6,1,1159,414,1353,745,7.44,2.93,446
+161,Bab Heath,Las Tablas,2,2,1696,1169,758,527,42.41,3.28,4093
+162,Ruben Cholton,La Arena,10,2,813,718,2788,95,21.0,3.91,297
+163,Trixie O'Moylan,Los Angeles,10,1,1158,1124,1147,34,33.11,1.99,1551
+164,Georgianne Mc Dermid,"",5,1,1842,726,1548,1116,20.41,4.0,4449
+165,Kania Desouza,Las Tablas,1,1,1060,489,3577,571,94.98,0.15,1180
+166,Chrissie Veld,Las Tablas,10,1,3227,2245,2314,982,54.0,0.97,3644
+167,Cherianne Mettrick,Chitré,6,2,1669,1569,2318,100,24.95,0.94,1911
+168,Ashleigh Mitchell,El Sesteadero,5,2,2135,1247,2959,888,81.88,2.2,3121
+169,Thia Oakwood,Paris,8,2,3178,234,654,2944,68.69,4.84,3430
+170,Noland Karpmann,Ocú,2,1,3993,1332,2952,2661,70.51,1.77,4012
+171,Marlowe Creese,Potuga,5,2,2181,1201,1527,980,86.83,1.01,1913
+172,Aubert Thirkettle,El Rincon,5,2,2009,907,1809,1102,41.29,3.97,3928
+173,Dayna Bloom,La Villa de los santos,9,2,142,142,1311,0,47.35,1.59,2777
+174,Aldus Victor,Paris,6,1,702,159,3130,543,79.14,4.6,1583
+175,Zed Insko,"",5,2,836,463,3599,373,44.99,4.55,2101
+176,Diarmid Woolforde,La Arena,5,1,2344,2059,1261,285,4.75,3.98,1861
+177,Tulley McKew,El Rincon,2,1,2611,1399,635,1212,21.67,4.23,4225
+178,Quent Burnet,Parita,8,1,1989,532,1836,1457,57.17,3.65,4624
+179,Trevor Odegaard,Paris,7,2,2498,1419,3259,1079,63.81,0.29,2424
+180,Lynette Keiley,Las Tablas,10,1,713,522,655,191,13.88,4.72,1428
+181,Eddie Willmetts,"",2,1,3861,3352,3480,509,70.66,0.27,4185
+182,Kare Ellacott,Pesé,3,2,2538,648,1912,1890,49.15,0.52,501
+183,Guthrey Schaffler,Paris,8,2,1866,651,1397,1215,30.01,1.96,2993
+184,Cedric Varney,Chitré,2,1,770,375,2596,395,37.86,2.01,976
+185,Patricio Dmiterko,Chitré,6,1,1174,1030,3728,144,97.81,2.54,4531
+186,Emmalyn Bending,Parita,6,1,1919,1377,2826,542,90.51,3.22,2808
+187,Chastity Mercy,La Arena,7,2,2625,1595,33,1030,53.01,1.92,470
+188,Devon Longthorn,Santa Maria,10,1,2912,1197,1826,1715,84.11,2.9,2920
+189,Amii Urry,La Villa de los santos,8,1,1015,169,2888,846,32.31,0.3,3935
+190,Toddy Ellaman,Chitré,7,1,2609,182,203,2427,26.29,1.06,2970
+191,Ware Huyche,Santa Maria,9,1,3679,1536,2364,2143,74.0,2.35,1099
+192,Amargo Wandless,La Arena,7,2,1665,1434,3693,231,10.71,0.57,820
+193,Winifield Fretson,Chitré,5,2,613,164,3250,449,36.61,4.31,1671
+194,Erinn Bordiss,La Arena,3,2,3407,2657,1712,750,11.0,2.63,1350
+195,Diarmid Beaglehole,Parita,2,1,63,12,2248,51,56.9,0.26,1492
+196,Joy Koba,Chitré,7,1,1920,300,1739,1620,52.64,0.17,1113
+197,Lion Gillet,La Arena,4,1,164,40,2709,124,55.25,2.07,2072
+198,Aubrey De Mitris,El Rincon,9,1,3935,57,2425,3878,25.51,0.69,2127
+199,Nora Slavin,Potuga,10,1,3375,2820,1197,555,35.04,2.45,2086
+200,Karol Neagle,El Sesteadero,1,2,493,22,2369,471,99.45,2.08,226
+201,Juana Tille,Las Tablas,9,1,3173,2194,3567,979,81.84,3.22,1926
+202,Marcie Kield,Paris,9,1,2174,1608,3206,566,73.37,3.0,2601
+203,Natty Polsin,La Arena,4,2,492,480,448,12,27.62,4.66,878
+204,Kailey Coleborn,Pesé,3,2,720,557,1753,163,74.71,0.58,480
+205,Whitney Whapham,Monagrillo,10,1,3775,1068,3754,2707,21.18,4.25,3907
+206,Charmane O'Keevan,Monagrillo,2,2,796,27,1016,769,30.61,0.13,4959
+207,De Fenwick,El Rincon,4,1,2281,1161,2994,1120,1.8,2.68,4007
+208,Lotte Bartrop,El Rincon,9,1,2102,9,3752,2093,11.57,0.71,3544
+209,Letitia Garaway,Chitré,10,2,3387,434,1320,2953,1.36,0.35,2548
+210,Zacharias Winterbottom,Paris,5,2,581,376,1858,205,86.72,0.63,2278
+211,Godart Leakner,Pesé,10,1,2121,665,2537,1456,70.48,4.78,2894
+212,Leighton Branthwaite,La Arena,7,2,2486,953,1359,1533,79.14,2.78,1914
+213,Linnea Le Barr,Los Angeles,7,2,246,203,3067,43,32.45,4.14,1552
+214,Shirline Toward,Pedasí,5,1,3489,2696,342,793,34.67,4.64,329
+215,Hewitt Wake,Las Tablas,10,2,1342,426,3523,916,56.64,1.36,3196
+216,Gusti Dawid,El Sesteadero,10,1,760,546,3654,214,28.61,1.68,2495
+217,Cordula Jaggi,Paris,4,1,3910,2445,1660,1465,98.54,3.3,4684
+218,Pepito Graine,Pedasí,3,1,2311,224,1527,2087,96.28,2.37,4133
+219,Georg Cobley,Potuga,8,1,1205,1161,2712,44,64.85,3.74,4245
+220,Kathryn Meriel,Monagrillo,7,2,1162,733,223,429,68.64,3.63,4965
+221,Carol Rayman,La Villa de los santos,2,2,2020,404,2070,1616,90.41,4.56,4202
+222,Joy Orry,Parita,7,2,658,19,3127,639,76.77,4.84,4185
+223,Deni Linkleter,Monagrillo,7,1,2927,1731,1313,1196,95.19,2.51,2384
+224,Faina Gruby,Las Tablas,7,2,2023,359,3461,1664,91.44,4.42,184
+225,Brod Pizey,Parita,3,2,3878,1978,536,1900,34.38,2.78,2722
+226,Rivalee Scallan,Las Tablas,1,1,3782,2447,3213,1335,95.77,2.54,4212
+227,Reyna Lamberti,Chitré,8,2,1913,461,3830,1452,95.47,2.23,3676
+228,Ignacio Isbell,Chitré,6,1,3064,2710,902,354,64.03,4.13,3002
+229,Thane Natte,Los Angeles,6,2,3020,340,554,2680,71.05,2.08,3600
+230,Ethe Swindley,Paris,10,2,1547,385,3584,1162,74.68,0.5,3263
+231,Jens Somerville,Paris,2,2,3663,1532,2459,2131,83.1,1.98,1442
+232,Carlie O'Corrigane,Paris,10,1,163,141,1272,22,17.22,0.5,1665
+233,Caren Spur,Chitré,4,2,1554,1073,2883,481,84.5,0.09,309
+234,Iorgo McRavey,Potuga,7,1,817,444,1139,373,86.39,2.48,2737
+235,Dione Mawer,Santa Maria,2,2,2423,159,682,2264,77.25,0.71,948
+236,Dene Camois,La Arena,1,1,2297,2133,3081,164,11.67,1.49,4804
+237,Daniela Kopp,Monagrillo,4,2,3377,965,3387,2412,98.95,4.39,2424
+238,Guillema Brideaux,El Rincon,5,2,1242,708,1882,534,67.14,3.96,3300
+239,Berkie Mayworth,Pedasí,10,2,2935,2314,1161,621,14.85,3.99,975
+240,Agathe Lattimer,El Sesteadero,10,2,171,8,2029,163,91.93,4.29,1037
+241,Katy Chritchley,"",1,1,839,365,2964,474,13.73,0.74,2428
+242,Marilyn Dellow,El Rincon,5,1,1570,382,3697,1188,79.13,3.99,539
+243,Stirling Doerffer,Los Angeles,4,1,1122,640,2444,482,12.84,0.95,1139
+244,Roderic Yurtsev,La Arena,1,1,3132,997,3049,2135,40.04,3.68,116
+245,Mannie Stalman,Pesé,2,2,1183,791,3932,392,83.33,4.49,1348
+246,Neysa Choules,Las Tablas,1,1,1234,200,2671,1034,42.26,0.71,2440
+247,Constancia Kilduff,Los Angeles,1,2,3868,1984,1546,1884,14.18,1.51,3885
+248,Hendrik Longworth,Monagrillo,10,2,3454,247,2145,3207,31.99,2.52,517
+249,Harlen Tommasi,Monagrillo,7,2,2020,1467,2189,553,29.39,4.9,1768
+250,Kare Btham,Potuga,2,1,1131,961,3610,170,4.55,3.03,3800
+251,Grete Stevenson,La Arena,5,2,1265,497,267,768,90.84,1.92,3730
+252,Edy Yea,Ocú,9,2,690,689,1725,1,56.17,0.58,3586
+253,Sidonnie Vanyatin,"",8,1,872,209,1192,663,81.72,1.87,3707
+254,Hildagarde Waring,Monagrillo,8,1,1729,1539,1953,190,42.6,0.73,846
+255,Grethel Hovy,La Villa de los santos,9,1,2670,683,877,1987,89.22,2.73,4473
+256,Oswald Kowalski,Paris,6,2,3848,1806,553,2042,3.21,4.06,460
+257,Dorian Baus,Chitré,4,1,3433,376,2860,3057,20.02,1.12,1093
+258,Maria Baldelli,El Sesteadero,10,2,107,43,3172,64,0.29,4.7,1055
+259,Caro Mungin,Las Tablas,4,1,2328,1927,3346,401,11.84,4.67,760
+260,Barrie Timms,"",2,2,1934,1641,2161,293,22.83,3.05,3412
+261,Jorry Craister,El Sesteadero,9,2,858,511,2726,347,98.45,2.22,264
+262,Scottie Davie,Pesé,9,2,623,202,2982,421,48.71,1.67,708
+263,Townsend Bartolomieu,Monagrillo,10,2,3064,1962,3135,1102,80.31,3.71,4132
+264,Edan Twycross,Pedasí,3,1,1455,766,1236,689,43.67,4.29,2019
+265,Ganny Quincey,Chitré,2,1,294,76,904,218,58.48,2.22,4002
+266,Oswell Scantlebury,Las Tablas,10,2,3314,2385,3184,929,79.58,0.8,747
+267,Ondrea Lippett,Las Tablas,2,2,172,107,2104,65,68.79,0.67,4188
+268,Esmeralda Belz,La Arena,10,2,2302,724,3316,1578,90.93,0.94,2347
+269,Hannie Weakley,El Rincon,5,1,1501,793,1986,708,0.27,2.6,93
+270,Travers Merkle,Pesé,1,1,2041,274,1941,1767,82.66,2.62,2529
+271,Gustav Chalmers,Chitré,7,2,298,175,2919,123,71.73,0.95,4035
+272,Maggie Lively,"",9,1,2932,162,3997,2770,68.82,1.06,134
+273,Andrej Arlet,Pesé,4,1,3741,3605,1068,136,90.35,0.75,3303
+274,Hannie Jeandillou,Paris,1,2,1676,1552,2558,124,66.17,3.24,3773
+275,Wileen Khrishtafovich,Santa Maria,2,2,3808,3048,803,760,13.65,0.7,2264
+276,Aubrie Arniz,Monagrillo,3,2,3600,1483,2321,2117,5.12,1.07,4655
+277,Chrissie Denyagin,Monagrillo,5,1,1024,89,2485,935,3.87,3.02,76
+278,Zonnya Gillman,El Rincon,1,2,2141,649,6,1492,1.23,1.8,3247
+279,Fredric Grichukhanov,El Sesteadero,4,2,1212,512,2611,700,44.99,2.57,1015
+280,Meagan Benzi,"",5,1,2449,1624,320,825,10.86,4.21,1217
+281,Ty Conkling,"",5,1,2204,909,756,1295,43.83,1.33,1257
+282,Noell Denholm,La Villa de los santos,10,2,2897,2319,2312,578,49.72,4.59,1388
+283,Carleton Garnham,Parita,8,1,3968,523,556,3445,75.89,3.48,4625
+284,Ora Pasque,Monagrillo,2,1,3197,1464,2763,1733,86.17,0.1,4073
+285,Tessy Grafhom,El Rincon,6,1,2089,472,968,1617,77.03,2.09,323
+286,Evania Laphorn,La Arena,8,1,1350,1250,2514,100,64.64,4.48,4514
+287,Constancy Fidal,Santa Maria,1,1,2214,83,713,2131,93.74,4.87,3991
+288,Marget Aubury,El Sesteadero,1,2,2504,1649,246,855,63.68,1.07,2649
+289,Avram Giacomello,Pedasí,8,1,399,65,3967,334,28.59,3.68,1179
+290,Bondie Bamber,Chitré,2,2,1529,192,2501,1337,33.07,4.08,832
+291,Demeter O'Scannill,"",7,1,541,259,3216,282,22.81,4.96,42
+292,Traver Kobierra,Pedasí,8,1,2682,1516,3084,1166,93.69,3.86,3378
+293,Tedd Mavin,Santa Maria,1,1,1283,1022,249,261,26.34,0.36,416
+294,Hadrian Ouslem,Los Angeles,9,2,1827,784,672,1043,31.19,3.03,2512
+295,Vivian Rylands,"",1,2,3614,257,2644,3357,81.02,4.98,2964
+296,Edd Van der Spohr,La Villa de los santos,5,1,3693,160,2737,3533,85.39,2.35,102
+297,Man Cota,Pesé,1,1,2692,287,1680,2405,32.57,0.77,2843
+298,Karoly Hailwood,Pedasí,5,1,3279,1164,521,2115,16.15,0.65,4737
+299,Jerrine McGilben,Chitré,1,2,3258,6,3476,3252,98.97,2.52,658
+300,Kevyn Mechic,Monagrillo,5,2,917,279,1459,638,0.07,3.55,4770
+301,Shelia Besse,Los Angeles,8,2,1144,816,1010,328,21.68,2.05,4039
+302,Garrek Sarfas,La Arena,10,1,3749,837,3118,2912,14.26,1.65,4372
+303,Rupert Winterton,Ocú,7,1,2382,1638,8,744,78.59,2.5,4317
+304,Ryun Curneen,Chitré,7,1,317,123,3242,194,99.6,2.95,396
+305,Isadore Abrashkov,Ocú,9,1,3769,3251,18,518,40.68,4.27,4940
+306,Ag Maciak,El Sesteadero,3,1,1878,1406,437,472,43.55,0.93,38
+307,Shay Comley,Los Angeles,9,1,3976,1284,3522,2692,5.35,0.84,3072
+308,Lissie Shurman,Santa Maria,1,1,2575,725,3822,1850,96.89,0.51,538
+309,Vivi Dellar,Santa Maria,3,2,504,70,3196,434,12.53,4.89,1564
+310,Mano Yerborn,Las Tablas,3,2,3205,2704,3279,501,32.62,4.9,1678
+311,Godart Videler,Potuga,2,1,3326,1743,210,1583,84.32,3.33,3959
+312,Storm Mussington,Santa Maria,1,1,2054,1942,3623,112,56.04,0.04,1654
+313,Larina Satford,La Arena,7,1,3053,2362,563,691,28.85,4.54,4288
+314,Ignace Mordey,Santa Maria,6,1,1093,668,3251,425,0.91,2.56,3305
+315,Winny Goodlife,Potuga,7,2,1158,730,1019,428,7.45,1.48,2554
+316,Isahella Keighly,Las Tablas,8,2,3624,709,91,2915,93.32,3.39,1267
+317,Laryssa Doumerque,Parita,4,2,1747,390,693,1357,6.35,0.51,896
+318,Wittie Balch,Pedasí,4,2,2888,1166,1052,1722,11.79,0.8,2517
+319,Geno Le Grove,La Villa de los santos,4,1,645,574,1697,71,4.51,4.24,2895
+320,Earvin Slyde,"",3,2,2899,2261,1709,638,35.37,3.41,2419
+321,Rosie Sulman,Monagrillo,10,1,298,124,1878,174,21.76,1.31,241
+322,Hadley Taffee,"",6,1,2232,2114,85,118,23.08,1.38,65
+323,Ennis Petersen,La Villa de los santos,8,2,576,353,504,223,39.67,1.21,4331
+324,Sutton Blakiston,El Rincon,5,1,3887,3532,2757,355,51.51,2.68,1390
+325,Cathryn Regan,El Sesteadero,8,1,226,98,1384,128,69.74,2.33,442
+326,Burr Lotterington,Santa Maria,5,1,2187,814,931,1373,57.11,2.89,2005
+327,Mercedes Aldersey,Parita,10,2,1029,348,3697,681,14.39,1.5,4614
+328,Giorgio Purtell,Las Tablas,10,2,2678,779,822,1899,99.7,1.02,1746
+329,Dalis Spurriar,Parita,5,1,3888,3543,1169,345,50.99,3.63,4932
+330,Olenka Ellerington,El Sesteadero,8,2,2534,1862,801,672,89.02,3.87,3026
+331,Stafford Gosby,El Rincon,10,2,2820,708,2108,2112,78.65,1.89,4867
+332,Launce Smelley,El Rincon,5,2,1512,267,1914,1245,37.84,2.17,1413
+333,Bryant Alleway,Las Tablas,8,2,3174,1135,27,2039,61.09,0.66,2564
+334,Bjorn Bewlie,"",8,1,3735,2141,1538,1594,15.41,2.45,3623
+335,Claire Pavlovic,Pesé,1,2,3046,3039,3384,7,99.8,4.28,1191
+336,Devina Fettes,Potuga,8,1,2456,1909,2837,547,95.29,1.88,4476
+337,Byran Benam,"",4,1,2516,1200,1805,1316,70.07,1.56,2953
+338,Tamiko Haverty,Pedasí,7,2,3739,2002,688,1737,25.0,3.73,4859
+339,Elly Holtham,El Rincon,10,1,3061,910,2068,2151,74.07,0.8,1807
+340,Lola Chandler,Los Angeles,2,2,3241,3162,543,79,81.76,0.09,893
+341,Appolonia Mougenel,El Rincon,10,2,1901,1247,1220,654,25.24,0.29,2397
+342,Eddie Kupke,Ocú,5,1,1063,691,1252,372,98.48,0.01,1883
+343,Gert Futter,"",5,1,576,523,2188,53,20.54,1.93,4028
+344,Eddy Stiegars,Pedasí,7,2,980,201,1227,779,37.0,4.22,3565
+345,Shawn Jereatt,Pesé,1,2,1096,551,871,545,76.52,3.01,1737
+346,Guthrey Byatt,"",7,1,2207,1676,2223,531,42.02,0.48,369
+347,Nedda Sneesbie,Parita,6,2,2766,2446,366,320,11.41,4.78,417
+348,Mab Seif,Paris,4,1,3290,60,3733,3230,91.57,3.6,3808
+349,Carilyn Ladley,Monagrillo,6,1,1012,158,2072,854,7.61,4.05,2397
+350,Toinette Calverd,Ocú,1,2,168,154,2799,14,86.26,3.23,1120
+351,Ardelia Withey,La Arena,4,1,2906,725,1025,2181,47.89,4.6,2402
+352,Alida Cavan,Santa Maria,3,2,2034,397,2358,1637,30.34,3.87,2062
+353,Kimmie Cadding,Chitré,9,1,1994,772,2942,1222,6.09,3.71,4921
+354,Devlen Ilson,Ocú,4,1,3686,11,329,3675,73.85,4.4,696
+355,Ardyth Cawthera,Las Tablas,2,1,1187,384,1769,803,56.31,2.79,2172
+356,Marj Crevy,La Villa de los santos,8,2,1855,705,2906,1150,21.98,0.41,3781
+357,Pernell Broodes,Paris,1,2,2074,1735,931,339,39.2,4.64,588
+358,Lana Szymczyk,Ocú,1,1,195,42,1778,153,9.19,4.59,2475
+359,Reidar Justice,Potuga,1,2,676,271,3313,405,63.77,0.13,165
+360,Ram Lunam,Ocú,4,1,1032,177,1086,855,16.65,2.11,1155
+361,Kyrstin Bedminster,Pesé,6,1,2783,2738,2724,45,45.2,4.24,2109
+362,Bevin Simister,La Villa de los santos,6,2,71,43,455,28,69.81,2.21,703
+363,Giraud Mouan,Los Angeles,7,1,483,350,3485,133,84.21,2.31,4108
+364,Marchelle Ebbotts,La Villa de los santos,9,1,347,132,2304,215,80.13,0.73,3267
+365,Robinet Casa,Monagrillo,1,1,1825,1230,1051,595,25.87,2.17,2317
+366,Marion Billyeald,La Villa de los santos,5,1,2130,1320,1035,810,57.41,3.67,4947
+367,Cullin Hook,Los Angeles,2,1,3903,1574,3678,2329,93.39,0.52,3457
+368,Reinwald Petticrow,El Rincon,3,1,3130,2524,2332,606,2.02,3.8,3070
+369,Hertha Livett,Parita,8,1,2745,1487,3674,1258,47.1,2.76,721
+370,Bealle Morgan,Pedasí,8,2,536,274,3416,262,20.95,0.25,1142
+371,Indira Frisby,Pedasí,8,2,3012,773,725,2239,50.7,0.39,1409
+372,Dinnie Timcke,Pesé,7,2,3259,662,2006,2597,98.91,2.81,2233
+373,Felicity Newick,Santa Maria,4,2,1816,234,1481,1582,3.06,1.99,1259
+374,Price Charge,Parita,9,2,2354,967,3276,1387,40.78,3.04,467
+375,Fabian Devers,Parita,7,2,1178,246,1188,932,35.56,4.98,444
+376,Vicky Redihough,Potuga,9,1,1296,393,2327,903,36.05,2.44,883
+377,Arlie Bannard,Monagrillo,3,1,3076,177,3400,2899,76.67,3.03,2106
+378,Elyssa Aleksich,Santa Maria,2,2,2329,403,3415,1926,47.47,2.08,3161
+379,Thornie Tween,Paris,8,2,538,498,1854,40,95.11,0.64,1145
+380,Wilfrid Murray,Monagrillo,1,2,229,115,829,114,9.74,1.27,4197
+381,Myrilla Stimpson,Monagrillo,1,2,2751,611,7,2140,14.13,2.64,3659
+382,Almire Poskitt,"",2,1,561,136,2680,425,82.06,3.0,1282
+383,Salvador Murrison,Parita,7,2,1168,572,1971,596,3.07,4.01,973
+384,Jarid Grinov,Paris,6,1,3953,122,990,3831,76.9,3.36,1083
+385,Emmy Rallin,Santa Maria,9,1,1414,402,2043,1012,3.65,1.39,50
+386,Jillane Hargess,El Rincon,8,1,2260,124,3305,2136,44.84,3.57,1317
+387,Orlando Wanderschek,Pedasí,2,2,2848,835,1659,2013,23.84,2.51,4123
+388,Burl Prandy,Chitré,9,1,2604,1386,442,1218,48.69,1.16,3719
+389,Kristoffer Abrehart,Ocú,2,1,1133,108,2675,1025,46.24,3.49,4283
+390,Alison Seger,La Villa de los santos,7,1,2041,1928,342,113,97.91,4.68,639
+391,Lyell Hardwell,Las Tablas,7,1,3915,2045,281,1870,92.52,3.35,1535
+392,Ingunna Sturridge,El Sesteadero,1,1,3210,1790,377,1420,2.45,3.05,4917
+393,Nettie Gut,La Villa de los santos,4,2,3376,3287,3840,89,15.18,2.78,3400
+394,Lisle Sansome,La Villa de los santos,1,1,987,33,3882,954,41.65,2.51,4920
+395,Steffane Clara,Pedasí,10,1,451,382,255,69,18.28,1.04,869
+396,Claudia Sturch,Ocú,2,2,1390,670,409,720,92.02,0.73,4717
+397,Ricky Eyden,El Rincon,10,1,2854,2682,1330,172,85.38,3.73,4948
+398,Hamlen Culver,Santa Maria,9,1,2478,837,1904,1641,73.03,0.18,2740
+399,Addison Hayers,Chitré,9,1,899,695,3423,204,40.24,2.5,96
+400,Thurstan Nel,Paris,6,2,2576,2375,3281,201,56.77,1.58,1358
+401,Tonye Hallford,La Arena,1,1,1246,1043,745,203,24.71,2.64,1464
+402,Car Kesey,Potuga,2,1,2985,2602,2805,383,53.95,3.22,715
+403,Cassandry Elkington,Pedasí,4,1,330,243,3868,87,41.61,1.49,1419
+404,Dawna Kerswill,La Villa de los santos,10,2,2703,446,2366,2257,48.97,4.82,4338
+405,Hieronymus Capehorn,Pedasí,1,2,3925,3557,3901,368,3.72,2.09,4673
+406,Sylas Jacobowicz,Monagrillo,4,2,1145,294,533,851,57.83,4.33,4520
+407,Adolph Kinchin,La Arena,6,2,1750,97,1274,1653,46.58,3.43,2395
+408,Nananne Davydzenko,Las Tablas,4,2,719,544,3677,175,95.35,2.85,4084
+409,Eveline Passie,Pedasí,2,2,1925,404,97,1521,52.04,2.12,4181
+410,Jacquette Lammert,La Villa de los santos,8,1,1240,1180,2553,60,16.48,2.45,2735
+411,Delmore Blundan,Las Tablas,1,1,485,365,3009,120,92.88,3.98,4937
+412,Karlens Buckwell,Potuga,5,1,3688,1483,2180,2205,21.23,3.28,1280
+413,Tomi Liversage,El Sesteadero,2,2,1090,174,967,916,53.75,0.28,3596
+414,Lionel Knibb,"",3,2,2359,1357,1379,1002,67.92,2.16,2665
+415,Dynah Chantillon,El Sesteadero,3,1,2478,515,2683,1963,47.76,4.61,4841
+416,Elie Priddie,Monagrillo,5,1,2214,1536,1650,678,50.06,2.0,1339
+417,Faber Aviss,Santa Maria,4,1,1947,1380,496,567,97.78,1.12,3753
+418,Del Bonaire,La Villa de los santos,2,2,1978,981,1958,997,43.73,0.95,63
+419,Renaldo Tremathack,Monagrillo,9,2,2273,473,173,1800,52.89,4.83,3981
+420,Godfree Roscam,Ocú,2,2,2484,1876,941,608,55.38,1.37,4657
+421,Felicdad Abry,Chitré,7,2,2775,782,1421,1993,60.7,4.44,2899
+422,Filippo Maciak,La Arena,8,2,180,98,395,82,1.65,4.05,1317
+423,Leeanne Rudgard,Pesé,5,1,13,5,2244,8,42.04,1.09,610
+424,Gardner Grenshields,Paris,3,1,25,5,915,20,6.66,1.28,4813
+425,Tatum Jakeman,Las Tablas,2,1,323,141,916,182,57.81,3.29,967
+426,Devy Abercrombie,Pedasí,5,2,2089,379,270,1710,13.39,4.56,2745
+427,Earle Le Hucquet,Pesé,2,2,533,500,24,33,10.36,1.29,4312
+428,Selle Mobberley,"",8,2,858,426,1061,432,21.32,0.85,4389
+429,Robenia Goodhall,Santa Maria,9,2,2819,795,3344,2024,99.34,3.98,4840
+430,Sapphira Arrigucci,"",9,2,639,553,2529,86,13.43,1.84,3061
+431,Jerrome Pidgeley,"",5,1,152,35,3824,117,52.33,1.2,4380
+432,Pansie Chopy,Pedasí,1,1,3593,1227,2622,2366,61.89,4.3,2095
+433,Eadmund Boxhill,El Sesteadero,5,1,3320,2776,1465,544,1.28,2.14,3282
+434,Michel Ramsdale,La Arena,2,1,1134,662,2076,472,20.59,0.09,3942
+435,Ancell Dodworth,El Rincon,7,1,278,99,2372,179,54.58,3.77,4296
+436,Robbin D'Hooghe,Ocú,4,2,1410,178,1533,1232,54.35,0.91,2529
+437,Skippy Ubsdell,El Rincon,1,1,3478,3395,3266,83,72.55,3.03,575
+438,Eartha Olenov,Santa Maria,10,2,1776,1102,3119,674,54.2,4.93,487
+439,Terza Hymor,Parita,10,2,1821,1335,846,486,21.93,1.74,3856
+440,Lucretia Tolliday,Chitré,6,1,1346,225,3750,1121,11.18,1.47,8
+441,Augustin Johanning,La Arena,2,1,1441,557,2130,884,95.84,2.55,2857
+442,Michele Girsch,La Arena,4,2,1956,798,285,1158,48.91,2.1,628
+443,Sibley Faulconer,Ocú,1,1,1355,1196,2452,159,52.48,2.39,585
+444,Damon Roberto,La Arena,3,2,3839,1994,211,1845,48.49,1.23,3525
+445,Olia Utting,Monagrillo,7,2,1422,1199,3590,223,99.15,4.37,3008
+446,Gabrielle Lorrimer,"",2,1,3924,1570,1962,2354,83.65,0.59,2376
+447,Dru Beardall,La Arena,10,2,2285,1535,1447,750,0.52,3.53,2710
+448,Morlee Flute,Santa Maria,6,1,2662,2438,2356,224,74.79,3.95,1961
+449,Herc Winton,Potuga,3,1,1677,1467,1630,210,18.44,3.43,199
+450,Arne Towe,La Villa de los santos,2,1,3218,2868,150,350,60.78,0.01,3552
+451,Kizzie Yexley,Pedasí,6,2,1557,1288,10,269,90.75,1.11,2198
+452,Carmel Jonas,Chitré,10,2,274,6,809,268,44.7,0.04,4837
+453,Kip Neames,La Villa de los santos,4,1,3162,1299,1805,1863,77.3,3.63,1113
+454,Hana Cummins,Los Angeles,6,2,893,731,1949,162,71.63,0.98,3088
+455,Ursala Manlow,Chitré,4,1,1690,279,2216,1411,2.12,3.1,1091
+456,Tonye Lawles,Parita,9,2,582,409,3661,173,99.72,4.63,3608
+457,Sara-ann Sturm,Los Angeles,5,2,2279,103,1598,2176,5.59,2.1,798
+458,Howey Brogi,La Villa de los santos,6,2,3389,3033,1290,356,82.78,1.04,4083
+459,Welbie Doulton,Monagrillo,1,1,38,2,504,36,89.26,2.77,3899
+460,Aldrich Giacopello,Pedasí,3,2,2867,190,1518,2677,35.08,3.05,495
+461,Scott Prandy,El Sesteadero,8,2,1034,675,2336,359,81.39,4.62,257
+462,Jacqui Macellar,La Villa de los santos,6,1,2445,1412,3439,1033,84.88,3.95,2970
+463,Leora Rispen,Potuga,2,1,3829,2174,2700,1655,80.74,2.0,2055
+464,Tiler Fawthrop,"",10,2,3125,1929,1631,1196,27.68,4.82,793
+465,Tanhya Pledge,Chitré,9,1,1309,1158,2942,151,22.68,0.55,2163
+466,Orelee Sholl,La Arena,5,2,3571,3404,3532,167,38.77,4.68,3921
+467,Martie Bubbins,El Rincon,3,1,944,726,2017,218,77.55,4.4,1333
+468,Dew Ortelt,Chitré,3,1,872,81,305,791,20.81,2.28,2215
+469,Kelcey Rings,Santa Maria,10,2,3737,2066,304,1671,37.66,1.99,2152
+470,Ervin Outright,El Rincon,4,1,3131,1183,1034,1948,84.64,1.59,2224
+471,Andros Atchly,Paris,8,1,894,92,3959,802,98.39,4.24,4227
+472,Alfonso Penney,Pesé,2,2,1462,1179,2459,283,51.26,2.26,4480
+473,Yolande Chessell,Paris,5,1,295,232,3914,63,82.03,0.39,2238
+474,Herschel Drowsfield,El Rincon,6,2,2859,2446,2690,413,29.77,4.16,4321
+475,Chan Beminster,Chitré,3,2,531,211,2423,320,99.96,0.67,1415
+476,Gwenette Berlin,"",7,1,1957,647,1948,1310,28.81,1.13,176
+477,Joey Showers,El Rincon,7,1,3505,1004,1937,2501,15.24,0.41,3912
+478,Binny Brehat,Las Tablas,1,1,919,84,3457,835,36.03,2.35,4092
+479,Montgomery Harce,Potuga,9,1,1833,1460,2371,373,40.8,1.44,4924
+480,Averell Mound,Monagrillo,4,2,737,505,2323,232,25.03,4.94,2567
+481,Lorry Skelly,Potuga,9,2,3301,2811,653,490,72.16,1.98,2519
+482,Carree Rouse,El Rincon,10,1,1636,1395,414,241,68.8,2.01,1784
+483,Jojo Bunyan,Pesé,10,2,1307,556,2529,751,88.39,3.15,4824
+484,Manuel Parnham,Parita,2,1,1391,419,2477,972,45.07,4.66,354
+485,Rhett Hannabuss,Paris,2,1,3515,1385,1406,2130,74.34,1.57,3958
+486,Collie Juszkiewicz,Santa Maria,4,1,1054,180,520,874,77.99,0.1,2982
+487,Cornelle Wiggam,Las Tablas,2,1,2665,1756,3828,909,1.68,3.74,1360
+488,Jena Trace,Las Tablas,6,2,2813,878,3144,1935,19.27,3.2,1978
+489,Gweneth McGarva,Los Angeles,3,2,3210,3074,3275,136,57.21,3.44,1071
+490,Rosette Picot,Ocú,8,1,3104,1732,869,1372,24.35,4.86,4340
+491,Romona Aylmore,Pesé,9,2,2196,2154,2429,42,36.12,2.42,1995
+492,Towny Brumfitt,Potuga,2,2,3124,788,812,2336,90.1,1.56,4922
+493,Matthiew Teligin,Chitré,6,2,1752,1134,2943,618,91.62,4.89,1937
+494,Farra Gentle,Santa Maria,7,2,3083,1036,2078,2047,77.83,1.39,2539
+495,Rosamond Goodbourn,Pesé,10,2,439,318,2461,121,21.0,2.78,115
+496,Husein Rilton,La Arena,3,1,3769,3553,2853,216,34.98,0.47,2727
+497,Roanne Ottewill,Ocú,7,2,391,117,2594,274,65.19,4.14,3480
+498,Lyn Meedendorpe,Santa Maria,7,2,2622,487,283,2135,31.41,4.65,70
+499,Livvy Wasselin,Los Angeles,4,1,2936,2476,840,460,17.18,4.63,3378
+500,Kari Gammett,Pesé,6,2,2132,1833,1536,299,61.64,2.07,3835
+501,Theadora Catcherside,Paris,10,2,644,594,1376,50,51.01,1.77,656
+502,Hermon Thackston,Parita,6,2,2763,2134,2093,629,58.98,0.16,1097
+503,Neville Wellum,La Arena,8,1,672,294,641,378,49.41,2.31,2649
+504,Wileen Rowbrey,Pedasí,3,2,1788,1106,744,682,47.46,3.46,337
+505,Clarance Cayton,Los Angeles,10,2,2693,1343,3994,1350,72.55,2.13,588
+506,Alec Bangiard,Pesé,2,2,3514,471,3204,3043,79.19,3.51,1890
+507,Niki McCullogh,Pedasí,2,2,2640,858,2413,1782,41.72,4.81,2849
+508,Morey Hand,Los Angeles,6,2,3464,1564,2413,1900,84.55,3.13,3960
+509,Wallis Lanfranchi,Ocú,10,1,1353,1332,2722,21,82.37,1.42,750
+510,Kai Hennemann,Paris,4,2,2698,2682,2631,16,88.17,4.41,1755
+511,Shannen Appleby,Chitré,1,2,319,44,3951,275,58.34,3.93,2115
+512,Jemmie Hayter,Los Angeles,7,1,737,4,2167,733,68.06,1.72,2929
+513,Maressa Chattington,Las Tablas,7,1,2594,2462,1096,132,79.77,4.03,4901
+514,Helaine Batterson,Los Angeles,9,2,827,301,3753,526,66.29,4.56,1525
+515,Dayna Douglass,El Sesteadero,9,1,3830,1009,2992,2821,38.79,1.29,4057
+516,Alfredo Liversley,Las Tablas,5,2,3970,1519,1799,2451,53.1,2.1,1458
+517,Emelina Pagon,"",6,1,2017,542,2263,1475,26.96,3.83,2482
+518,Trina Robet,Santa Maria,2,2,1124,976,1087,148,88.79,4.2,3339
+519,Hedi Girauld,Potuga,3,1,582,360,103,222,57.69,2.9,1418
+520,Zahara Laux,Pesé,2,1,546,466,1425,80,20.73,2.89,1542
+521,Bowie Sharply,Paris,2,1,1358,1288,934,70,57.54,0.29,4547
+522,Durward Simyson,Los Angeles,3,2,372,286,1658,86,81.22,1.78,3154
+523,Dierdre Zamora,Potuga,3,1,1199,469,3126,730,36.74,4.03,3998
+524,Lexy Caselli,Los Angeles,8,2,3793,1774,1574,2019,61.9,2.84,3787
+525,Eleanore O'Hear,La Arena,8,1,3680,1990,2776,1690,65.85,0.26,4950
+526,Emmi Hailey,Monagrillo,10,2,3831,2806,3995,1025,13.43,2.83,221
+527,Ritchie Mixworthy,La Arena,5,1,3202,663,116,2539,84.91,1.78,4329
+528,Gnni Mathieu,Ocú,9,2,470,373,685,97,84.05,0.29,1400
+529,Vinni Hessenthaler,La Arena,3,1,3610,680,8,2930,12.65,3.51,3095
+530,Prince Meegin,"",6,1,777,469,215,308,7.26,0.34,3410
+531,Renee Shearsby,La Arena,2,1,3131,2635,3637,496,97.35,3.73,1132
+532,Kattie McCreary,Ocú,7,2,534,120,138,414,17.36,1.43,3312
+533,Ronnie Syddall,Ocú,5,2,2945,896,1983,2049,44.95,4.43,3365
+534,Kasper Karczinski,Paris,5,1,759,292,1098,467,18.69,0.51,2220
+535,Birgit Bignall,Las Tablas,10,2,183,162,2022,21,7.58,4.11,496
+536,Joseito Jovasevic,Los Angeles,1,2,91,50,1591,41,96.21,4.46,3362
+537,Cher Braniff,Las Tablas,7,1,2689,2195,2220,494,1.07,0.07,4676
+538,Harli Deacock,Potuga,9,2,1302,199,1827,1103,98.74,0.89,2768
+539,Darryl Peedell,Monagrillo,8,1,3513,1880,1574,1633,2.36,2.89,3309
+540,Jacquetta Gaskamp,Ocú,8,2,3121,1737,3781,1384,54.36,4.71,3577
+541,Lionello Gater,Pesé,5,1,2039,1783,3274,256,87.82,0.04,1322
+542,Adora Combe,"",10,1,3385,457,2721,2928,12.75,4.28,702
+543,Antonino Claydon,Paris,7,1,3037,2914,2993,123,82.15,4.18,1440
+544,Camille Messum,Potuga,5,2,444,356,1131,88,46.23,1.87,4022
+545,Herby Prescot,Potuga,4,1,1796,921,3654,875,12.78,1.29,1662
+546,Shirlee Gonthier,Paris,5,2,801,666,2229,135,91.69,1.97,4503
+547,Chryste Kneller,Los Angeles,9,1,2360,1356,1496,1004,77.66,1.62,193
+548,Etienne Sabathe,Chitré,2,2,1216,363,2556,853,18.81,1.13,2852
+549,Winnah Bysaker,La Villa de los santos,9,2,3952,615,1959,3337,91.33,0.45,4978
+550,Corine Hatchell,La Villa de los santos,9,2,593,31,3198,562,63.74,3.62,5
+551,Catherina Eudall,Pedasí,9,1,462,40,2172,422,26.57,3.74,2007
+552,Betteann Python,La Arena,8,1,524,233,3106,291,15.75,2.59,3057
+553,Devina Phil,Las Tablas,10,1,2336,1256,1606,1080,93.19,1.01,1588
+554,Kris Trude,Pesé,2,1,3723,2423,860,1300,63.74,0.96,3908
+555,Jillane Siggers,El Rincon,7,2,60,27,191,33,7.59,0.27,4185
+556,Oberon Mellor,La Arena,5,1,2209,1670,2486,539,69.75,4.15,141
+557,Maighdiln Geraudy,Pesé,10,2,1227,70,451,1157,63.53,0.91,1716
+558,Leeann Fernie,Pesé,6,1,2347,2306,2529,41,21.34,4.15,3652
+559,Aubrette Van den Velden,Chitré,2,1,1043,651,1461,392,70.97,2.63,359
+560,Moss Spuner,Pesé,7,1,521,387,1786,134,53.81,4.78,3530
+561,Arlyne Haygreen,El Sesteadero,8,2,2200,233,1746,1967,25.72,3.09,803
+562,Onfroi Ginn,"",6,2,3907,237,3311,3670,86.31,2.36,4728
+563,Faulkner Kenefick,Los Angeles,10,2,3834,1455,1074,2379,73.86,0.57,3446
+564,Mervin Guillerman,La Arena,3,1,3661,148,3247,3513,78.95,3.51,1389
+565,Ewan Dmitrovic,La Villa de los santos,2,2,1774,1600,1996,174,91.86,1.1,2456
+566,Danya Bleackly,Parita,2,1,2629,1802,2404,827,46.77,0.51,1583
+567,Agace Brearley,Las Tablas,5,2,2635,371,1072,2264,48.59,4.18,109
+568,Maurita Hollidge,La Villa de los santos,7,1,3047,1881,1874,1166,40.98,3.1,118
+569,Loleta Lackington,Monagrillo,2,2,218,42,1288,176,79.25,4.88,1262
+570,Harriott Thring,"",7,1,1688,452,2679,1236,42.42,0.08,849
+571,Bil Nardoni,Los Angeles,5,1,1781,1510,1617,271,14.27,4.13,4303
+572,Vasili Torfin,Pedasí,3,1,2327,323,2813,2004,41.21,0.34,631
+573,Alphonse Wooller,La Arena,9,2,2982,1091,2364,1891,51.32,1.2,2825
+574,Willi Chill,Santa Maria,1,2,589,411,216,178,34.71,0.57,236
+575,Bartholemy Sydenham,El Sesteadero,4,2,1526,338,1630,1188,82.19,2.0,1548
+576,Barnaby Doll,Pesé,7,1,2648,331,74,2317,50.89,2.33,1150
+577,Zacharie Skypp,Las Tablas,4,2,18,4,20,14,6.07,3.23,3833
+578,Wyn Diter,Ocú,7,1,3973,584,2454,3389,20.81,2.19,1575
+579,Concordia Robard,Parita,9,2,3692,2410,64,1282,75.98,3.88,4867
+580,Jaquenette Vedishchev,Monagrillo,1,1,1054,46,165,1008,16.62,1.14,625
+581,Meyer Hamly,Los Angeles,10,2,857,732,1842,125,50.93,3.96,1868
+582,Brig Twelvetrees,Los Angeles,7,2,747,273,2430,474,64.48,3.67,4253
+583,Brittany Liepmann,Los Angeles,7,1,1583,235,650,1348,59.7,4.82,3623
+584,Dacey Halworth,Ocú,3,2,1359,992,686,367,91.92,2.31,3311
+585,Marika Redborn,La Villa de los santos,9,1,1030,899,523,131,1.19,4.5,1510
+586,Imelda Gibbett,La Villa de los santos,6,2,2686,787,1430,1899,96.75,0.37,4338
+587,Tracy Christall,Pedasí,2,1,3120,620,3168,2500,12.95,3.26,3774
+588,Roshelle Dahl,"",2,2,3670,2921,3554,749,9.45,4.33,3631
+589,Andie Bloxholm,El Rincon,1,2,3461,1339,3540,2122,30.09,2.09,3914
+590,Anneliese Fautly,Chitré,4,1,551,218,3356,333,48.88,0.95,1012
+591,Sib Sego,El Sesteadero,9,2,2393,894,81,1499,71.93,3.37,839
+592,Ambrosi Mingardi,Ocú,8,1,1061,451,2397,610,95.49,1.16,3932
+593,Waverley Jansa,Ocú,3,2,3741,3686,2038,55,61.58,2.64,4815
+594,Aveline Cantor,Los Angeles,6,2,133,127,981,6,82.24,3.75,1854
+595,Xever Danielkiewicz,La Villa de los santos,10,2,2270,1338,2839,932,16.95,1.36,3340
+596,Nerty Margerison,Paris,3,1,933,746,2038,187,89.04,0.95,3418
+597,Deeanne How to preserve,Los Angeles,8,2,1427,1234,43,193,24.92,0.2,4103
+598,Andres Pockey,La Villa de los santos,8,2,2907,1042,3760,1865,41.12,0.44,411
+599,Norton Livingston,"",1,2,1106,640,1152,466,34.56,2.24,1982
+600,Georgianne Tootin,Parita,1,1,3692,1043,1754,2649,98.91,4.15,1175
+601,Tulley Shave,Parita,7,1,160,103,2968,57,26.07,2.5,200
+602,Vonni Lynam,Santa Maria,8,1,1810,889,2839,921,62.73,0.27,2505
+603,Even Ranahan,La Villa de los santos,8,2,3595,3386,1542,209,41.4,1.82,3707
+604,Colas McKeighen,Pesé,10,1,2564,233,1572,2331,64.04,1.2,1809
+605,Windy Caurah,Los Angeles,10,1,3379,3160,3253,219,38.17,0.8,2930
+606,Izzy Gantzer,Ocú,8,2,1143,938,3098,205,44.02,3.65,4002
+607,Gratia Wile,Pesé,4,1,2835,1497,3762,1338,41.94,1.71,2079
+608,Kippar Dyson,Los Angeles,10,2,224,223,2353,1,83.16,0.33,3742
+609,Portia Targe,Los Angeles,2,2,2374,1280,2776,1094,96.92,1.58,988
+610,Debbie Ferronel,Monagrillo,9,2,2198,1983,2793,215,68.06,2.17,444
+611,Katherina Linacre,El Rincon,8,1,3499,3017,2548,482,71.48,1.43,3206
+612,Izak Janos,Pesé,2,2,3784,2367,1777,1417,22.25,3.78,3812
+613,Gibby Igounet,Ocú,7,2,649,616,894,33,31.1,4.12,4600
+614,Devon Dressel,Potuga,4,1,3735,1480,1131,2255,86.22,1.91,2381
+615,Vickie Copeman,"",2,1,1549,400,1413,1149,13.26,3.06,434
+616,Molli Scrivener,Monagrillo,6,2,2761,628,717,2133,31.81,0.96,3804
+617,Aubrette Vernazza,Chitré,6,1,798,393,631,405,18.71,1.48,1577
+618,Nananne Stait,"",3,2,3583,2793,1175,790,20.3,4.41,4701
+619,Garrott Galbreth,Santa Maria,2,2,2771,1277,2002,1494,7.45,1.32,1303
+620,Emalia Degan,Pedasí,3,2,1223,317,3766,906,78.39,1.01,768
+621,Brent Boyland,Los Angeles,5,2,65,49,1623,16,1.76,4.11,2406
+622,Val Corbitt,La Villa de los santos,9,1,1046,250,3295,796,51.24,2.61,3655
+623,Emlyn Webb,"",6,1,2856,1353,3447,1503,60.35,1.52,701
+624,Keelby Beagles,Las Tablas,1,1,1141,904,3025,237,85.66,3.34,238
+625,Nolana Perring,Paris,7,1,3506,2036,3508,1470,39.42,2.12,2770
+626,Isidro Alvis,Santa Maria,8,1,666,162,2387,504,45.03,3.45,1330
+627,Nerta Dolder,El Rincon,10,1,3355,3315,1304,40,55.42,2.68,4782
+628,Tadeo Kahen,Parita,8,1,3445,1944,3506,1501,54.3,4.9,2074
+629,Rorie Tarbatt,Las Tablas,6,2,1480,1456,1745,24,23.4,1.88,4717
+630,Eugenie Gilhespy,La Arena,10,1,3387,3327,2266,60,61.49,4.29,1507
+631,Elie Delany,La Arena,7,2,1155,805,816,350,54.76,3.86,3571
+632,Kippie Feldmann,Monagrillo,5,1,2263,1246,2045,1017,58.44,1.23,2699
+633,Isahella Aimer,"",5,2,2526,2498,241,28,53.89,1.92,2512
+634,Krispin Thatcham,Monagrillo,6,1,84,60,3308,24,86.1,3.97,4180
+635,Celene Bloodworth,Pedasí,3,2,2618,316,922,2302,90.4,3.14,2849
+636,Dalenna Padula,El Rincon,6,2,3925,661,3479,3264,88.19,1.56,4689
+637,Kim Dorant,El Sesteadero,10,2,2176,787,2491,1389,67.4,4.3,1869
+638,Jard Keeves,Chitré,3,2,3431,1536,3717,1895,6.36,2.11,3
+639,Dylan Torregiani,Chitré,6,1,2176,1408,471,768,60.29,1.28,1668
+640,Kenn Dacombe,"",6,2,2650,1077,2368,1573,84.61,0.07,502
+641,Nancie Sainteau,"",9,2,2732,2478,1934,254,81.13,1.78,4547
+642,Corrie Ivanikov,Los Angeles,10,2,3829,1793,3986,2036,25.79,4.62,3278
+643,Aldus Beynon,El Sesteadero,1,1,783,520,455,263,59.98,2.3,2593
+644,Melanie Wooles,Chitré,3,1,1168,424,3857,744,75.82,0.08,4512
+645,Denise Hawgood,El Sesteadero,7,1,2017,1238,1967,779,33.37,4.02,968
+646,Odelle Lipyeat,Las Tablas,2,2,2690,620,597,2070,70.96,3.36,4839
+647,Minny Ambrogi,Los Angeles,2,1,2207,1617,1953,590,4.8,0.01,2453
+648,Lowell Bartomeu,Ocú,7,1,2763,2305,2910,458,7.46,2.0,1715
+649,Tracie Collin,Las Tablas,5,1,3352,547,924,2805,34.39,2.07,887
+650,Kenton Easter,La Arena,8,2,1940,1620,1929,320,33.61,2.74,2134
+651,Channa Kensall,Paris,2,2,3736,3212,475,524,77.29,2.82,3555
+652,Antons Fennessy,La Arena,10,1,2210,1404,720,806,79.43,1.93,2718
+653,Taryn Murtimer,La Villa de los santos,6,2,3597,2941,3388,656,4.12,3.84,759
+654,Modestine Lovekin,Paris,1,2,1003,734,2490,269,9.43,2.93,3384
+655,Alvie Carlucci,Potuga,9,2,2371,2188,3045,183,93.46,4.92,4238
+656,Dillie Comley,Pedasí,6,2,1233,388,2488,845,4.05,4.7,3938
+657,Ellary Boshell,Los Angeles,7,1,3584,1276,638,2308,5.66,0.47,746
+658,Alley Sibborn,La Arena,3,2,2456,1791,65,665,33.3,3.39,3283
+659,Mirelle Jebb,Chitré,1,1,3220,2055,3263,1165,39.85,1.69,4525
+660,Jo-anne Stroband,Potuga,10,2,3416,1430,673,1986,18.59,3.85,4604
+661,Woodrow Hamlyn,Chitré,4,1,3207,1049,1016,2158,37.46,1.45,3195
+662,Gregoor Briston,Pedasí,6,2,2253,104,1632,2149,85.26,3.41,1219
+663,Willie Strugnell,Pedasí,4,2,3301,385,258,2916,50.59,4.08,3761
+664,Cookie Wingrove,Parita,8,2,1877,1382,3369,495,47.28,2.0,2960
+665,Wyn Nuzzti,Santa Maria,7,1,1291,533,3663,758,36.78,4.09,2633
+666,Carlynn Knott,Paris,2,2,3747,2804,2121,943,25.04,2.46,3674
+667,Rich Yurenin,Potuga,7,1,847,762,1694,85,19.51,2.69,4098
+668,Harmony Rubinovitch,Las Tablas,3,2,2505,438,606,2067,25.24,3.18,246
+669,Korie D'Hooge,El Rincon,2,1,175,2,3969,173,95.99,1.41,1900
+670,Oriana Vevers,Las Tablas,5,1,1766,270,1592,1496,8.51,4.14,1505
+671,Daffy Kuhwald,Ocú,1,2,905,722,2317,183,53.58,0.48,2569
+672,Teressa Ollcott,Ocú,4,2,1143,9,1118,1134,95.83,2.47,861
+673,Jarrad Domelow,La Villa de los santos,10,2,1395,949,318,446,7.75,3.35,3025
+674,Klara Bain,"",9,2,2922,345,1598,2577,22.53,1.88,3791
+675,Glenna Blabey,Potuga,8,2,2957,47,1409,2910,40.1,1.62,3232
+676,Ulrica Brocklehurst,"",4,2,346,43,2179,303,69.92,4.41,105
+677,Caril Lindley,La Villa de los santos,6,1,371,332,3139,39,11.89,0.14,3552
+678,Gerrie Harverson,Pesé,1,2,2620,74,1400,2546,36.66,4.56,182
+679,Misty Lambertz,Potuga,8,2,1766,851,2529,915,32.95,4.53,4638
+680,Rosalia Shenfisch,El Sesteadero,9,1,3575,1675,1257,1900,76.96,0.49,4160
+681,Agustin Marzelle,Parita,2,2,1030,721,129,309,43.32,3.87,1357
+682,Cissy Petrina,Las Tablas,3,1,1964,195,420,1769,80.85,4.37,3757
+683,Abraham Pinhorn,El Rincon,9,1,1911,1333,3267,578,92.14,2.74,4193
+684,Frieda Valentino,Monagrillo,4,2,2867,2311,3105,556,44.59,3.97,3359
+685,Isidoro Timlett,Monagrillo,1,1,489,271,800,218,80.01,2.3,3251
+686,Broddy Casella,El Sesteadero,10,1,3627,3226,3329,401,61.44,3.19,2742
+687,Zaneta Sullens,Ocú,1,1,2354,1053,3081,1301,70.68,0.84,780
+688,Averyl McKelvie,Ocú,6,1,449,192,1682,257,65.0,2.0,307
+689,Kerwin Lifton,Pesé,7,1,1101,566,1744,535,62.17,4.76,1297
+690,Yance Dizlie,Los Angeles,2,2,2580,432,277,2148,2.42,0.95,1283
+691,Elvyn Paling,Pesé,3,1,2413,1664,2078,749,78.41,1.64,2408
+692,Amara Moret,"",10,1,3943,2119,3100,1824,28.05,2.48,308
+693,Inesita Carless,Santa Maria,6,1,842,129,1224,713,24.32,2.65,635
+694,Berkeley Tuttle,Monagrillo,9,1,723,136,1014,587,38.59,2.14,550
+695,Sascha Bellows,La Arena,6,2,705,301,701,404,42.7,1.39,3113
+696,Katleen Westman,Los Angeles,7,2,762,351,8,411,43.71,3.19,4430
+697,Zack Hardwell,Santa Maria,3,2,912,810,973,102,33.33,4.32,1554
+698,Meggi Haydney,Pedasí,5,1,268,148,3003,120,90.59,3.61,3534
+699,Onofredo Heaslip,El Sesteadero,6,2,1818,861,3074,957,54.69,2.15,4048
+700,Swen Flade,El Sesteadero,8,1,1538,1301,3820,237,86.78,1.45,4998
+701,Tandi Dugald,Parita,3,1,209,9,1482,200,41.91,0.34,2352
+702,Rocky Degli Antoni,Ocú,1,2,3711,2425,2334,1286,82.51,2.44,3027
+703,Teodoro Bellon,El Sesteadero,7,1,527,278,1135,249,29.35,3.89,1463
+704,Amery Garaway,Los Angeles,2,1,2521,9,2655,2512,37.03,3.56,202
+705,Arlyn Belf,Paris,2,1,518,307,2745,211,90.77,1.29,282
+706,Avie Pymer,Chitré,6,1,3042,1446,746,1596,44.55,4.32,4118
+707,Druci Radnedge,Parita,6,1,1782,937,417,845,54.82,4.35,1776
+708,Ferd Kelf,Chitré,8,1,442,127,3872,315,61.04,1.55,680
+709,Alvin Brimicombe,"",3,1,2522,1285,407,1237,23.95,2.68,946
+710,Archy Jacobowitz,Santa Maria,9,1,421,207,2706,214,53.92,2.38,2493
+711,Gwennie Deviney,Pedasí,3,1,3818,3499,35,319,68.55,0.66,4133
+712,Haywood Warlow,Chitré,9,2,336,265,593,71,96.17,2.94,1681
+713,York Rulf,Las Tablas,6,1,1486,973,782,513,32.36,3.12,3407
+714,Ilsa Duguid,La Villa de los santos,9,2,3868,3033,1155,835,70.24,2.36,679
+715,Ivette Geary,Pedasí,5,2,3202,1260,1554,1942,34.06,0.09,3331
+716,Blair Ferrandez,El Rincon,10,1,869,346,1803,523,98.59,0.1,632
+717,Lurette Roughsedge,Monagrillo,2,2,2281,1850,1359,431,77.77,1.59,4164
+718,Lily Tremolieres,Pesé,7,2,2406,2033,3938,373,79.99,3.45,4792
+719,Norris Tellenbrok,Monagrillo,4,1,2035,758,270,1277,38.39,4.02,1821
+720,Neddy Rosling,Chitré,1,1,3964,2652,2046,1312,44.35,1.97,2399
+721,Juieta Dahlback,Ocú,8,1,1871,1485,3275,386,69.64,4.15,3705
+722,Federico Wrangle,Chitré,10,1,3787,72,2475,3715,23.86,3.6,4447
+723,Barbee Ambrosetti,El Sesteadero,10,2,1014,900,2128,114,92.54,1.4,1548
+724,Meg Eynald,La Villa de los santos,5,1,666,199,1822,467,48.53,4.59,2053
+725,Putnam Fosten,La Arena,1,1,1579,1068,2264,511,89.02,3.35,3513
+726,Bethanne McLarens,Las Tablas,2,2,1667,1410,1518,257,74.17,2.4,4349
+727,Dylan Loosemore,Paris,4,1,2746,143,3938,2603,36.13,2.65,634
+728,Lenard Heintsch,Pesé,4,2,3986,2776,368,1210,20.39,0.38,1436
+729,Bobby Lippingwell,Los Angeles,5,1,1703,925,3372,778,18.24,1.74,4822
+730,Phyllis Germon,Los Angeles,8,2,3503,3148,545,355,2.95,3.83,1681
+731,Bennie Kinker,Chitré,4,2,335,156,2659,179,48.0,3.3,4443
+732,Zackariah Coller,Pesé,10,1,2295,1239,3122,1056,90.58,1.97,4684
+733,Conney Bladesmith,Chitré,9,1,2917,2171,3765,746,40.94,4.96,4721
+734,Allyn Hucks,Las Tablas,8,2,3103,435,3025,2668,82.82,3.16,2497
+735,Letty Blaes,Monagrillo,8,2,1228,356,363,872,68.85,0.94,3908
+736,Kalie Sexcey,El Sesteadero,9,1,2451,1379,1774,1072,24.01,2.59,3692
+737,Sibbie Pauletti,Paris,4,2,2338,1769,3487,569,67.68,0.26,2992
+738,Galen Soppit,Ocú,2,2,187,110,2938,77,82.81,4.24,398
+739,Georgine Sebastian,Ocú,4,1,2680,849,1591,1831,49.71,2.69,963
+740,Dougie Fulk,Los Angeles,2,2,2491,2148,1974,343,30.2,4.09,3429
+741,Niles Fissenden,Las Tablas,2,1,2296,1701,3043,595,23.86,3.27,3541
+742,Edward Rengger,Los Angeles,5,1,2393,1512,1724,881,87.41,2.34,772
+743,Roana Juszczak,La Arena,4,2,3490,2303,2941,1187,37.38,0.55,2112
+744,Becki Allewell,Chitré,1,2,1092,469,184,623,61.19,3.23,4157
+745,Pippy Staries,Monagrillo,3,1,2477,2361,1119,116,41.16,4.64,2802
+746,Ann-marie Bolton,Pesé,5,2,2263,2169,2998,94,95.52,4.5,3335
+747,Becky Schleicher,Potuga,4,2,3607,137,3094,3470,0.16,1.03,4203
+748,Garrik Ellicombe,Monagrillo,5,2,2032,336,1629,1696,23.34,0.01,2696
+749,Rafaello Verrier,Los Angeles,9,2,1872,619,84,1253,16.45,4.17,789
+750,Cally Royste,El Sesteadero,9,2,3354,451,1222,2903,0.73,4.38,4165
+751,Burgess Biddlecombe,Chitré,6,1,918,475,2357,443,89.39,3.58,933
+752,Reggy Batalini,Los Angeles,7,1,1421,297,2185,1124,9.96,4.97,2530
+753,Sidoney Cowl,Potuga,9,2,760,17,2737,743,69.18,1.37,2562
+754,Izaak Penwright,Las Tablas,9,1,2516,1988,1177,528,20.37,1.77,627
+755,Virge Gedge,Las Tablas,10,1,3852,3106,2568,746,97.94,1.06,913
+756,Joseph Thames,Pedasí,8,2,811,527,2114,284,32.5,4.57,4635
+757,Olly Cocks,Los Angeles,6,2,1098,823,1398,275,68.71,4.75,4713
+758,Patrizio Gaskall,"",6,1,435,72,1579,363,50.41,0.74,458
+759,Maritsa Wisam,Potuga,10,1,3800,1132,210,2668,88.09,3.15,3599
+760,Neile Maus,El Sesteadero,3,2,2849,875,3022,1974,96.71,4.49,2908
+761,Fidelity Slesser,Paris,1,1,2930,299,3326,2631,85.09,0.14,2676
+762,Anthia McAvin,Los Angeles,6,2,585,209,1486,376,50.96,4.75,208
+763,Pebrook Bailess,"",6,1,2373,2113,2790,260,78.74,0.72,3883
+764,Viola Witul,Paris,6,2,2308,2115,990,193,28.94,3.96,1122
+765,Susan Ruddy,Paris,10,1,704,257,1776,447,76.88,1.3,269
+766,Page Camamill,Potuga,2,1,1761,947,740,814,35.75,0.73,1344
+767,Gabi Meth,Monagrillo,5,1,297,243,1000,54,69.41,4.91,2735
+768,Selia Jendrach,El Sesteadero,4,1,2261,1231,2755,1030,30.75,4.01,2149
+769,Heda McFadzean,Paris,5,1,1283,11,2945,1272,18.81,3.08,2600
+770,Natassia Butt,La Villa de los santos,5,2,789,103,426,686,47.28,1.84,3444
+771,Sal Wyleman,La Arena,5,2,3873,2820,1972,1053,22.24,3.59,1539
+772,Wynnie Ravenshear,Monagrillo,9,1,530,526,2825,4,68.47,1.32,3734
+773,Hestia Lambie,Parita,4,2,2876,1545,1236,1331,51.08,1.75,2107
+774,Adam Rugiero,"",1,1,3389,2692,2648,697,48.95,1.86,487
+775,Marylynne Puddle,Potuga,4,1,606,292,3735,314,98.79,3.27,3444
+776,Hedvige Tonry,Pesé,3,2,1786,1722,2582,64,3.24,0.64,4092
+777,Barn Ivashintsov,La Arena,7,1,1676,622,2862,1054,75.53,3.42,2743
+778,Corabel Cobden,Paris,1,2,1881,1525,1244,356,39.37,2.44,1464
+779,Orran Dowall,Monagrillo,8,2,3651,8,937,3643,86.69,4.39,2812
+780,Trescha Lacase,La Arena,1,1,739,411,3265,328,40.33,2.83,1368
+781,Karina Alessandrelli,Ocú,7,2,491,295,2673,196,0.53,2.47,2018
+782,Haslett Dowry,"",9,1,1033,351,139,682,65.06,1.01,1706
+783,Stearne Clohisey,Potuga,2,1,3249,1096,3214,2153,2.64,4.32,851
+784,Tate Fransson,La Arena,1,1,3328,1903,3806,1425,45.91,4.96,2170
+785,Janie Frogley,Parita,9,2,1179,760,3842,419,18.71,0.93,280
+786,Corrianne Havik,Monagrillo,3,2,527,515,3142,12,15.55,0.87,2434
+787,Madelin Lammie,El Sesteadero,3,1,2848,73,1553,2775,73.69,3.88,3217
+788,Harold Smardon,Pedasí,4,2,3059,2277,956,782,50.14,3.68,1738
+789,Joaquin Pakes,Los Angeles,1,2,2256,1726,2468,530,2.17,3.4,3333
+790,Leanor Fawdry,Parita,9,1,603,227,2997,376,55.94,0.4,4054
+791,Libbey Etherson,Santa Maria,5,1,273,214,2696,59,18.59,3.9,4119
+792,Bernie Chaudret,Ocú,1,1,1165,273,3491,892,7.7,2.03,2775
+793,Car Pottberry,Los Angeles,1,1,1098,258,562,840,58.82,1.92,3987
+794,Alvy Cocklie,Las Tablas,9,1,2724,44,2411,2680,2.99,1.53,53
+795,Abby Andreia,Pesé,2,1,3727,3424,1131,303,37.31,1.96,1297
+796,Ralph Cantillon,Pedasí,1,1,3744,1991,2808,1753,52.07,3.98,1572
+797,Anabella Todeo,Ocú,4,2,2623,1794,1605,829,47.46,2.46,4800
+798,Penny Phettiplace,Monagrillo,10,1,393,63,3140,330,96.22,2.5,2273
+799,Lowell Fierman,Santa Maria,5,2,1016,427,3903,589,27.15,3.2,4451
+800,Duff Khoter,Los Angeles,4,2,573,23,1961,550,33.55,3.34,3350
+801,Everett Philipard,La Villa de los santos,7,1,199,100,1956,99,37.54,1.52,2627
+802,Alana Dericut,Chitré,8,1,2754,1868,1280,886,97.69,3.8,1764
+803,Normie Supple,Pesé,2,1,1326,541,3596,785,75.17,4.36,2876
+804,Kayle Challoner,Pesé,3,2,2420,1995,1946,425,20.28,4.09,4732
+805,Larine Edmand,Ocú,9,1,788,397,3857,391,15.47,0.11,2693
+806,Katlin Emanson,Ocú,4,1,1761,294,2651,1467,12.54,1.94,1064
+807,Giavani MacSkeaghan,Santa Maria,2,1,3406,425,1823,2981,43.83,0.69,2733
+808,Jenny Glidden,Monagrillo,8,1,2237,1195,816,1042,85.68,4.42,370
+809,Loretta Benoey,"",9,1,327,147,2092,180,87.21,0.86,3622
+810,Leone Wreford,Los Angeles,10,1,2438,69,3365,2369,65.89,3.48,2171
+811,Jaquenette Simeone,Paris,3,2,3977,872,3767,3105,11.2,4.77,3574
+812,Gerri Siemens,"",7,1,1251,1020,3696,231,80.63,1.36,441
+813,Bibbie Budget,La Arena,5,2,961,88,1520,873,47.12,4.84,2286
+814,Roxi Driver,La Arena,1,2,767,750,1392,17,11.65,0.07,1491
+815,Cody Castan,La Villa de los santos,4,2,2270,1536,1395,734,58.22,0.6,509
+816,Milt Raubheim,Pedasí,9,1,1753,165,3417,1588,59.3,4.94,1903
+817,Alfonse Piwall,Pesé,4,2,33,9,2528,24,91.42,3.54,1701
+818,Loni Leonarde,Paris,8,1,1166,1125,3670,41,23.84,3.86,2549
+819,Arlie Yarrington,Los Angeles,5,2,3881,2649,1743,1232,83.13,1.85,3179
+820,Ada Matovic,Pesé,7,1,2905,999,1034,1906,65.44,0.94,4838
+821,Taylor Hitter,Santa Maria,10,2,782,716,3472,66,20.83,3.36,3547
+822,Payton Christopherson,Parita,5,1,3842,1393,3551,2449,6.11,0.83,3801
+823,Dalt Tredger,Paris,4,1,1805,912,979,893,23.67,4.1,340
+824,Swen Tommis,Santa Maria,10,1,1095,561,1614,534,8.31,4.53,3031
+825,Amalea Bathowe,Los Angeles,7,1,2106,483,277,1623,40.82,4.52,1150
+826,Zilvia Eburah,Potuga,9,1,1352,920,750,432,71.79,2.69,3873
+827,Gelya Loveday,Los Angeles,7,1,2233,387,1368,1846,61.66,3.01,3788
+828,Kristel Elby,Las Tablas,1,2,611,6,1002,605,95.96,4.67,2071
+829,Adelaida Matityahu,"",5,1,1517,1237,3015,280,44.43,4.29,3039
+830,Maddie Eyckelbeck,Parita,7,1,82,14,3450,68,91.81,4.34,812
+831,Ronna Delwater,La Arena,5,1,2877,1950,1100,927,63.52,1.36,2523
+832,Gian Sarge,Ocú,6,2,3183,447,697,2736,43.04,1.14,4620
+833,Alayne Shovlin,Pedasí,9,2,1456,508,3066,948,33.98,2.23,4084
+834,Lynda Camacho,"",5,1,2817,565,1522,2252,42.74,1.54,2923
+835,Tiffany Stainfield,"",5,2,2720,1356,2170,1364,85.72,2.88,2100
+836,Louise Peetermann,Pesé,3,2,2305,690,3748,1615,76.66,3.94,221
+837,Hughie Aldus,El Sesteadero,5,2,3537,1093,502,2444,2.75,0.2,1564
+838,Gene Grellier,"",10,1,609,407,644,202,44.76,4.04,4232
+839,Franky Leuchars,Paris,10,2,2038,1998,3149,40,63.39,2.75,4598
+840,Joletta Farrant,La Villa de los santos,10,2,3993,1548,852,2445,91.44,4.78,512
+841,Adria Kail,Pedasí,9,2,2647,550,656,2097,6.75,1.23,115
+842,Ibbie Abethell,"",10,1,990,843,3012,147,27.24,4.64,1317
+843,Carmine Kleisel,Los Angeles,6,1,407,236,2165,171,53.6,1.72,3202
+844,Ciel Spurret,El Rincon,5,2,3661,3374,1776,287,58.15,3.79,1942
+845,Vere Holberry,Pedasí,10,1,3265,2261,246,1004,38.17,4.86,3246
+846,Donaugh Whitby,Parita,3,2,1628,194,2606,1434,67.99,0.27,3615
+847,Ulric Brodie,Santa Maria,4,2,1076,538,1506,538,15.56,4.51,2478
+848,Ilsa Tocque,El Rincon,5,1,2881,1650,2927,1231,19.21,2.5,1454
+849,Zed McReynolds,El Sesteadero,1,2,1716,1268,1970,448,82.12,0.45,1952
+850,Fidelio Blade,El Rincon,4,1,3954,2175,51,1779,18.97,2.41,4229
+851,Pepita Corrington,Las Tablas,10,2,3392,1682,2315,1710,82.72,3.19,622
+852,Catlee Cozins,Ocú,9,2,2941,2456,2106,485,20.5,4.53,1111
+853,Tades Tieman,Chitré,8,1,2242,1690,1374,552,65.93,2.86,2222
+854,Estevan Manntschke,Chitré,10,1,80,43,712,37,39.66,3.32,4038
+855,Doralynne Garrod,Los Angeles,9,2,452,447,830,5,28.69,3.22,3764
+856,Janie Doel,Parita,7,1,3675,2990,3995,685,91.44,2.89,876
+857,Fredrika Spearing,Chitré,6,1,3322,2999,962,323,66.51,3.89,1389
+858,Lyon Dangerfield,Parita,2,1,2123,934,3095,1189,61.78,2.47,3738
+859,Jaquith Ventura,El Rincon,9,1,1360,241,2502,1119,72.9,0.5,3559
+860,Eadith Le Barr,El Sesteadero,10,2,1864,1496,1650,368,14.08,4.66,347
+861,Marcille Piatek,Pesé,2,2,1157,732,3171,425,77.11,4.78,3247
+862,Bobby Dran,Potuga,8,1,817,139,1254,678,43.79,1.54,3582
+863,Charlena Wimlet,Las Tablas,6,2,1770,1559,667,211,68.59,1.85,1852
+864,Thorpe McCreath,La Arena,3,1,2636,2237,3109,399,68.09,1.0,3223
+865,Lita Fosdyke,El Sesteadero,1,1,1029,876,3417,153,42.19,3.35,2815
+866,Leigha Frantzen,Las Tablas,4,1,824,78,386,746,92.55,3.65,1203
+867,Tilly Burdon,Pesé,8,2,525,23,2164,502,1.49,2.9,2599
+868,Drusy Rubroe,Las Tablas,5,2,2223,777,1863,1446,54.76,1.56,3936
+869,Nedi Crommett,Pesé,1,1,3684,866,1633,2818,3.58,0.01,2422
+870,Rowena Critchell,El Rincon,10,2,284,46,2013,238,4.81,0.21,3886
+871,Leland Rosberg,Pesé,5,1,1512,872,1410,640,56.23,2.73,3236
+872,Melloney Hynam,Chitré,5,1,959,506,1027,453,49.98,2.13,2489
+873,Dell Pretsel,Santa Maria,1,1,1101,437,3415,664,82.8,4.19,1984
+874,Johnathan Hamblett,Pesé,2,1,1937,1758,1180,179,10.95,1.19,4049
+875,Dodi Punton,El Sesteadero,5,1,60,55,2055,5,39.36,3.52,485
+876,Ronnie Girardi,Monagrillo,10,1,1486,1210,3710,276,59.58,1.39,502
+877,Koral Wallwood,Ocú,6,1,176,154,582,22,70.92,2.32,3015
+878,Ernie Cicerone,La Arena,10,2,2999,2118,3534,881,3.66,4.13,4739
+879,Jodie Greschke,"",10,2,3679,1357,2255,2322,25.09,4.58,708
+880,Carola Phillot,Monagrillo,10,1,1028,810,3053,218,13.85,2.26,1116
+881,Edythe Mutimer,Los Angeles,10,1,1917,1653,152,264,6.77,1.67,1830
+882,Selle Joblin,Chitré,8,1,2539,322,3650,2217,77.22,4.22,335
+883,Gelya Morison,Monagrillo,10,1,1501,1380,86,121,80.84,0.62,3350
+884,Anna-diane Swetmore,El Sesteadero,6,1,1377,497,3808,880,28.85,1.56,3675
+885,Wainwright Gonzalo,El Rincon,7,2,1802,211,2467,1591,32.2,4.81,340
+886,Kele Emmert,Potuga,3,2,1724,826,1684,898,12.13,4.9,4302
+887,Queenie Hassekl,Pedasí,3,1,28,10,609,18,44.82,4.13,2682
+888,Ede Denley,Ocú,4,1,3251,509,17,2742,29.89,2.7,4703
+889,Adriena Pinock,"",6,1,1834,1826,708,8,10.23,0.23,3630
+890,Pincus Zuanelli,Los Angeles,5,2,1936,526,1237,1410,28.89,2.84,1375
+891,Barr Kiggel,Los Angeles,10,2,3595,2875,3470,720,36.94,2.24,1619
+892,Brigida Deighton,Las Tablas,1,2,2278,297,2085,1981,42.69,4.66,264
+893,Delinda Martusov,Pedasí,6,2,2275,1606,313,669,39.86,0.35,435
+894,Fabian Hanshawe,El Rincon,3,1,2587,1182,950,1405,82.47,3.13,3013
+895,Ailina Ashby,Chitré,2,1,1515,310,979,1205,21.92,4.89,4922
+896,Dael Timmons,El Sesteadero,9,1,1148,894,2076,254,9.46,1.16,1453
+897,Gracia Laverenz,La Villa de los santos,3,2,3092,2383,1576,709,73.81,2.04,1824
+898,Rahal Laite,Santa Maria,10,1,3748,3415,898,333,16.34,4.66,141
+899,Roseanna Mournian,La Arena,9,1,760,548,1298,212,99.35,2.89,1852
+900,Bria Lenton,Santa Maria,8,1,1805,1010,2477,795,50.14,1.67,3969
+901,Carrol Petru,Parita,1,2,94,74,841,20,88.03,2.56,275
+902,Pennie Semble,Pedasí,4,1,3732,1377,3044,2355,91.12,4.79,2138
+903,Catherina Gaydon,Parita,2,1,3744,1379,1241,2365,44.14,1.92,1494
+904,Woodman Jiles,Chitré,9,1,2348,1409,536,939,4.58,2.54,1228
+905,Giorgio Rexworthy,Chitré,7,1,2388,1539,600,849,72.46,1.07,409
+906,Thom Matovic,El Sesteadero,7,1,2149,1722,1249,427,36.03,2.83,851
+907,Mabelle Hawkeridge,Los Angeles,7,1,1949,1585,423,364,30.08,1.79,1990
+908,Gavra Broz,"",10,2,1086,794,3509,292,6.32,4.82,4140
+909,Jeannie Vickers,El Rincon,7,1,1840,537,3655,1303,85.04,3.43,827
+910,Ethelbert Older,Potuga,10,2,3374,1552,530,1822,92.51,3.89,4262
+911,Broderic McMeanma,Santa Maria,5,1,2837,1095,660,1742,52.08,2.91,4324
+912,Ari Albrighton,Ocú,2,2,3525,963,3106,2562,65.52,0.75,3026
+913,Madelena Rehm,El Sesteadero,6,2,1719,194,170,1525,24.02,2.95,3847
+914,Torre Clipsham,Potuga,3,2,1638,43,934,1595,7.31,0.45,120
+915,Brigitte Comizzoli,Parita,10,1,453,329,1196,124,9.63,0.2,3384
+916,Reina Corden,Ocú,8,2,2024,952,3453,1072,13.27,3.18,4534
+917,Aubert Sauven,Parita,10,1,626,276,3180,350,26.48,4.83,1662
+918,Diana Dewane,Los Angeles,8,1,11,11,2409,0,5.17,1.32,2564
+919,Levin Lillistone,Chitré,1,1,2724,148,2835,2576,77.8,4.16,4681
+920,Mitch Erik,Paris,6,2,1409,98,1913,1311,3.43,1.43,2013
+921,Serena Maton,Chitré,8,2,340,70,2930,270,17.37,3.44,1333
+922,Rawley Showte,Chitré,6,2,3173,310,1933,2863,35.09,0.89,4184
+923,Adelaide Guiduzzi,Pesé,8,2,1440,1250,3111,190,36.66,4.32,3183
+924,Lacy Leamon,El Sesteadero,9,1,352,324,2425,28,23.0,3.2,2831
+925,Cordelie Rodolico,La Villa de los santos,3,2,3873,3658,3762,215,4.73,2.18,1057
+926,Bank McKillop,Monagrillo,5,2,517,464,1834,53,39.17,1.54,1924
+927,Benedikta Brinded,El Rincon,2,1,3252,2227,1389,1025,51.03,2.92,4156
+928,Anthea Bernardon,Pedasí,8,2,1844,1001,3896,843,64.8,4.41,4760
+929,Sile Llop,Potuga,10,2,2135,655,801,1480,80.68,4.55,1590
+930,Koral Brockway,Pedasí,8,1,1675,798,3393,877,49.55,0.99,1788
+931,Ortensia Dominelli,Parita,10,1,2337,278,980,2059,84.12,3.4,3952
+932,Stanford Tinkler,Ocú,4,1,3716,3372,2976,344,10.47,3.31,4407
+933,Kelley Pechard,Parita,2,2,3360,412,3952,2948,62.22,3.89,3146
+934,Deirdre Caltera,La Arena,2,1,2361,309,2833,2052,70.11,0.61,1846
+935,Mellisent Bernardinelli,Santa Maria,3,2,1047,667,3783,380,9.83,3.72,1713
+936,Vernon Beamond,El Rincon,7,1,2306,1171,2626,1135,21.25,1.92,2204
+937,Cindie Chastelain,Los Angeles,5,1,465,279,3141,186,90.96,4.8,3356
+938,Onofredo Binford,Ocú,7,1,2587,1843,561,744,75.83,4.31,3795
+939,Abramo Plaide,"",8,1,390,178,3079,212,19.0,3.65,4959
+940,Nani Crambie,"",5,2,331,256,370,75,23.09,2.64,4873
+941,Maison Tysack,"",5,2,1248,73,3837,1175,46.53,0.05,3933
+942,Monty Brunel,Los Angeles,9,1,2205,292,3863,1913,27.25,1.05,1423
+943,Marcile Conrad,"",2,1,3519,1415,557,2104,97.93,1.76,505
+944,Livy Salvadore,Monagrillo,6,1,2629,1671,771,958,19.75,0.79,3776
+945,Zak Merwood,Las Tablas,6,1,219,112,2805,107,22.84,4.95,1419
+946,Tonya Easdon,Pedasí,8,2,2252,1272,941,980,35.04,4.57,601
+947,Lexie Langer,El Rincon,9,2,2743,2346,3010,397,51.64,0.55,939
+948,Martie Grubey,La Villa de los santos,4,1,674,664,3635,10,1.49,0.17,3178
+949,Hiram Ingry,El Rincon,10,2,3040,1075,1296,1965,17.55,2.3,3711
+950,Karel Wallsam,"",3,2,2264,1965,2416,299,98.01,3.77,267
+951,Kacie McGorman,El Rincon,4,1,3200,2068,2162,1132,88.13,0.82,4046
+952,Delly Gaddes,Santa Maria,2,1,2396,852,3717,1544,49.4,0.38,687
+953,Wes Hanwell,La Villa de los santos,5,1,3372,782,3257,2590,97.71,1.56,825
+954,Elly Grigolli,La Villa de los santos,8,1,993,764,439,229,70.93,1.08,310
+955,Keith Bellhanger,Chitré,5,1,3191,315,2231,2876,1.58,0.58,2167
+956,Hermy Grisbrook,Parita,1,1,2963,472,2768,2491,97.15,0.57,4039
+957,Liv Cossar,Chitré,7,1,1191,127,707,1064,34.81,4.5,3539
+958,Lydon Malham,Santa Maria,5,1,1675,1236,763,439,55.49,0.45,4255
+959,Zorana Lowensohn,Chitré,1,2,1880,400,2137,1480,94.96,4.71,2760
+960,Marcelline Corsor,La Villa de los santos,6,1,3305,2082,3994,1223,24.82,4.39,592
+961,Lenee Gorusso,La Villa de los santos,9,1,1603,764,1223,839,15.45,0.34,3178
+962,Gianni Riddiough,Los Angeles,5,1,401,250,455,151,19.19,1.18,2963
+963,Giraud Fourman,La Arena,7,2,472,83,2781,389,48.15,4.5,1565
+964,Merilee Pakes,Chitré,8,2,2154,467,3937,1687,43.6,2.61,4042
+965,Edouard Whitwood,Santa Maria,7,2,1988,752,2151,1236,42.36,2.92,2210
+966,Rosamund Peckham,Pedasí,6,1,121,120,3235,1,11.35,1.94,3451
+967,Emmanuel Franses,La Villa de los santos,6,2,3658,305,497,3353,67.15,2.91,2919
+968,Aloise Anersen,Los Angeles,3,2,1430,236,1178,1194,45.86,1.79,2324
+969,Tanya Vannoort,Pesé,5,1,3645,1722,1640,1923,67.9,3.16,2037
+970,Seymour Cammis,Los Angeles,10,2,36,9,2983,27,70.87,1.16,872
+971,Camila Gittose,Ocú,3,1,2093,392,3458,1701,75.07,0.71,2955
+972,Brook Jossum,Santa Maria,8,1,2554,2041,2660,513,96.32,1.23,3262
+973,Rafaellle Vaines,Chitré,5,1,1694,723,1462,971,63.12,0.93,1114
+974,Jae Eddowis,Santa Maria,5,1,2174,1277,1473,897,83.94,3.03,1243
+975,Wade Ortler,Las Tablas,4,1,1038,715,1245,323,86.75,3.72,3979
+976,Bradney Sydes,El Sesteadero,1,1,833,491,2209,342,6.53,1.97,4207
+977,Katlin Petruskevich,El Rincon,9,2,3001,623,367,2378,41.19,1.32,2267
+978,Yelena Cristoforetti,"",6,1,1298,633,650,665,10.42,1.41,2972
+979,Noelle Stoves,Chitré,7,1,1636,782,1695,854,48.13,2.7,1252
+980,Sabina Sargison,Parita,10,2,452,184,3804,268,34.11,4.43,3676
+981,Tamara Farady,Pedasí,10,2,342,308,3920,34,72.79,4.04,1144
+982,Magnum Quiney,Pesé,5,1,1667,124,586,1543,16.73,0.92,2925
+983,Charlotte Tillman,Pesé,10,1,3346,2897,783,449,82.49,1.0,3558
+984,Darsey Northeast,El Sesteadero,6,1,1058,252,2892,806,25.86,0.77,646
+985,Suzanna Chadbourne,Ocú,2,1,2339,1969,2885,370,5.19,0.65,3049
+986,Moritz Meace,Los Angeles,10,2,3852,263,48,3589,8.88,0.5,4830
+987,Blair Renshall,El Rincon,1,2,3505,1128,2176,2377,95.88,0.61,2896
+988,Esta Dauncey,Chitré,4,2,346,72,1906,274,2.28,2.01,1861
+989,Drud Marqyes,Paris,9,1,982,841,1525,141,48.87,1.85,125
+990,Wally Leithgoe,La Villa de los santos,2,2,3012,1001,2165,2011,5.19,1.56,2680
+991,Andie Pimbley,Chitré,4,1,844,561,628,283,45.62,3.36,2166
+992,Bogey Pharo,Monagrillo,5,2,2833,1045,2936,1788,65.2,2.69,3308
+993,Berty Ladbrook,Potuga,8,2,2659,257,1777,2402,41.17,1.52,492
+994,Lani Sarsfield,El Rincon,3,1,781,368,3131,413,25.0,1.37,1087
+995,Mychal Petofi,Monagrillo,1,1,1955,316,1141,1639,62.08,2.82,2072
+996,Wilona Leacock,Santa Maria,1,2,2536,376,3569,2160,74.27,0.11,3446
+997,Sharron Eastlake,Potuga,10,1,309,106,2598,203,36.45,2.52,2672
+998,Alexine O'Doherty,Chitré,1,1,2638,2103,2457,535,26.93,2.02,4772
+999,Wakefield Fermoy,La Villa de los santos,10,2,2609,387,1173,2222,57.96,0.22,3901
+1000,Tess Naldrett,Santa Maria,7,2,702,121,3000,581,18.5,2.83,3356

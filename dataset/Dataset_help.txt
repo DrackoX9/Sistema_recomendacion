@@ -3,9 +3,19 @@ El data set contiene los parametros que se necesitaran para que el sistema de re
 Descripcion de variables.
 id_trabajador:(entero) Es un identificador unico de tipo entero para diferencias a cada trabajador.
 nombre_completo:(string) Nombre y apellido del trabajador.
-direccion:(string) Direccion donde el trabajador reside o se encuentre su local. Formato (Provincia/Distrito/corregimiento) 
-area_de_trabajo:(string) se refiere a la categoria general del trabajador, ejem: Tecnología, Mecánica, Soldadura, construccion, etc. 
-tipo_educacion:(string) Referente a como obtuvo su conocimiento, puede ser profesional o autodidacta.
+direccion:(string) Direccion donde el trabajador reside o se encuentre su local.
+area_de_trabajo:(entero) se refiere a la categoria general del trabajador.
+                1 = Soldadura.
+                2 = Mecánica.
+                3 = Albañilería.
+                4 = Diseño Grafico.
+                5 = Programación.
+                6 = Electronica.
+                7 = Plomeria.
+                8 = Entretenimiento.
+                9 = 
+                10 = 
+tipo_educacion:(entero) Referente a como obtuvo su conocimiento, puede ser 1 = profesional o 2 = autodidacta.
 trabajos_aceptados:(entero) total de todos los trabajos aceptados hasta la fecha, incluidos los que han sido cancelados despues de aceptarlos.
 tabajos_terminados:(entero) total de trabajos confirmados como terminados.
 trabajos_rechazados:(entero) total de trabajos que han sido propuestos directamente al trabajador pero ha rechazado.
@@ -13,4 +23,3 @@ trabajos_en_curso:(entero) total de trabajos que aun no han sido confirmados com
 indice_productividad:(flotante) relacion entre el total de trabajos terminas y la cantidad de trabajos terminados dentro del rango de tiempo establecido en el contrato.
 calificacion_general:(flotante) ponderacion total de la calificacion obtenida de la evaluacion de todos los clientes que lo han contratado. rango entre 0 a 5
 seguidores:(entero) cantidad de clientes que siguen a este trabajador.
-especialidades:(string) especialidades que domina el trabajador dentro del area de trabajo, pueden ser mas de 1 y cada una es separada por comas
